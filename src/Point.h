@@ -14,6 +14,8 @@ public:
 	Point();
 	Point(int x, int y);
 	bool operator == (const Point& point);
+	int operator - (const Point& point);
+	Point operator << (const Point& point);
 	void set(int x, int y);
 };
 

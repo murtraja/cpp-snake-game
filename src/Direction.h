@@ -7,7 +7,7 @@
 
 #ifndef DIRECTION_H_
 #define DIRECTION_H_
-enum class Direction {up, left, right, down, previous, quit};
+enum class Direction {up, left, right, down};
 
 
 

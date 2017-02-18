@@ -11,23 +11,13 @@
 #include "Direction.h"
 #include "UserInterface.h"
 #include "DebugPrinter.h"
+#include "UserInput.h"
 #include <time.h>
-#include <thread>
 using namespace std;
 
 
 int main() {
-	//cout << "!!!Hello World!!!" << endl<<__cplusplus<<endl; // prints !!!Hello World!!!
-	DebugPrinter dPrinter;
-	GameEngine engine(dPrinter);
-	UserInterface ui(engine.getXMax(), engine.getYMax(), dPrinter);
-	while(true) {
-		ui.paint(engine.getSnakePosition(), engine.getFoodPosition());
-		Direction direction = ui.getUserInput();
-		if(direction == Direction::quit)
-			break;
-		engine.update(direction);
-	}
-
+	GameEngine engine;
+	engine.run();
 	return 0;
 }

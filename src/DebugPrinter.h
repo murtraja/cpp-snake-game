@@ -11,6 +11,8 @@
 #include <fstream>
 #include "Direction.h"
 #include "Point.h"
+#include "UserInput.h"
+#include <vector>
 using namespace std;
 class DebugPrinter {
 	string fileName = "debugOutput.txt";
@@ -22,7 +24,9 @@ public:
 	DebugPrinter& operator<<(string str);
 	DebugPrinter& operator<<(int num);
 	DebugPrinter& operator<<(Direction direction);
+	DebugPrinter& operator<<(Input input);
 	DebugPrinter& operator<<(Point point);
+	DebugPrinter& operator<<(vector<Point>);
 };
 
 #endif /* DEBUGPRINTER_H_ */

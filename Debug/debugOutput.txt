@@ -1,2208 +1,3465 @@
 -----start-----
-now painting @(39, 11) for snake and (58, 0) for food
-Snake @ (39, 10) going UP
-Food  @ (58, 0)
+inside constructor of GameEngine!
+Game initialized with the state:
+Snake @ (39, 11)(39, 11) going LEFT
+Food  @ (5, 10)
 Score @ 0
-
-now painting @(39, 10) for snake and (58, 0) for food
-Snake @ (39, 9) going UP
-Food  @ (58, 0)
+now painting @(39, 11)(39, 11) for snake and (5, 10) for food
+User input received: no input received
+Snake @ (38, 11)(38, 11) going LEFT
+Food  @ (5, 10)
 Score @ 0
-
-now painting @(39, 9) for snake and (58, 0) for food
-Snake @ (40, 9) going RIGHT
-Food  @ (58, 0)
+now painting @(38, 11)(38, 11) for snake and (5, 10) for food
+User input received: no input received
+Snake @ (37, 11)(37, 11) going LEFT
+Food  @ (5, 10)
 Score @ 0
-
-now painting @(40, 9) for snake and (58, 0) for food
-Snake @ (41, 9) going RIGHT
-Food  @ (58, 0)
+now painting @(37, 11)(37, 11) for snake and (5, 10) for food
+User input received: Go UP
+Snake @ (37, 10)(37, 10) going UP
+Food  @ (5, 10)
 Score @ 0
-
-now painting @(41, 9) for snake and (58, 0) for food
-Snake @ (42, 9) going RIGHT
-Food  @ (58, 0)
+now painting @(37, 10)(37, 10) for snake and (5, 10) for food
+User input received: Go LEFT
+Snake @ (36, 10)(36, 10) going LEFT
+Food  @ (5, 10)
 Score @ 0
-
-now painting @(42, 9) for snake and (58, 0) for food
-Snake @ (43, 9) going RIGHT
-Food  @ (58, 0)
+now painting @(36, 10)(36, 10) for snake and (5, 10) for food
+User input received: Go LEFT
+Snake @ (35, 10)(35, 10) going LEFT
+Food  @ (5, 10)
 Score @ 0
-
-now painting @(43, 9) for snake and (58, 0) for food
-Snake @ (44, 9) going RIGHT
-Food  @ (58, 0)
+now painting @(35, 10)(35, 10) for snake and (5, 10) for food
+User input received: Go LEFT
+Snake @ (34, 10)(34, 10) going LEFT
+Food  @ (5, 10)
 Score @ 0
-
-now painting @(44, 9) for snake and (58, 0) for food
-Snake @ (45, 9) going RIGHT
-Food  @ (58, 0)
+now painting @(34, 10)(34, 10) for snake and (5, 10) for food
+User input received: Go LEFT
+Snake @ (33, 10)(33, 10) going LEFT
+Food  @ (5, 10)
 Score @ 0
-
-now painting @(45, 9) for snake and (58, 0) for food
-Snake @ (46, 9) going RIGHT
-Food  @ (58, 0)
+now painting @(33, 10)(33, 10) for snake and (5, 10) for food
+User input received: Go LEFT
+Snake @ (32, 10)(32, 10) going LEFT
+Food  @ (5, 10)
 Score @ 0
-
-now painting @(46, 9) for snake and (58, 0) for food
-Snake @ (47, 9) going RIGHT
-Food  @ (58, 0)
+now painting @(32, 10)(32, 10) for snake and (5, 10) for food
+User input received: Go LEFT
+Snake @ (31, 10)(31, 10) going LEFT
+Food  @ (5, 10)
 Score @ 0
-
-now painting @(47, 9) for snake and (58, 0) for food
-Snake @ (48, 9) going RIGHT
-Food  @ (58, 0)
+now painting @(31, 10)(31, 10) for snake and (5, 10) for food
+User input received: Go LEFT
+Snake @ (30, 10)(30, 10) going LEFT
+Food  @ (5, 10)
 Score @ 0
-
-now painting @(48, 9) for snake and (58, 0) for food
-Snake @ (49, 9) going RIGHT
-Food  @ (58, 0)
+now painting @(30, 10)(30, 10) for snake and (5, 10) for food
+User input received: Go LEFT
+Snake @ (29, 10)(29, 10) going LEFT
+Food  @ (5, 10)
 Score @ 0
-
-now painting @(49, 9) for snake and (58, 0) for food
-Snake @ (50, 9) going RIGHT
-Food  @ (58, 0)
+now painting @(29, 10)(29, 10) for snake and (5, 10) for food
+User input received: Go LEFT
+Snake @ (28, 10)(28, 10) going LEFT
+Food  @ (5, 10)
 Score @ 0
-
-now painting @(50, 9) for snake and (58, 0) for food
-Snake @ (51, 9) going RIGHT
-Food  @ (58, 0)
+now painting @(28, 10)(28, 10) for snake and (5, 10) for food
+User input received: Go LEFT
+Snake @ (27, 10)(27, 10) going LEFT
+Food  @ (5, 10)
 Score @ 0
-
-now painting @(51, 9) for snake and (58, 0) for food
-Snake @ (52, 9) going RIGHT
-Food  @ (58, 0)
+now painting @(27, 10)(27, 10) for snake and (5, 10) for food
+User input received: Go LEFT
+Snake @ (26, 10)(26, 10) going LEFT
+Food  @ (5, 10)
 Score @ 0
-
-now painting @(52, 9) for snake and (58, 0) for food
-Snake @ (53, 9) going RIGHT
-Food  @ (58, 0)
+now painting @(26, 10)(26, 10) for snake and (5, 10) for food
+User input received: Go LEFT
+Snake @ (25, 10)(25, 10) going LEFT
+Food  @ (5, 10)
 Score @ 0
-
-now painting @(53, 9) for snake and (58, 0) for food
-Snake @ (54, 9) going RIGHT
-Food  @ (58, 0)
+now painting @(25, 10)(25, 10) for snake and (5, 10) for food
+User input received: Go LEFT
+Snake @ (24, 10)(24, 10) going LEFT
+Food  @ (5, 10)
 Score @ 0
-
-now painting @(54, 9) for snake and (58, 0) for food
-Snake @ (55, 9) going RIGHT
-Food  @ (58, 0)
+now painting @(24, 10)(24, 10) for snake and (5, 10) for food
+User input received: Go LEFT
+Snake @ (23, 10)(23, 10) going LEFT
+Food  @ (5, 10)
 Score @ 0
-
-now painting @(55, 9) for snake and (58, 0) for food
-Snake @ (56, 9) going RIGHT
-Food  @ (58, 0)
+now painting @(23, 10)(23, 10) for snake and (5, 10) for food
+User input received: Go LEFT
+Snake @ (22, 10)(22, 10) going LEFT
+Food  @ (5, 10)
 Score @ 0
-
-now painting @(56, 9) for snake and (58, 0) for food
-Snake @ (57, 9) going RIGHT
-Food  @ (58, 0)
+now painting @(22, 10)(22, 10) for snake and (5, 10) for food
+User input received: Go LEFT
+Snake @ (21, 10)(21, 10) going LEFT
+Food  @ (5, 10)
 Score @ 0
-
-now painting @(57, 9) for snake and (58, 0) for food
-Snake @ (58, 9) going RIGHT
-Food  @ (58, 0)
+now painting @(21, 10)(21, 10) for snake and (5, 10) for food
+User input received: Go LEFT
+Snake @ (20, 10)(20, 10) going LEFT
+Food  @ (5, 10)
 Score @ 0
-
-now painting @(58, 9) for snake and (58, 0) for food
-Snake @ (59, 9) going RIGHT
-Food  @ (58, 0)
+now painting @(20, 10)(20, 10) for snake and (5, 10) for food
+User input received: Go LEFT
+Snake @ (19, 10)(19, 10) going LEFT
+Food  @ (5, 10)
 Score @ 0
-
-now painting @(59, 9) for snake and (58, 0) for food
-Snake @ (59, 8) going UP
-Food  @ (58, 0)
+now painting @(19, 10)(19, 10) for snake and (5, 10) for food
+User input received: Go LEFT
+Snake @ (18, 10)(18, 10) going LEFT
+Food  @ (5, 10)
 Score @ 0
-
-now painting @(59, 8) for snake and (58, 0) for food
-Snake @ (59, 7) going UP
-Food  @ (58, 0)
+now painting @(18, 10)(18, 10) for snake and (5, 10) for food
+User input received: Go LEFT
+Snake @ (17, 10)(17, 10) going LEFT
+Food  @ (5, 10)
 Score @ 0
-
-now painting @(59, 7) for snake and (58, 0) for food
-Snake @ (59, 6) going UP
-Food  @ (58, 0)
+now painting @(17, 10)(17, 10) for snake and (5, 10) for food
+User input received: Go LEFT
+Snake @ (16, 10)(16, 10) going LEFT
+Food  @ (5, 10)
 Score @ 0
-
-now painting @(59, 6) for snake and (58, 0) for food
-Snake @ (59, 5) going UP
-Food  @ (58, 0)
+now painting @(16, 10)(16, 10) for snake and (5, 10) for food
+User input received: Go LEFT
+Snake @ (15, 10)(15, 10) going LEFT
+Food  @ (5, 10)
 Score @ 0
-
-now painting @(59, 5) for snake and (58, 0) for food
-Snake @ (59, 4) going UP
-Food  @ (58, 0)
+now painting @(15, 10)(15, 10) for snake and (5, 10) for food
+User input received: Go LEFT
+Snake @ (14, 10)(14, 10) going LEFT
+Food  @ (5, 10)
 Score @ 0
-
-now painting @(59, 4) for snake and (58, 0) for food
-Snake @ (59, 3) going UP
-Food  @ (58, 0)
+now painting @(14, 10)(14, 10) for snake and (5, 10) for food
+User input received: Go LEFT
+Snake @ (13, 10)(13, 10) going LEFT
+Food  @ (5, 10)
 Score @ 0
-
-now painting @(59, 3) for snake and (58, 0) for food
-Snake @ (59, 2) going UP
-Food  @ (58, 0)
+now painting @(13, 10)(13, 10) for snake and (5, 10) for food
+User input received: Go LEFT
+Snake @ (12, 10)(12, 10) going LEFT
+Food  @ (5, 10)
 Score @ 0
-
-now painting @(59, 2) for snake and (58, 0) for food
-Snake @ (59, 1) going UP
-Food  @ (58, 0)
+now painting @(12, 10)(12, 10) for snake and (5, 10) for food
+User input received: Go LEFT
+Snake @ (11, 10)(11, 10) going LEFT
+Food  @ (5, 10)
 Score @ 0
-
-now painting @(59, 1) for snake and (58, 0) for food
-Snake @ (59, 0) going UP
-Food  @ (58, 0)
+now painting @(11, 10)(11, 10) for snake and (5, 10) for food
+User input received: no input received
+Snake @ (10, 10)(10, 10) going LEFT
+Food  @ (5, 10)
 Score @ 0
-
-now painting @(59, 0) for snake and (58, 0) for food
-Snake @ (58, 0) going LEFT
-Food  @ (33, 8)
+now painting @(10, 10)(10, 10) for snake and (5, 10) for food
+User input received: no input received
+Snake @ (9, 10)(9, 10) going LEFT
+Food  @ (5, 10)
+Score @ 0
+now painting @(9, 10)(9, 10) for snake and (5, 10) for food
+User input received: no input received
+Snake @ (8, 10)(8, 10) going LEFT
+Food  @ (5, 10)
+Score @ 0
+now painting @(8, 10)(8, 10) for snake and (5, 10) for food
+User input received: no input received
+Snake @ (7, 10)(7, 10) going LEFT
+Food  @ (5, 10)
+Score @ 0
+now painting @(7, 10)(7, 10) for snake and (5, 10) for food
+User input received: no input received
+Snake @ (6, 10)(6, 10) going LEFT
+Food  @ (5, 10)
+Score @ 0
+now painting @(6, 10)(6, 10) for snake and (5, 10) for food
+User input received: no input received
+Snake @ (5, 10)(6, 10) going LEFT
+Food  @ (25, 8)
 Score @ 1
-
-now painting @(58, 0) for snake and (33, 8) for food
-Snake @ (57, 0) going LEFT
-Food  @ (33, 8)
+now painting @(5, 10)(6, 10) for snake and (25, 8) for food
+User input received: no input received
+Snake @ (4, 10)(5, 10) going LEFT
+Food  @ (25, 8)
 Score @ 1
-
-now painting @(57, 0) for snake and (33, 8) for food
-Snake @ (56, 0) going LEFT
-Food  @ (33, 8)
+now painting @(4, 10)(5, 10) for snake and (25, 8) for food
+User input received: no input received
+Snake @ (3, 10)(4, 10) going LEFT
+Food  @ (25, 8)
 Score @ 1
-
-now painting @(56, 0) for snake and (33, 8) for food
-Snake @ (55, 0) going LEFT
-Food  @ (33, 8)
+now painting @(3, 10)(4, 10) for snake and (25, 8) for food
+User input received: Go UP
+Snake @ (3, 9)(3, 10) going UP
+Food  @ (25, 8)
 Score @ 1
-
-now painting @(55, 0) for snake and (33, 8) for food
-Snake @ (54, 0) going LEFT
-Food  @ (33, 8)
+now painting @(3, 9)(3, 10) for snake and (25, 8) for food
+User input received: no input received
+Snake @ (3, 8)(3, 9) going UP
+Food  @ (25, 8)
 Score @ 1
-
-now painting @(54, 0) for snake and (33, 8) for food
-Snake @ (53, 0) going LEFT
-Food  @ (33, 8)
+now painting @(3, 8)(3, 9) for snake and (25, 8) for food
+User input received: Go RIGHT
+Snake @ (4, 8)(3, 8) going RIGHT
+Food  @ (25, 8)
 Score @ 1
-
-now painting @(53, 0) for snake and (33, 8) for food
-Snake @ (52, 0) going LEFT
-Food  @ (33, 8)
+now painting @(4, 8)(3, 8) for snake and (25, 8) for food
+User input received: no input received
+Snake @ (5, 8)(4, 8) going RIGHT
+Food  @ (25, 8)
 Score @ 1
-
-now painting @(52, 0) for snake and (33, 8) for food
-Snake @ (51, 0) going LEFT
-Food  @ (33, 8)
+now painting @(5, 8)(4, 8) for snake and (25, 8) for food
+User input received: Go RIGHT
+Snake @ (6, 8)(5, 8) going RIGHT
+Food  @ (25, 8)
 Score @ 1
-
-now painting @(51, 0) for snake and (33, 8) for food
-Snake @ (50, 0) going LEFT
-Food  @ (33, 8)
+now painting @(6, 8)(5, 8) for snake and (25, 8) for food
+User input received: Go RIGHT
+Snake @ (7, 8)(6, 8) going RIGHT
+Food  @ (25, 8)
 Score @ 1
-
-now painting @(50, 0) for snake and (33, 8) for food
-Snake @ (49, 0) going LEFT
-Food  @ (33, 8)
+now painting @(7, 8)(6, 8) for snake and (25, 8) for food
+User input received: Go RIGHT
+Snake @ (8, 8)(7, 8) going RIGHT
+Food  @ (25, 8)
 Score @ 1
-
-now painting @(49, 0) for snake and (33, 8) for food
-Snake @ (48, 0) going LEFT
-Food  @ (33, 8)
+now painting @(8, 8)(7, 8) for snake and (25, 8) for food
+User input received: Go RIGHT
+Snake @ (9, 8)(8, 8) going RIGHT
+Food  @ (25, 8)
 Score @ 1
-
-now painting @(48, 0) for snake and (33, 8) for food
-Snake @ (47, 0) going LEFT
-Food  @ (33, 8)
+now painting @(9, 8)(8, 8) for snake and (25, 8) for food
+User input received: Go RIGHT
+Snake @ (10, 8)(9, 8) going RIGHT
+Food  @ (25, 8)
 Score @ 1
-
-now painting @(47, 0) for snake and (33, 8) for food
-Snake @ (46, 0) going LEFT
-Food  @ (33, 8)
+now painting @(10, 8)(9, 8) for snake and (25, 8) for food
+User input received: Go RIGHT
+Snake @ (11, 8)(10, 8) going RIGHT
+Food  @ (25, 8)
 Score @ 1
-
-now painting @(46, 0) for snake and (33, 8) for food
-Snake @ (45, 0) going LEFT
-Food  @ (33, 8)
+now painting @(11, 8)(10, 8) for snake and (25, 8) for food
+User input received: Go RIGHT
+Snake @ (12, 8)(11, 8) going RIGHT
+Food  @ (25, 8)
 Score @ 1
-
-now painting @(45, 0) for snake and (33, 8) for food
-Snake @ (44, 0) going LEFT
-Food  @ (33, 8)
+now painting @(12, 8)(11, 8) for snake and (25, 8) for food
+User input received: Go RIGHT
+Snake @ (13, 8)(12, 8) going RIGHT
+Food  @ (25, 8)
 Score @ 1
-
-now painting @(44, 0) for snake and (33, 8) for food
-Snake @ (43, 0) going LEFT
-Food  @ (33, 8)
+now painting @(13, 8)(12, 8) for snake and (25, 8) for food
+User input received: Go RIGHT
+Snake @ (14, 8)(13, 8) going RIGHT
+Food  @ (25, 8)
 Score @ 1
-
-now painting @(43, 0) for snake and (33, 8) for food
-Snake @ (42, 0) going LEFT
-Food  @ (33, 8)
+now painting @(14, 8)(13, 8) for snake and (25, 8) for food
+User input received: Go RIGHT
+Snake @ (15, 8)(14, 8) going RIGHT
+Food  @ (25, 8)
 Score @ 1
-
-now painting @(42, 0) for snake and (33, 8) for food
-Snake @ (41, 0) going LEFT
-Food  @ (33, 8)
+now painting @(15, 8)(14, 8) for snake and (25, 8) for food
+User input received: Go RIGHT
+Snake @ (16, 8)(15, 8) going RIGHT
+Food  @ (25, 8)
 Score @ 1
-
-now painting @(41, 0) for snake and (33, 8) for food
-Snake @ (40, 0) going LEFT
-Food  @ (33, 8)
+now painting @(16, 8)(15, 8) for snake and (25, 8) for food
+User input received: Go RIGHT
+Snake @ (17, 8)(16, 8) going RIGHT
+Food  @ (25, 8)
 Score @ 1
-
-now painting @(40, 0) for snake and (33, 8) for food
-Snake @ (39, 0) going LEFT
-Food  @ (33, 8)
+now painting @(17, 8)(16, 8) for snake and (25, 8) for food
+User input received: Go RIGHT
+Snake @ (18, 8)(17, 8) going RIGHT
+Food  @ (25, 8)
 Score @ 1
-
-now painting @(39, 0) for snake and (33, 8) for food
-Snake @ (39, 1) going DOWN
-Food  @ (33, 8)
+now painting @(18, 8)(17, 8) for snake and (25, 8) for food
+User input received: Go RIGHT
+Snake @ (19, 8)(18, 8) going RIGHT
+Food  @ (25, 8)
 Score @ 1
-
-now painting @(39, 1) for snake and (33, 8) for food
-Snake @ (39, 2) going DOWN
-Food  @ (33, 8)
+now painting @(19, 8)(18, 8) for snake and (25, 8) for food
+User input received: Go RIGHT
+Snake @ (20, 8)(19, 8) going RIGHT
+Food  @ (25, 8)
 Score @ 1
-
-now painting @(39, 2) for snake and (33, 8) for food
-Snake @ (39, 3) going DOWN
-Food  @ (33, 8)
+now painting @(20, 8)(19, 8) for snake and (25, 8) for food
+User input received: Go RIGHT
+Snake @ (21, 8)(20, 8) going RIGHT
+Food  @ (25, 8)
 Score @ 1
-
-now painting @(39, 3) for snake and (33, 8) for food
-Snake @ (39, 4) going DOWN
-Food  @ (33, 8)
+now painting @(21, 8)(20, 8) for snake and (25, 8) for food
+User input received: Go RIGHT
+Snake @ (22, 8)(21, 8) going RIGHT
+Food  @ (25, 8)
 Score @ 1
-
-now painting @(39, 4) for snake and (33, 8) for food
-Snake @ (39, 5) going DOWN
-Food  @ (33, 8)
+now painting @(22, 8)(21, 8) for snake and (25, 8) for food
+User input received: Go RIGHT
+Snake @ (23, 8)(22, 8) going RIGHT
+Food  @ (25, 8)
 Score @ 1
-
-now painting @(39, 5) for snake and (33, 8) for food
-Snake @ (39, 6) going DOWN
-Food  @ (33, 8)
+now painting @(23, 8)(22, 8) for snake and (25, 8) for food
+User input received: Go RIGHT
+Snake @ (24, 8)(23, 8) going RIGHT
+Food  @ (25, 8)
 Score @ 1
-
-now painting @(39, 6) for snake and (33, 8) for food
-Snake @ (39, 7) going DOWN
-Food  @ (33, 8)
-Score @ 1
-
-now painting @(39, 7) for snake and (33, 8) for food
-Snake @ (39, 8) going DOWN
-Food  @ (33, 8)
-Score @ 1
-
-now painting @(39, 8) for snake and (33, 8) for food
-Snake @ (38, 8) going LEFT
-Food  @ (33, 8)
-Score @ 1
-
-now painting @(38, 8) for snake and (33, 8) for food
-Snake @ (37, 8) going LEFT
-Food  @ (33, 8)
-Score @ 1
-
-now painting @(37, 8) for snake and (33, 8) for food
-Snake @ (36, 8) going LEFT
-Food  @ (33, 8)
-Score @ 1
-
-now painting @(36, 8) for snake and (33, 8) for food
-Snake @ (35, 8) going LEFT
-Food  @ (33, 8)
-Score @ 1
-
-now painting @(35, 8) for snake and (33, 8) for food
-Snake @ (34, 8) going LEFT
-Food  @ (33, 8)
-Score @ 1
-
-now painting @(34, 8) for snake and (33, 8) for food
-Snake @ (33, 8) going LEFT
-Food  @ (21, 21)
+now painting @(24, 8)(23, 8) for snake and (25, 8) for food
+User input received: Go RIGHT
+Snake @ (25, 8)(23, 8) going RIGHT
+Food  @ (0, 9)
 Score @ 2
-
-now painting @(33, 8) for snake and (21, 21) for food
-Snake @ (32, 8) going LEFT
-Food  @ (21, 21)
+now painting @(25, 8)(23, 8) for snake and (0, 9) for food
+User input received: Go DOWN
+Snake @ (25, 9)(25, 8)(24, 8) going DOWN
+Food  @ (0, 9)
 Score @ 2
-
-now painting @(32, 8) for snake and (21, 21) for food
-Snake @ (31, 8) going LEFT
-Food  @ (21, 21)
+now painting @(25, 9)(25, 8)(24, 8) for snake and (0, 9) for food
+User input received: Go LEFT
+Snake @ (24, 9)(25, 9)(25, 8) going LEFT
+Food  @ (0, 9)
 Score @ 2
-
-now painting @(31, 8) for snake and (21, 21) for food
-Snake @ (30, 8) going LEFT
-Food  @ (21, 21)
+now painting @(24, 9)(25, 9)(25, 8) for snake and (0, 9) for food
+User input received: Go LEFT
+Snake @ (23, 9)(25, 9) going LEFT
+Food  @ (0, 9)
 Score @ 2
-
-now painting @(30, 8) for snake and (21, 21) for food
-Snake @ (29, 8) going LEFT
-Food  @ (21, 21)
+now painting @(23, 9)(25, 9) for snake and (0, 9) for food
+User input received: Go LEFT
+Snake @ (22, 9)(24, 9) going LEFT
+Food  @ (0, 9)
 Score @ 2
-
-now painting @(29, 8) for snake and (21, 21) for food
-Snake @ (28, 8) going LEFT
-Food  @ (21, 21)
+now painting @(22, 9)(24, 9) for snake and (0, 9) for food
+User input received: Go LEFT
+Snake @ (21, 9)(23, 9) going LEFT
+Food  @ (0, 9)
 Score @ 2
-
-now painting @(28, 8) for snake and (21, 21) for food
-Snake @ (27, 8) going LEFT
-Food  @ (21, 21)
+now painting @(21, 9)(23, 9) for snake and (0, 9) for food
+User input received: Go LEFT
+Snake @ (20, 9)(22, 9) going LEFT
+Food  @ (0, 9)
 Score @ 2
-
-now painting @(27, 8) for snake and (21, 21) for food
-Snake @ (26, 8) going LEFT
-Food  @ (21, 21)
+now painting @(20, 9)(22, 9) for snake and (0, 9) for food
+User input received: Go LEFT
+Snake @ (19, 9)(21, 9) going LEFT
+Food  @ (0, 9)
 Score @ 2
-
-now painting @(26, 8) for snake and (21, 21) for food
-Snake @ (25, 8) going LEFT
-Food  @ (21, 21)
+now painting @(19, 9)(21, 9) for snake and (0, 9) for food
+User input received: Go LEFT
+Snake @ (18, 9)(20, 9) going LEFT
+Food  @ (0, 9)
 Score @ 2
-
-now painting @(25, 8) for snake and (21, 21) for food
-Snake @ (24, 8) going LEFT
-Food  @ (21, 21)
+now painting @(18, 9)(20, 9) for snake and (0, 9) for food
+User input received: Go LEFT
+Snake @ (17, 9)(19, 9) going LEFT
+Food  @ (0, 9)
 Score @ 2
-
-now painting @(24, 8) for snake and (21, 21) for food
-Snake @ (23, 8) going LEFT
-Food  @ (21, 21)
+now painting @(17, 9)(19, 9) for snake and (0, 9) for food
+User input received: Go LEFT
+Snake @ (16, 9)(18, 9) going LEFT
+Food  @ (0, 9)
 Score @ 2
-
-now painting @(23, 8) for snake and (21, 21) for food
-Snake @ (22, 8) going LEFT
-Food  @ (21, 21)
+now painting @(16, 9)(18, 9) for snake and (0, 9) for food
+User input received: Go LEFT
+Snake @ (15, 9)(17, 9) going LEFT
+Food  @ (0, 9)
 Score @ 2
-
-now painting @(22, 8) for snake and (21, 21) for food
-Snake @ (22, 9) going DOWN
-Food  @ (21, 21)
+now painting @(15, 9)(17, 9) for snake and (0, 9) for food
+User input received: Go LEFT
+Snake @ (14, 9)(16, 9) going LEFT
+Food  @ (0, 9)
 Score @ 2
-
-now painting @(22, 9) for snake and (21, 21) for food
-Snake @ (22, 10) going DOWN
-Food  @ (21, 21)
+now painting @(14, 9)(16, 9) for snake and (0, 9) for food
+User input received: Go LEFT
+Snake @ (13, 9)(15, 9) going LEFT
+Food  @ (0, 9)
 Score @ 2
-
-now painting @(22, 10) for snake and (21, 21) for food
-Snake @ (22, 11) going DOWN
-Food  @ (21, 21)
+now painting @(13, 9)(15, 9) for snake and (0, 9) for food
+User input received: Go LEFT
+Snake @ (12, 9)(14, 9) going LEFT
+Food  @ (0, 9)
 Score @ 2
-
-now painting @(22, 11) for snake and (21, 21) for food
-Snake @ (22, 12) going DOWN
-Food  @ (21, 21)
+now painting @(12, 9)(14, 9) for snake and (0, 9) for food
+User input received: Go LEFT
+Snake @ (11, 9)(13, 9) going LEFT
+Food  @ (0, 9)
 Score @ 2
-
-now painting @(22, 12) for snake and (21, 21) for food
-Snake @ (22, 13) going DOWN
-Food  @ (21, 21)
+now painting @(11, 9)(13, 9) for snake and (0, 9) for food
+User input received: Go LEFT
+Snake @ (10, 9)(12, 9) going LEFT
+Food  @ (0, 9)
 Score @ 2
-
-now painting @(22, 13) for snake and (21, 21) for food
-Snake @ (22, 14) going DOWN
-Food  @ (21, 21)
+now painting @(10, 9)(12, 9) for snake and (0, 9) for food
+User input received: Go LEFT
+Snake @ (9, 9)(11, 9) going LEFT
+Food  @ (0, 9)
 Score @ 2
-
-now painting @(22, 14) for snake and (21, 21) for food
-Snake @ (22, 15) going DOWN
-Food  @ (21, 21)
+now painting @(9, 9)(11, 9) for snake and (0, 9) for food
+User input received: Go LEFT
+Snake @ (8, 9)(10, 9) going LEFT
+Food  @ (0, 9)
 Score @ 2
-
-now painting @(22, 15) for snake and (21, 21) for food
-Snake @ (22, 16) going DOWN
-Food  @ (21, 21)
+now painting @(8, 9)(10, 9) for snake and (0, 9) for food
+User input received: Go LEFT
+Snake @ (7, 9)(9, 9) going LEFT
+Food  @ (0, 9)
 Score @ 2
-
-now painting @(22, 16) for snake and (21, 21) for food
-Snake @ (22, 17) going DOWN
-Food  @ (21, 21)
+now painting @(7, 9)(9, 9) for snake and (0, 9) for food
+User input received: Go LEFT
+Snake @ (6, 9)(8, 9) going LEFT
+Food  @ (0, 9)
 Score @ 2
-
-now painting @(22, 17) for snake and (21, 21) for food
-Snake @ (22, 18) going DOWN
-Food  @ (21, 21)
+now painting @(6, 9)(8, 9) for snake and (0, 9) for food
+User input received: Go LEFT
+Snake @ (5, 9)(7, 9) going LEFT
+Food  @ (0, 9)
 Score @ 2
-
-now painting @(22, 18) for snake and (21, 21) for food
-Snake @ (22, 19) going DOWN
-Food  @ (21, 21)
+now painting @(5, 9)(7, 9) for snake and (0, 9) for food
+User input received: Go LEFT
+Snake @ (4, 9)(6, 9) going LEFT
+Food  @ (0, 9)
 Score @ 2
-
-now painting @(22, 19) for snake and (21, 21) for food
-Snake @ (22, 20) going DOWN
-Food  @ (21, 21)
+now painting @(4, 9)(6, 9) for snake and (0, 9) for food
+User input received: Go LEFT
+Snake @ (3, 9)(5, 9) going LEFT
+Food  @ (0, 9)
 Score @ 2
-
-now painting @(22, 20) for snake and (21, 21) for food
-Snake @ (21, 20) going LEFT
-Food  @ (21, 21)
+now painting @(3, 9)(5, 9) for snake and (0, 9) for food
+User input received: Go LEFT
+Snake @ (2, 9)(4, 9) going LEFT
+Food  @ (0, 9)
 Score @ 2
-
-now painting @(21, 20) for snake and (21, 21) for food
-Snake @ (21, 21) going DOWN
-Food  @ (55, 20)
+now painting @(2, 9)(4, 9) for snake and (0, 9) for food
+User input received: Go UP
+Snake @ (2, 8)(2, 9)(3, 9) going UP
+Food  @ (0, 9)
+Score @ 2
+now painting @(2, 8)(2, 9)(3, 9) for snake and (0, 9) for food
+User input received: no input received
+Snake @ (2, 7)(2, 9) going UP
+Food  @ (0, 9)
+Score @ 2
+now painting @(2, 7)(2, 9) for snake and (0, 9) for food
+User input received: Go LEFT
+Snake @ (1, 7)(2, 7)(2, 8) going LEFT
+Food  @ (0, 9)
+Score @ 2
+now painting @(1, 7)(2, 7)(2, 8) for snake and (0, 9) for food
+User input received: Go DOWN
+Snake @ (1, 8)(1, 7)(2, 7) going DOWN
+Food  @ (0, 9)
+Score @ 2
+now painting @(1, 8)(1, 7)(2, 7) for snake and (0, 9) for food
+User input received: no input received
+Snake @ (1, 9)(1, 7) going DOWN
+Food  @ (0, 9)
+Score @ 2
+now painting @(1, 9)(1, 7) for snake and (0, 9) for food
+User input received: no input received
+Snake @ (1, 10)(1, 8) going DOWN
+Food  @ (0, 9)
+Score @ 2
+now painting @(1, 10)(1, 8) for snake and (0, 9) for food
+User input received: Go LEFT
+Snake @ (0, 10)(1, 10)(1, 9) going LEFT
+Food  @ (0, 9)
+Score @ 2
+now painting @(0, 10)(1, 10)(1, 9) for snake and (0, 9) for food
+User input received: Go UP
+Snake @ (0, 9)(0, 10)(1, 10)(1, 9) going UP
+Food  @ (25, 1)
 Score @ 3
-
-now painting @(21, 21) for snake and (55, 20) for food
-Snake @ (22, 21) going RIGHT
-Food  @ (55, 20)
+now painting @(0, 9)(0, 10)(1, 10)(1, 9) for snake and (25, 1) for food
+User input received: no input received
+Snake @ (0, 8)(0, 10)(1, 10) going UP
+Food  @ (25, 1)
 Score @ 3
-
-now painting @(22, 21) for snake and (55, 20) for food
-Snake @ (23, 21) going RIGHT
-Food  @ (55, 20)
+now painting @(0, 8)(0, 10)(1, 10) for snake and (25, 1) for food
+User input received: Go RIGHT
+Snake @ (1, 8)(0, 8)(0, 10) going RIGHT
+Food  @ (25, 1)
 Score @ 3
-
-now painting @(23, 21) for snake and (55, 20) for food
-Snake @ (24, 21) going RIGHT
-Food  @ (55, 20)
+now painting @(1, 8)(0, 8)(0, 10) for snake and (25, 1) for food
+User input received: Go RIGHT
+Snake @ (2, 8)(0, 8)(0, 9) going RIGHT
+Food  @ (25, 1)
 Score @ 3
-
-now painting @(24, 21) for snake and (55, 20) for food
-Snake @ (25, 21) going RIGHT
-Food  @ (55, 20)
+now painting @(2, 8)(0, 8)(0, 9) for snake and (25, 1) for food
+User input received: Go RIGHT
+Snake @ (3, 8)(0, 8) going RIGHT
+Food  @ (25, 1)
 Score @ 3
-
-now painting @(25, 21) for snake and (55, 20) for food
-Snake @ (26, 21) going RIGHT
-Food  @ (55, 20)
+now painting @(3, 8)(0, 8) for snake and (25, 1) for food
+User input received: Go RIGHT
+Snake @ (4, 8)(1, 8) going RIGHT
+Food  @ (25, 1)
 Score @ 3
-
-now painting @(26, 21) for snake and (55, 20) for food
-Snake @ (27, 21) going RIGHT
-Food  @ (55, 20)
+now painting @(4, 8)(1, 8) for snake and (25, 1) for food
+User input received: Go RIGHT
+Snake @ (5, 8)(2, 8) going RIGHT
+Food  @ (25, 1)
 Score @ 3
-
-now painting @(27, 21) for snake and (55, 20) for food
-Snake @ (28, 21) going RIGHT
-Food  @ (55, 20)
+now painting @(5, 8)(2, 8) for snake and (25, 1) for food
+User input received: Go RIGHT
+Snake @ (6, 8)(3, 8) going RIGHT
+Food  @ (25, 1)
 Score @ 3
-
-now painting @(28, 21) for snake and (55, 20) for food
-Snake @ (29, 21) going RIGHT
-Food  @ (55, 20)
+now painting @(6, 8)(3, 8) for snake and (25, 1) for food
+User input received: Go RIGHT
+Snake @ (7, 8)(4, 8) going RIGHT
+Food  @ (25, 1)
 Score @ 3
-
-now painting @(29, 21) for snake and (55, 20) for food
-Snake @ (30, 21) going RIGHT
-Food  @ (55, 20)
+now painting @(7, 8)(4, 8) for snake and (25, 1) for food
+User input received: Go RIGHT
+Snake @ (8, 8)(5, 8) going RIGHT
+Food  @ (25, 1)
 Score @ 3
-
-now painting @(30, 21) for snake and (55, 20) for food
-Snake @ (31, 21) going RIGHT
-Food  @ (55, 20)
+now painting @(8, 8)(5, 8) for snake and (25, 1) for food
+User input received: Go RIGHT
+Snake @ (9, 8)(6, 8) going RIGHT
+Food  @ (25, 1)
 Score @ 3
-
-now painting @(31, 21) for snake and (55, 20) for food
-Snake @ (32, 21) going RIGHT
-Food  @ (55, 20)
+now painting @(9, 8)(6, 8) for snake and (25, 1) for food
+User input received: Go RIGHT
+Snake @ (10, 8)(7, 8) going RIGHT
+Food  @ (25, 1)
 Score @ 3
-
-now painting @(32, 21) for snake and (55, 20) for food
-Snake @ (33, 21) going RIGHT
-Food  @ (55, 20)
+now painting @(10, 8)(7, 8) for snake and (25, 1) for food
+User input received: Go RIGHT
+Snake @ (11, 8)(8, 8) going RIGHT
+Food  @ (25, 1)
 Score @ 3
-
-now painting @(33, 21) for snake and (55, 20) for food
-Snake @ (34, 21) going RIGHT
-Food  @ (55, 20)
+now painting @(11, 8)(8, 8) for snake and (25, 1) for food
+User input received: Go RIGHT
+Snake @ (12, 8)(9, 8) going RIGHT
+Food  @ (25, 1)
 Score @ 3
-
-now painting @(34, 21) for snake and (55, 20) for food
-Snake @ (35, 21) going RIGHT
-Food  @ (55, 20)
+now painting @(12, 8)(9, 8) for snake and (25, 1) for food
+User input received: Go RIGHT
+Snake @ (13, 8)(10, 8) going RIGHT
+Food  @ (25, 1)
 Score @ 3
-
-now painting @(35, 21) for snake and (55, 20) for food
-Snake @ (36, 21) going RIGHT
-Food  @ (55, 20)
+now painting @(13, 8)(10, 8) for snake and (25, 1) for food
+User input received: Go RIGHT
+Snake @ (14, 8)(11, 8) going RIGHT
+Food  @ (25, 1)
 Score @ 3
-
-now painting @(36, 21) for snake and (55, 20) for food
-Snake @ (37, 21) going RIGHT
-Food  @ (55, 20)
+now painting @(14, 8)(11, 8) for snake and (25, 1) for food
+User input received: Go RIGHT
+Snake @ (15, 8)(12, 8) going RIGHT
+Food  @ (25, 1)
 Score @ 3
-
-now painting @(37, 21) for snake and (55, 20) for food
-Snake @ (38, 21) going RIGHT
-Food  @ (55, 20)
+now painting @(15, 8)(12, 8) for snake and (25, 1) for food
+User input received: Go RIGHT
+Snake @ (16, 8)(13, 8) going RIGHT
+Food  @ (25, 1)
 Score @ 3
-
-now painting @(38, 21) for snake and (55, 20) for food
-Snake @ (39, 21) going RIGHT
-Food  @ (55, 20)
+now painting @(16, 8)(13, 8) for snake and (25, 1) for food
+User input received: Go RIGHT
+Snake @ (17, 8)(14, 8) going RIGHT
+Food  @ (25, 1)
 Score @ 3
-
-now painting @(39, 21) for snake and (55, 20) for food
-Snake @ (40, 21) going RIGHT
-Food  @ (55, 20)
+now painting @(17, 8)(14, 8) for snake and (25, 1) for food
+User input received: Go RIGHT
+Snake @ (18, 8)(15, 8) going RIGHT
+Food  @ (25, 1)
 Score @ 3
-
-now painting @(40, 21) for snake and (55, 20) for food
-Snake @ (41, 21) going RIGHT
-Food  @ (55, 20)
+now painting @(18, 8)(15, 8) for snake and (25, 1) for food
+User input received: Go RIGHT
+Snake @ (19, 8)(16, 8) going RIGHT
+Food  @ (25, 1)
 Score @ 3
-
-now painting @(41, 21) for snake and (55, 20) for food
-Snake @ (42, 21) going RIGHT
-Food  @ (55, 20)
+now painting @(19, 8)(16, 8) for snake and (25, 1) for food
+User input received: Go RIGHT
+Snake @ (20, 8)(17, 8) going RIGHT
+Food  @ (25, 1)
 Score @ 3
-
-now painting @(42, 21) for snake and (55, 20) for food
-Snake @ (43, 21) going RIGHT
-Food  @ (55, 20)
+now painting @(20, 8)(17, 8) for snake and (25, 1) for food
+User input received: Go RIGHT
+Snake @ (21, 8)(18, 8) going RIGHT
+Food  @ (25, 1)
 Score @ 3
-
-now painting @(43, 21) for snake and (55, 20) for food
-Snake @ (44, 21) going RIGHT
-Food  @ (55, 20)
+now painting @(21, 8)(18, 8) for snake and (25, 1) for food
+User input received: Go RIGHT
+Snake @ (22, 8)(19, 8) going RIGHT
+Food  @ (25, 1)
 Score @ 3
-
-now painting @(44, 21) for snake and (55, 20) for food
-Snake @ (45, 21) going RIGHT
-Food  @ (55, 20)
+now painting @(22, 8)(19, 8) for snake and (25, 1) for food
+User input received: Go UP
+Snake @ (22, 7)(22, 8)(20, 8) going UP
+Food  @ (25, 1)
 Score @ 3
-
-now painting @(45, 21) for snake and (55, 20) for food
-Snake @ (46, 21) going RIGHT
-Food  @ (55, 20)
+now painting @(22, 7)(22, 8)(20, 8) for snake and (25, 1) for food
+User input received: Go UP
+Snake @ (22, 6)(22, 8)(21, 8) going UP
+Food  @ (25, 1)
 Score @ 3
-
-now painting @(46, 21) for snake and (55, 20) for food
-Snake @ (47, 21) going RIGHT
-Food  @ (55, 20)
+now painting @(22, 6)(22, 8)(21, 8) for snake and (25, 1) for food
+User input received: Go UP
+Snake @ (22, 5)(22, 8) going UP
+Food  @ (25, 1)
 Score @ 3
-
-now painting @(47, 21) for snake and (55, 20) for food
-Snake @ (48, 21) going RIGHT
-Food  @ (55, 20)
+now painting @(22, 5)(22, 8) for snake and (25, 1) for food
+User input received: Go UP
+Snake @ (22, 4)(22, 7) going UP
+Food  @ (25, 1)
 Score @ 3
-
-now painting @(48, 21) for snake and (55, 20) for food
-Snake @ (49, 21) going RIGHT
-Food  @ (55, 20)
+now painting @(22, 4)(22, 7) for snake and (25, 1) for food
+User input received: Go UP
+Snake @ (22, 3)(22, 6) going UP
+Food  @ (25, 1)
 Score @ 3
-
-now painting @(49, 21) for snake and (55, 20) for food
-Snake @ (50, 21) going RIGHT
-Food  @ (55, 20)
+now painting @(22, 3)(22, 6) for snake and (25, 1) for food
+User input received: Go UP
+Snake @ (22, 2)(22, 5) going UP
+Food  @ (25, 1)
 Score @ 3
-
-now painting @(50, 21) for snake and (55, 20) for food
-Snake @ (51, 21) going RIGHT
-Food  @ (55, 20)
+now painting @(22, 2)(22, 5) for snake and (25, 1) for food
+User input received: Go UP
+Snake @ (22, 1)(22, 4) going UP
+Food  @ (25, 1)
 Score @ 3
-
-now painting @(51, 21) for snake and (55, 20) for food
-Snake @ (52, 21) going RIGHT
-Food  @ (55, 20)
+now painting @(22, 1)(22, 4) for snake and (25, 1) for food
+User input received: Go RIGHT
+Snake @ (23, 1)(22, 1)(22, 3) going RIGHT
+Food  @ (25, 1)
 Score @ 3
-
-now painting @(52, 21) for snake and (55, 20) for food
-Snake @ (53, 21) going RIGHT
-Food  @ (55, 20)
+now painting @(23, 1)(22, 1)(22, 3) for snake and (25, 1) for food
+User input received: Go RIGHT
+Snake @ (24, 1)(22, 1)(22, 2) going RIGHT
+Food  @ (25, 1)
 Score @ 3
-
-now painting @(53, 21) for snake and (55, 20) for food
-Snake @ (54, 21) going RIGHT
-Food  @ (55, 20)
-Score @ 3
-
-now painting @(54, 21) for snake and (55, 20) for food
-Snake @ (55, 21) going RIGHT
-Food  @ (55, 20)
-Score @ 3
-
-now painting @(55, 21) for snake and (55, 20) for food
-Snake @ (55, 20) going UP
-Food  @ (71, 23)
+now painting @(24, 1)(22, 1)(22, 2) for snake and (25, 1) for food
+User input received: Go RIGHT
+Snake @ (25, 1)(22, 1)(22, 2) going RIGHT
+Food  @ (7, 8)
 Score @ 4
-
-now painting @(55, 20) for snake and (71, 23) for food
-Snake @ (56, 20) going RIGHT
-Food  @ (71, 23)
+now painting @(25, 1)(22, 1)(22, 2) for snake and (7, 8) for food
+User input received: Go RIGHT
+Snake @ (26, 1)(22, 1) going RIGHT
+Food  @ (7, 8)
 Score @ 4
-
-now painting @(56, 20) for snake and (71, 23) for food
-Snake @ (57, 20) going RIGHT
-Food  @ (71, 23)
+now painting @(26, 1)(22, 1) for snake and (7, 8) for food
+User input received: Go RIGHT
+Snake @ (27, 1)(23, 1) going RIGHT
+Food  @ (7, 8)
 Score @ 4
-
-now painting @(57, 20) for snake and (71, 23) for food
-Snake @ (58, 20) going RIGHT
-Food  @ (71, 23)
+now painting @(27, 1)(23, 1) for snake and (7, 8) for food
+User input received: Go RIGHT
+Snake @ (28, 1)(24, 1) going RIGHT
+Food  @ (7, 8)
 Score @ 4
-
-now painting @(58, 20) for snake and (71, 23) for food
-Snake @ (59, 20) going RIGHT
-Food  @ (71, 23)
+now painting @(28, 1)(24, 1) for snake and (7, 8) for food
+User input received: Go RIGHT
+Snake @ (29, 1)(25, 1) going RIGHT
+Food  @ (7, 8)
 Score @ 4
-
-now painting @(59, 20) for snake and (71, 23) for food
-Snake @ (60, 20) going RIGHT
-Food  @ (71, 23)
+now painting @(29, 1)(25, 1) for snake and (7, 8) for food
+User input received: Go RIGHT
+Snake @ (30, 1)(26, 1) going RIGHT
+Food  @ (7, 8)
 Score @ 4
-
-now painting @(60, 20) for snake and (71, 23) for food
-Snake @ (61, 20) going RIGHT
-Food  @ (71, 23)
+now painting @(30, 1)(26, 1) for snake and (7, 8) for food
+User input received: Go RIGHT
+Snake @ (31, 1)(27, 1) going RIGHT
+Food  @ (7, 8)
 Score @ 4
-
-now painting @(61, 20) for snake and (71, 23) for food
-Snake @ (62, 20) going RIGHT
-Food  @ (71, 23)
+now painting @(31, 1)(27, 1) for snake and (7, 8) for food
+User input received: Go RIGHT
+Snake @ (32, 1)(28, 1) going RIGHT
+Food  @ (7, 8)
 Score @ 4
-
-now painting @(62, 20) for snake and (71, 23) for food
-Snake @ (63, 20) going RIGHT
-Food  @ (71, 23)
+now painting @(32, 1)(28, 1) for snake and (7, 8) for food
+User input received: Go RIGHT
+Snake @ (33, 1)(29, 1) going RIGHT
+Food  @ (7, 8)
 Score @ 4
-
-now painting @(63, 20) for snake and (71, 23) for food
-Snake @ (64, 20) going RIGHT
-Food  @ (71, 23)
+now painting @(33, 1)(29, 1) for snake and (7, 8) for food
+User input received: Go RIGHT
+Snake @ (34, 1)(30, 1) going RIGHT
+Food  @ (7, 8)
 Score @ 4
-
-now painting @(64, 20) for snake and (71, 23) for food
-Snake @ (65, 20) going RIGHT
-Food  @ (71, 23)
+now painting @(34, 1)(30, 1) for snake and (7, 8) for food
+User input received: Go RIGHT
+Snake @ (35, 1)(31, 1) going RIGHT
+Food  @ (7, 8)
 Score @ 4
-
-now painting @(65, 20) for snake and (71, 23) for food
-Snake @ (66, 20) going RIGHT
-Food  @ (71, 23)
+now painting @(35, 1)(31, 1) for snake and (7, 8) for food
+User input received: Go DOWN
+Snake @ (35, 2)(35, 1)(32, 1) going DOWN
+Food  @ (7, 8)
 Score @ 4
-
-now painting @(66, 20) for snake and (71, 23) for food
-Snake @ (67, 20) going RIGHT
-Food  @ (71, 23)
+now painting @(35, 2)(35, 1)(32, 1) for snake and (7, 8) for food
+User input received: Go DOWN
+Snake @ (35, 3)(35, 1)(33, 1) going DOWN
+Food  @ (7, 8)
 Score @ 4
-
-now painting @(67, 20) for snake and (71, 23) for food
-Snake @ (68, 20) going RIGHT
-Food  @ (71, 23)
+now painting @(35, 3)(35, 1)(33, 1) for snake and (7, 8) for food
+User input received: Go DOWN
+Snake @ (35, 4)(35, 1)(34, 1) going DOWN
+Food  @ (7, 8)
 Score @ 4
-
-now painting @(68, 20) for snake and (71, 23) for food
-Snake @ (69, 20) going RIGHT
-Food  @ (71, 23)
+now painting @(35, 4)(35, 1)(34, 1) for snake and (7, 8) for food
+User input received: Go DOWN
+Snake @ (35, 5)(35, 1) going DOWN
+Food  @ (7, 8)
 Score @ 4
-
-now painting @(69, 20) for snake and (71, 23) for food
-Snake @ (70, 20) going RIGHT
-Food  @ (71, 23)
+now painting @(35, 5)(35, 1) for snake and (7, 8) for food
+User input received: Go DOWN
+Snake @ (35, 6)(35, 2) going DOWN
+Food  @ (7, 8)
 Score @ 4
-
-now painting @(70, 20) for snake and (71, 23) for food
-Snake @ (70, 21) going DOWN
-Food  @ (71, 23)
+now painting @(35, 6)(35, 2) for snake and (7, 8) for food
+User input received: Go DOWN
+Snake @ (35, 7)(35, 3) going DOWN
+Food  @ (7, 8)
 Score @ 4
-
-now painting @(70, 21) for snake and (71, 23) for food
-Snake @ (70, 22) going DOWN
-Food  @ (71, 23)
+now painting @(35, 7)(35, 3) for snake and (7, 8) for food
+User input received: Go DOWN
+Snake @ (35, 8)(35, 4) going DOWN
+Food  @ (7, 8)
 Score @ 4
-
-now painting @(70, 22) for snake and (71, 23) for food
-Snake @ (70, 23) going DOWN
-Food  @ (71, 23)
+now painting @(35, 8)(35, 4) for snake and (7, 8) for food
+User input received: Go DOWN
+Snake @ (35, 9)(35, 5) going DOWN
+Food  @ (7, 8)
 Score @ 4
-
-now painting @(70, 23) for snake and (71, 23) for food
-Snake @ (71, 23) going RIGHT
-Food  @ (36, 16)
+now painting @(35, 9)(35, 5) for snake and (7, 8) for food
+User input received: Go DOWN
+Snake @ (35, 10)(35, 6) going DOWN
+Food  @ (7, 8)
+Score @ 4
+now painting @(35, 10)(35, 6) for snake and (7, 8) for food
+User input received: Go DOWN
+Snake @ (35, 11)(35, 7) going DOWN
+Food  @ (7, 8)
+Score @ 4
+now painting @(35, 11)(35, 7) for snake and (7, 8) for food
+User input received: Go UP
+Snake @ (35, 10)(35, 8) going UP
+Food  @ (7, 8)
+Score @ 4
+now painting @(35, 10)(35, 8) for snake and (7, 8) for food
+User input received: Go UP
+Snake @ (35, 9)(35, 9) going UP
+Food  @ (7, 8)
+Score @ 4
+now painting @(35, 9)(35, 9) for snake and (7, 8) for food
+User input received: Go UP
+Snake @ (35, 8)(35, 8) going UP
+Food  @ (7, 8)
+Score @ 4
+now painting @(35, 8)(35, 8) for snake and (7, 8) for food
+User input received: Go LEFT
+Snake @ (34, 8)(34, 8) going LEFT
+Food  @ (7, 8)
+Score @ 4
+now painting @(34, 8)(34, 8) for snake and (7, 8) for food
+User input received: Go LEFT
+Snake @ (33, 8)(33, 8) going LEFT
+Food  @ (7, 8)
+Score @ 4
+now painting @(33, 8)(33, 8) for snake and (7, 8) for food
+User input received: Go LEFT
+Snake @ (32, 8)(32, 8) going LEFT
+Food  @ (7, 8)
+Score @ 4
+now painting @(32, 8)(32, 8) for snake and (7, 8) for food
+User input received: Go LEFT
+Snake @ (31, 8)(31, 8) going LEFT
+Food  @ (7, 8)
+Score @ 4
+now painting @(31, 8)(31, 8) for snake and (7, 8) for food
+User input received: Go LEFT
+Snake @ (30, 8)(30, 8) going LEFT
+Food  @ (7, 8)
+Score @ 4
+now painting @(30, 8)(30, 8) for snake and (7, 8) for food
+User input received: Go LEFT
+Snake @ (29, 8)(29, 8) going LEFT
+Food  @ (7, 8)
+Score @ 4
+now painting @(29, 8)(29, 8) for snake and (7, 8) for food
+User input received: Go LEFT
+Snake @ (28, 8)(28, 8) going LEFT
+Food  @ (7, 8)
+Score @ 4
+now painting @(28, 8)(28, 8) for snake and (7, 8) for food
+User input received: Go LEFT
+Snake @ (27, 8)(27, 8) going LEFT
+Food  @ (7, 8)
+Score @ 4
+now painting @(27, 8)(27, 8) for snake and (7, 8) for food
+User input received: Go LEFT
+Snake @ (26, 8)(26, 8) going LEFT
+Food  @ (7, 8)
+Score @ 4
+now painting @(26, 8)(26, 8) for snake and (7, 8) for food
+User input received: Go LEFT
+Snake @ (25, 8)(25, 8) going LEFT
+Food  @ (7, 8)
+Score @ 4
+now painting @(25, 8)(25, 8) for snake and (7, 8) for food
+User input received: Go LEFT
+Snake @ (24, 8)(24, 8) going LEFT
+Food  @ (7, 8)
+Score @ 4
+now painting @(24, 8)(24, 8) for snake and (7, 8) for food
+User input received: Go LEFT
+Snake @ (23, 8)(23, 8) going LEFT
+Food  @ (7, 8)
+Score @ 4
+now painting @(23, 8)(23, 8) for snake and (7, 8) for food
+User input received: Go LEFT
+Snake @ (22, 8)(22, 8) going LEFT
+Food  @ (7, 8)
+Score @ 4
+now painting @(22, 8)(22, 8) for snake and (7, 8) for food
+User input received: Go LEFT
+Snake @ (21, 8)(21, 8) going LEFT
+Food  @ (7, 8)
+Score @ 4
+now painting @(21, 8)(21, 8) for snake and (7, 8) for food
+User input received: Go LEFT
+Snake @ (20, 8)(20, 8) going LEFT
+Food  @ (7, 8)
+Score @ 4
+now painting @(20, 8)(20, 8) for snake and (7, 8) for food
+User input received: Go LEFT
+Snake @ (19, 8)(19, 8) going LEFT
+Food  @ (7, 8)
+Score @ 4
+now painting @(19, 8)(19, 8) for snake and (7, 8) for food
+User input received: Go LEFT
+Snake @ (18, 8)(18, 8) going LEFT
+Food  @ (7, 8)
+Score @ 4
+now painting @(18, 8)(18, 8) for snake and (7, 8) for food
+User input received: Go LEFT
+Snake @ (17, 8)(17, 8) going LEFT
+Food  @ (7, 8)
+Score @ 4
+now painting @(17, 8)(17, 8) for snake and (7, 8) for food
+User input received: Go LEFT
+Snake @ (16, 8)(16, 8) going LEFT
+Food  @ (7, 8)
+Score @ 4
+now painting @(16, 8)(16, 8) for snake and (7, 8) for food
+User input received: Go LEFT
+Snake @ (15, 8)(15, 8) going LEFT
+Food  @ (7, 8)
+Score @ 4
+now painting @(15, 8)(15, 8) for snake and (7, 8) for food
+User input received: Go LEFT
+Snake @ (14, 8)(14, 8) going LEFT
+Food  @ (7, 8)
+Score @ 4
+now painting @(14, 8)(14, 8) for snake and (7, 8) for food
+User input received: Go LEFT
+Snake @ (13, 8)(13, 8) going LEFT
+Food  @ (7, 8)
+Score @ 4
+now painting @(13, 8)(13, 8) for snake and (7, 8) for food
+User input received: Go LEFT
+Snake @ (12, 8)(12, 8) going LEFT
+Food  @ (7, 8)
+Score @ 4
+now painting @(12, 8)(12, 8) for snake and (7, 8) for food
+User input received: Go LEFT
+Snake @ (11, 8)(11, 8) going LEFT
+Food  @ (7, 8)
+Score @ 4
+now painting @(11, 8)(11, 8) for snake and (7, 8) for food
+User input received: Go LEFT
+Snake @ (10, 8)(10, 8) going LEFT
+Food  @ (7, 8)
+Score @ 4
+now painting @(10, 8)(10, 8) for snake and (7, 8) for food
+User input received: Go LEFT
+Snake @ (9, 8)(9, 8) going LEFT
+Food  @ (7, 8)
+Score @ 4
+now painting @(9, 8)(9, 8) for snake and (7, 8) for food
+User input received: Go LEFT
+Snake @ (8, 8)(8, 8) going LEFT
+Food  @ (7, 8)
+Score @ 4
+now painting @(8, 8)(8, 8) for snake and (7, 8) for food
+User input received: Go LEFT
+Snake @ (7, 8)(8, 8) going LEFT
+Food  @ (12, 4)
 Score @ 5
-
-now painting @(71, 23) for snake and (36, 16) for food
-Snake @ (71, 22) going UP
-Food  @ (36, 16)
+now painting @(7, 8)(8, 8) for snake and (12, 4) for food
+User input received: Go UP
+Snake @ (7, 7)(7, 8) going UP
+Food  @ (12, 4)
 Score @ 5
-
-now painting @(71, 22) for snake and (36, 16) for food
-Snake @ (71, 21) going UP
-Food  @ (36, 16)
+now painting @(7, 7)(7, 8) for snake and (12, 4) for food
+User input received: Go UP
+Snake @ (7, 6)(7, 7) going UP
+Food  @ (12, 4)
 Score @ 5
-
-now painting @(71, 21) for snake and (36, 16) for food
-Snake @ (70, 21) going LEFT
-Food  @ (36, 16)
+now painting @(7, 6)(7, 7) for snake and (12, 4) for food
+User input received: Go UP
+Snake @ (7, 5)(7, 6) going UP
+Food  @ (12, 4)
 Score @ 5
-
-now painting @(70, 21) for snake and (36, 16) for food
-Snake @ (69, 21) going LEFT
-Food  @ (36, 16)
+now painting @(7, 5)(7, 6) for snake and (12, 4) for food
+User input received: Go UP
+Snake @ (7, 4)(7, 5) going UP
+Food  @ (12, 4)
 Score @ 5
-
-now painting @(69, 21) for snake and (36, 16) for food
-Snake @ (68, 21) going LEFT
-Food  @ (36, 16)
+now painting @(7, 4)(7, 5) for snake and (12, 4) for food
+User input received: Go RIGHT
+Snake @ (8, 4)(7, 4) going RIGHT
+Food  @ (12, 4)
 Score @ 5
-
-now painting @(68, 21) for snake and (36, 16) for food
-Snake @ (67, 21) going LEFT
-Food  @ (36, 16)
+now painting @(8, 4)(7, 4) for snake and (12, 4) for food
+User input received: Go RIGHT
+Snake @ (9, 4)(8, 4) going RIGHT
+Food  @ (12, 4)
 Score @ 5
-
-now painting @(67, 21) for snake and (36, 16) for food
-Snake @ (66, 21) going LEFT
-Food  @ (36, 16)
+now painting @(9, 4)(8, 4) for snake and (12, 4) for food
+User input received: Go RIGHT
+Snake @ (10, 4)(9, 4) going RIGHT
+Food  @ (12, 4)
 Score @ 5
-
-now painting @(66, 21) for snake and (36, 16) for food
-Snake @ (65, 21) going LEFT
-Food  @ (36, 16)
+now painting @(10, 4)(9, 4) for snake and (12, 4) for food
+User input received: Go RIGHT
+Snake @ (11, 4)(10, 4) going RIGHT
+Food  @ (12, 4)
 Score @ 5
-
-now painting @(65, 21) for snake and (36, 16) for food
-Snake @ (64, 21) going LEFT
-Food  @ (36, 16)
-Score @ 5
-
-now painting @(64, 21) for snake and (36, 16) for food
-Snake @ (63, 21) going LEFT
-Food  @ (36, 16)
-Score @ 5
-
-now painting @(63, 21) for snake and (36, 16) for food
-Snake @ (62, 21) going LEFT
-Food  @ (36, 16)
-Score @ 5
-
-now painting @(62, 21) for snake and (36, 16) for food
-Snake @ (61, 21) going LEFT
-Food  @ (36, 16)
-Score @ 5
-
-now painting @(61, 21) for snake and (36, 16) for food
-Snake @ (60, 21) going LEFT
-Food  @ (36, 16)
-Score @ 5
-
-now painting @(60, 21) for snake and (36, 16) for food
-Snake @ (59, 21) going LEFT
-Food  @ (36, 16)
-Score @ 5
-
-now painting @(59, 21) for snake and (36, 16) for food
-Snake @ (58, 21) going LEFT
-Food  @ (36, 16)
-Score @ 5
-
-now painting @(58, 21) for snake and (36, 16) for food
-Snake @ (57, 21) going LEFT
-Food  @ (36, 16)
-Score @ 5
-
-now painting @(57, 21) for snake and (36, 16) for food
-Snake @ (56, 21) going LEFT
-Food  @ (36, 16)
-Score @ 5
-
-now painting @(56, 21) for snake and (36, 16) for food
-Snake @ (55, 21) going LEFT
-Food  @ (36, 16)
-Score @ 5
-
-now painting @(55, 21) for snake and (36, 16) for food
-Snake @ (54, 21) going LEFT
-Food  @ (36, 16)
-Score @ 5
-
-now painting @(54, 21) for snake and (36, 16) for food
-Snake @ (53, 21) going LEFT
-Food  @ (36, 16)
-Score @ 5
-
-now painting @(53, 21) for snake and (36, 16) for food
-Snake @ (52, 21) going LEFT
-Food  @ (36, 16)
-Score @ 5
-
-now painting @(52, 21) for snake and (36, 16) for food
-Snake @ (51, 21) going LEFT
-Food  @ (36, 16)
-Score @ 5
-
-now painting @(51, 21) for snake and (36, 16) for food
-Snake @ (50, 21) going LEFT
-Food  @ (36, 16)
-Score @ 5
-
-now painting @(50, 21) for snake and (36, 16) for food
-Snake @ (49, 21) going LEFT
-Food  @ (36, 16)
-Score @ 5
-
-now painting @(49, 21) for snake and (36, 16) for food
-Snake @ (48, 21) going LEFT
-Food  @ (36, 16)
-Score @ 5
-
-now painting @(48, 21) for snake and (36, 16) for food
-Snake @ (47, 21) going LEFT
-Food  @ (36, 16)
-Score @ 5
-
-now painting @(47, 21) for snake and (36, 16) for food
-Snake @ (46, 21) going LEFT
-Food  @ (36, 16)
-Score @ 5
-
-now painting @(46, 21) for snake and (36, 16) for food
-Snake @ (45, 21) going LEFT
-Food  @ (36, 16)
-Score @ 5
-
-now painting @(45, 21) for snake and (36, 16) for food
-Snake @ (44, 21) going LEFT
-Food  @ (36, 16)
-Score @ 5
-
-now painting @(44, 21) for snake and (36, 16) for food
-Snake @ (43, 21) going LEFT
-Food  @ (36, 16)
-Score @ 5
-
-now painting @(43, 21) for snake and (36, 16) for food
-Snake @ (42, 21) going LEFT
-Food  @ (36, 16)
-Score @ 5
-
-now painting @(42, 21) for snake and (36, 16) for food
-Snake @ (41, 21) going LEFT
-Food  @ (36, 16)
-Score @ 5
-
-now painting @(41, 21) for snake and (36, 16) for food
-Snake @ (40, 21) going LEFT
-Food  @ (36, 16)
-Score @ 5
-
-now painting @(40, 21) for snake and (36, 16) for food
-Snake @ (39, 21) going LEFT
-Food  @ (36, 16)
-Score @ 5
-
-now painting @(39, 21) for snake and (36, 16) for food
-Snake @ (38, 21) going LEFT
-Food  @ (36, 16)
-Score @ 5
-
-now painting @(38, 21) for snake and (36, 16) for food
-Snake @ (37, 21) going LEFT
-Food  @ (36, 16)
-Score @ 5
-
-now painting @(37, 21) for snake and (36, 16) for food
-Snake @ (36, 21) going LEFT
-Food  @ (36, 16)
-Score @ 5
-
-now painting @(36, 21) for snake and (36, 16) for food
-Snake @ (35, 21) going LEFT
-Food  @ (36, 16)
-Score @ 5
-
-now painting @(35, 21) for snake and (36, 16) for food
-Snake @ (35, 20) going UP
-Food  @ (36, 16)
-Score @ 5
-
-now painting @(35, 20) for snake and (36, 16) for food
-Snake @ (35, 19) going UP
-Food  @ (36, 16)
-Score @ 5
-
-now painting @(35, 19) for snake and (36, 16) for food
-Snake @ (35, 18) going UP
-Food  @ (36, 16)
-Score @ 5
-
-now painting @(35, 18) for snake and (36, 16) for food
-Snake @ (35, 17) going UP
-Food  @ (36, 16)
-Score @ 5
-
-now painting @(35, 17) for snake and (36, 16) for food
-Snake @ (35, 16) going UP
-Food  @ (36, 16)
-Score @ 5
-
-now painting @(35, 16) for snake and (36, 16) for food
-Snake @ (36, 16) going RIGHT
-Food  @ (12, 7)
+now painting @(11, 4)(10, 4) for snake and (12, 4) for food
+User input received: Go RIGHT
+Snake @ (12, 4)(10, 4) going RIGHT
+Food  @ (13, 1)
 Score @ 6
-
-now painting @(36, 16) for snake and (12, 7) for food
-Snake @ (36, 15) going UP
-Food  @ (12, 7)
+now painting @(12, 4)(10, 4) for snake and (13, 1) for food
+User input received: Go RIGHT
+Snake @ (13, 4)(11, 4) going RIGHT
+Food  @ (13, 1)
 Score @ 6
-
-now painting @(36, 15) for snake and (12, 7) for food
-Snake @ (36, 14) going UP
-Food  @ (12, 7)
+now painting @(13, 4)(11, 4) for snake and (13, 1) for food
+User input received: Go UP
+Snake @ (13, 3)(13, 4)(12, 4) going UP
+Food  @ (13, 1)
 Score @ 6
-
-now painting @(36, 14) for snake and (12, 7) for food
-Snake @ (36, 13) going UP
-Food  @ (12, 7)
+now painting @(13, 3)(13, 4)(12, 4) for snake and (13, 1) for food
+User input received: Go UP
+Snake @ (13, 2)(13, 4) going UP
+Food  @ (13, 1)
 Score @ 6
-
-now painting @(36, 13) for snake and (12, 7) for food
-Snake @ (36, 12) going UP
-Food  @ (12, 7)
-Score @ 6
-
-now painting @(36, 12) for snake and (12, 7) for food
-Snake @ (36, 11) going UP
-Food  @ (12, 7)
-Score @ 6
-
-now painting @(36, 11) for snake and (12, 7) for food
-Snake @ (36, 10) going UP
-Food  @ (12, 7)
-Score @ 6
-
-now painting @(36, 10) for snake and (12, 7) for food
-Snake @ (36, 9) going UP
-Food  @ (12, 7)
-Score @ 6
-
-now painting @(36, 9) for snake and (12, 7) for food
-Snake @ (36, 8) going UP
-Food  @ (12, 7)
-Score @ 6
-
-now painting @(36, 8) for snake and (12, 7) for food
-Snake @ (36, 7) going UP
-Food  @ (12, 7)
-Score @ 6
-
-now painting @(36, 7) for snake and (12, 7) for food
-Snake @ (36, 6) going UP
-Food  @ (12, 7)
-Score @ 6
-
-now painting @(36, 6) for snake and (12, 7) for food
-Snake @ (36, 7) going DOWN
-Food  @ (12, 7)
-Score @ 6
-
-now painting @(36, 7) for snake and (12, 7) for food
-Snake @ (35, 7) going LEFT
-Food  @ (12, 7)
-Score @ 6
-
-now painting @(35, 7) for snake and (12, 7) for food
-Snake @ (34, 7) going LEFT
-Food  @ (12, 7)
-Score @ 6
-
-now painting @(34, 7) for snake and (12, 7) for food
-Snake @ (33, 7) going LEFT
-Food  @ (12, 7)
-Score @ 6
-
-now painting @(33, 7) for snake and (12, 7) for food
-Snake @ (32, 7) going LEFT
-Food  @ (12, 7)
-Score @ 6
-
-now painting @(32, 7) for snake and (12, 7) for food
-Snake @ (31, 7) going LEFT
-Food  @ (12, 7)
-Score @ 6
-
-now painting @(31, 7) for snake and (12, 7) for food
-Snake @ (30, 7) going LEFT
-Food  @ (12, 7)
-Score @ 6
-
-now painting @(30, 7) for snake and (12, 7) for food
-Snake @ (29, 7) going LEFT
-Food  @ (12, 7)
-Score @ 6
-
-now painting @(29, 7) for snake and (12, 7) for food
-Snake @ (28, 7) going LEFT
-Food  @ (12, 7)
-Score @ 6
-
-now painting @(28, 7) for snake and (12, 7) for food
-Snake @ (27, 7) going LEFT
-Food  @ (12, 7)
-Score @ 6
-
-now painting @(27, 7) for snake and (12, 7) for food
-Snake @ (26, 7) going LEFT
-Food  @ (12, 7)
-Score @ 6
-
-now painting @(26, 7) for snake and (12, 7) for food
-Snake @ (25, 7) going LEFT
-Food  @ (12, 7)
-Score @ 6
-
-now painting @(25, 7) for snake and (12, 7) for food
-Snake @ (24, 7) going LEFT
-Food  @ (12, 7)
-Score @ 6
-
-now painting @(24, 7) for snake and (12, 7) for food
-Snake @ (23, 7) going LEFT
-Food  @ (12, 7)
-Score @ 6
-
-now painting @(23, 7) for snake and (12, 7) for food
-Snake @ (22, 7) going LEFT
-Food  @ (12, 7)
-Score @ 6
-
-now painting @(22, 7) for snake and (12, 7) for food
-Snake @ (21, 7) going LEFT
-Food  @ (12, 7)
-Score @ 6
-
-now painting @(21, 7) for snake and (12, 7) for food
-Snake @ (20, 7) going LEFT
-Food  @ (12, 7)
-Score @ 6
-
-now painting @(20, 7) for snake and (12, 7) for food
-Snake @ (19, 7) going LEFT
-Food  @ (12, 7)
-Score @ 6
-
-now painting @(19, 7) for snake and (12, 7) for food
-Snake @ (18, 7) going LEFT
-Food  @ (12, 7)
-Score @ 6
-
-now painting @(18, 7) for snake and (12, 7) for food
-Snake @ (17, 7) going LEFT
-Food  @ (12, 7)
-Score @ 6
-
-now painting @(17, 7) for snake and (12, 7) for food
-Snake @ (16, 7) going LEFT
-Food  @ (12, 7)
-Score @ 6
-
-now painting @(16, 7) for snake and (12, 7) for food
-Snake @ (15, 7) going LEFT
-Food  @ (12, 7)
-Score @ 6
-
-now painting @(15, 7) for snake and (12, 7) for food
-Snake @ (14, 7) going LEFT
-Food  @ (12, 7)
-Score @ 6
-
-now painting @(14, 7) for snake and (12, 7) for food
-Snake @ (13, 7) going LEFT
-Food  @ (12, 7)
-Score @ 6
-
-now painting @(13, 7) for snake and (12, 7) for food
-Snake @ (12, 7) going LEFT
-Food  @ (7, 15)
+now painting @(13, 2)(13, 4) for snake and (13, 1) for food
+User input received: Go UP
+Snake @ (13, 1)(13, 4) going UP
+Food  @ (5, 6)
 Score @ 7
-
-now painting @(12, 7) for snake and (7, 15) for food
-Snake @ (12, 8) going DOWN
-Food  @ (7, 15)
+now painting @(13, 1)(13, 4) for snake and (5, 6) for food
+User input received: Go RIGHT
+Snake @ (14, 1)(13, 1)(13, 3) going RIGHT
+Food  @ (5, 6)
 Score @ 7
-
-now painting @(12, 8) for snake and (7, 15) for food
-Snake @ (11, 8) going LEFT
-Food  @ (7, 15)
+now painting @(14, 1)(13, 1)(13, 3) for snake and (5, 6) for food
+User input received: Go RIGHT
+Snake @ (15, 1)(13, 1)(13, 2) going RIGHT
+Food  @ (5, 6)
 Score @ 7
-
-now painting @(11, 8) for snake and (7, 15) for food
-Snake @ (10, 8) going LEFT
-Food  @ (7, 15)
+now painting @(15, 1)(13, 1)(13, 2) for snake and (5, 6) for food
+User input received: Go RIGHT
+Snake @ (16, 1)(13, 1) going RIGHT
+Food  @ (5, 6)
 Score @ 7
-
-now painting @(10, 8) for snake and (7, 15) for food
-Snake @ (9, 8) going LEFT
-Food  @ (7, 15)
+now painting @(16, 1)(13, 1) for snake and (5, 6) for food
+User input received: Go RIGHT
+Snake @ (17, 1)(14, 1) going RIGHT
+Food  @ (5, 6)
 Score @ 7
-
-now painting @(9, 8) for snake and (7, 15) for food
-Snake @ (8, 8) going LEFT
-Food  @ (7, 15)
+now painting @(17, 1)(14, 1) for snake and (5, 6) for food
+User input received: Go RIGHT
+Snake @ (18, 1)(15, 1) going RIGHT
+Food  @ (5, 6)
 Score @ 7
-
-now painting @(8, 8) for snake and (7, 15) for food
-Snake @ (8, 9) going DOWN
-Food  @ (7, 15)
+now painting @(18, 1)(15, 1) for snake and (5, 6) for food
+User input received: Go RIGHT
+Snake @ (19, 1)(16, 1) going RIGHT
+Food  @ (5, 6)
 Score @ 7
-
-now painting @(8, 9) for snake and (7, 15) for food
-Snake @ (8, 10) going DOWN
-Food  @ (7, 15)
+now painting @(19, 1)(16, 1) for snake and (5, 6) for food
+User input received: Go RIGHT
+Snake @ (20, 1)(17, 1) going RIGHT
+Food  @ (5, 6)
 Score @ 7
-
-now painting @(8, 10) for snake and (7, 15) for food
-Snake @ (8, 11) going DOWN
-Food  @ (7, 15)
+now painting @(20, 1)(17, 1) for snake and (5, 6) for food
+User input received: Go RIGHT
+Snake @ (21, 1)(18, 1) going RIGHT
+Food  @ (5, 6)
 Score @ 7
-
-now painting @(8, 11) for snake and (7, 15) for food
-Snake @ (8, 12) going DOWN
-Food  @ (7, 15)
+now painting @(21, 1)(18, 1) for snake and (5, 6) for food
+User input received: Go DOWN
+Snake @ (21, 2)(21, 1)(19, 1) going DOWN
+Food  @ (5, 6)
 Score @ 7
-
-now painting @(8, 12) for snake and (7, 15) for food
-Snake @ (7, 12) going LEFT
-Food  @ (7, 15)
+now painting @(21, 2)(21, 1)(19, 1) for snake and (5, 6) for food
+User input received: Go DOWN
+Snake @ (21, 3)(21, 1)(20, 1) going DOWN
+Food  @ (5, 6)
 Score @ 7
-
-now painting @(7, 12) for snake and (7, 15) for food
-Snake @ (7, 13) going DOWN
-Food  @ (7, 15)
+now painting @(21, 3)(21, 1)(20, 1) for snake and (5, 6) for food
+User input received: Go DOWN
+Snake @ (21, 4)(21, 1) going DOWN
+Food  @ (5, 6)
 Score @ 7
-
-now painting @(7, 13) for snake and (7, 15) for food
-Snake @ (7, 14) going DOWN
-Food  @ (7, 15)
+now painting @(21, 4)(21, 1) for snake and (5, 6) for food
+User input received: Go DOWN
+Snake @ (21, 5)(21, 2) going DOWN
+Food  @ (5, 6)
 Score @ 7
-
-now painting @(7, 14) for snake and (7, 15) for food
-Snake @ (7, 15) going DOWN
-Food  @ (12, 2)
+now painting @(21, 5)(21, 2) for snake and (5, 6) for food
+User input received: Go DOWN
+Snake @ (21, 6)(21, 3) going DOWN
+Food  @ (5, 6)
+Score @ 7
+now painting @(21, 6)(21, 3) for snake and (5, 6) for food
+User input received: Go LEFT
+Snake @ (20, 6)(21, 6)(21, 4) going LEFT
+Food  @ (5, 6)
+Score @ 7
+now painting @(20, 6)(21, 6)(21, 4) for snake and (5, 6) for food
+User input received: Go LEFT
+Snake @ (19, 6)(21, 6)(21, 5) going LEFT
+Food  @ (5, 6)
+Score @ 7
+now painting @(19, 6)(21, 6)(21, 5) for snake and (5, 6) for food
+User input received: Go LEFT
+Snake @ (18, 6)(21, 6) going LEFT
+Food  @ (5, 6)
+Score @ 7
+now painting @(18, 6)(21, 6) for snake and (5, 6) for food
+User input received: Go LEFT
+Snake @ (17, 6)(20, 6) going LEFT
+Food  @ (5, 6)
+Score @ 7
+now painting @(17, 6)(20, 6) for snake and (5, 6) for food
+User input received: Go LEFT
+Snake @ (16, 6)(19, 6) going LEFT
+Food  @ (5, 6)
+Score @ 7
+now painting @(16, 6)(19, 6) for snake and (5, 6) for food
+User input received: Go LEFT
+Snake @ (15, 6)(18, 6) going LEFT
+Food  @ (5, 6)
+Score @ 7
+now painting @(15, 6)(18, 6) for snake and (5, 6) for food
+User input received: Go LEFT
+Snake @ (14, 6)(17, 6) going LEFT
+Food  @ (5, 6)
+Score @ 7
+now painting @(14, 6)(17, 6) for snake and (5, 6) for food
+User input received: Go LEFT
+Snake @ (13, 6)(16, 6) going LEFT
+Food  @ (5, 6)
+Score @ 7
+now painting @(13, 6)(16, 6) for snake and (5, 6) for food
+User input received: Go LEFT
+Snake @ (12, 6)(15, 6) going LEFT
+Food  @ (5, 6)
+Score @ 7
+now painting @(12, 6)(15, 6) for snake and (5, 6) for food
+User input received: Go LEFT
+Snake @ (11, 6)(14, 6) going LEFT
+Food  @ (5, 6)
+Score @ 7
+now painting @(11, 6)(14, 6) for snake and (5, 6) for food
+User input received: Go LEFT
+Snake @ (10, 6)(13, 6) going LEFT
+Food  @ (5, 6)
+Score @ 7
+now painting @(10, 6)(13, 6) for snake and (5, 6) for food
+User input received: Go LEFT
+Snake @ (9, 6)(12, 6) going LEFT
+Food  @ (5, 6)
+Score @ 7
+now painting @(9, 6)(12, 6) for snake and (5, 6) for food
+User input received: Go LEFT
+Snake @ (8, 6)(11, 6) going LEFT
+Food  @ (5, 6)
+Score @ 7
+now painting @(8, 6)(11, 6) for snake and (5, 6) for food
+User input received: Go LEFT
+Snake @ (7, 6)(10, 6) going LEFT
+Food  @ (5, 6)
+Score @ 7
+now painting @(7, 6)(10, 6) for snake and (5, 6) for food
+User input received: Go LEFT
+Snake @ (6, 6)(9, 6) going LEFT
+Food  @ (5, 6)
+Score @ 7
+now painting @(6, 6)(9, 6) for snake and (5, 6) for food
+User input received: Go LEFT
+Snake @ (5, 6)(9, 6) going LEFT
+Food  @ (25, 8)
 Score @ 8
-
-now painting @(7, 15) for snake and (12, 2) for food
-Snake @ (8, 15) going RIGHT
-Food  @ (12, 2)
+now painting @(5, 6)(9, 6) for snake and (25, 8) for food
+User input received: Go DOWN
+Snake @ (5, 7)(5, 6)(8, 6) going DOWN
+Food  @ (25, 8)
 Score @ 8
-
-now painting @(8, 15) for snake and (12, 2) for food
-Snake @ (8, 14) going UP
-Food  @ (12, 2)
+now painting @(5, 7)(5, 6)(8, 6) for snake and (25, 8) for food
+User input received: Go DOWN
+Snake @ (5, 8)(5, 6)(7, 6) going DOWN
+Food  @ (25, 8)
 Score @ 8
-
-now painting @(8, 14) for snake and (12, 2) for food
-Snake @ (8, 13) going UP
-Food  @ (12, 2)
+now painting @(5, 8)(5, 6)(7, 6) for snake and (25, 8) for food
+User input received: Go DOWN
+Snake @ (5, 9)(5, 6)(6, 6) going DOWN
+Food  @ (25, 8)
 Score @ 8
-
-now painting @(8, 13) for snake and (12, 2) for food
-Snake @ (8, 12) going UP
-Food  @ (12, 2)
+now painting @(5, 9)(5, 6)(6, 6) for snake and (25, 8) for food
+User input received: Go RIGHT
+Snake @ (6, 9)(5, 9)(5, 6) going RIGHT
+Food  @ (25, 8)
 Score @ 8
-
-now painting @(8, 12) for snake and (12, 2) for food
-Snake @ (8, 11) going UP
-Food  @ (12, 2)
+now painting @(6, 9)(5, 9)(5, 6) for snake and (25, 8) for food
+User input received: Go RIGHT
+Snake @ (7, 9)(5, 9)(5, 7) going RIGHT
+Food  @ (25, 8)
 Score @ 8
-
-now painting @(8, 11) for snake and (12, 2) for food
-Snake @ (8, 10) going UP
-Food  @ (12, 2)
+now painting @(7, 9)(5, 9)(5, 7) for snake and (25, 8) for food
+User input received: Go RIGHT
+Snake @ (8, 9)(5, 9)(5, 8) going RIGHT
+Food  @ (25, 8)
 Score @ 8
-
-now painting @(8, 10) for snake and (12, 2) for food
-Snake @ (8, 9) going UP
-Food  @ (12, 2)
+now painting @(8, 9)(5, 9)(5, 8) for snake and (25, 8) for food
+User input received: Go RIGHT
+Snake @ (9, 9)(5, 9) going RIGHT
+Food  @ (25, 8)
 Score @ 8
-
-now painting @(8, 9) for snake and (12, 2) for food
-Snake @ (8, 8) going UP
-Food  @ (12, 2)
+now painting @(9, 9)(5, 9) for snake and (25, 8) for food
+User input received: Go UP
+Snake @ (9, 8)(9, 9)(6, 9) going UP
+Food  @ (25, 8)
 Score @ 8
-
-now painting @(8, 8) for snake and (12, 2) for food
-Snake @ (8, 7) going UP
-Food  @ (12, 2)
+now painting @(9, 8)(9, 9)(6, 9) for snake and (25, 8) for food
+User input received: Go RIGHT
+Snake @ (10, 8)(9, 8)(9, 9)(7, 9) going RIGHT
+Food  @ (25, 8)
 Score @ 8
-
-now painting @(8, 7) for snake and (12, 2) for food
-Snake @ (8, 6) going UP
-Food  @ (12, 2)
+now painting @(10, 8)(9, 8)(9, 9)(7, 9) for snake and (25, 8) for food
+User input received: Go RIGHT
+Snake @ (11, 8)(9, 8)(9, 9)(8, 9) going RIGHT
+Food  @ (25, 8)
 Score @ 8
-
-now painting @(8, 6) for snake and (12, 2) for food
-Snake @ (8, 5) going UP
-Food  @ (12, 2)
+now painting @(11, 8)(9, 8)(9, 9)(8, 9) for snake and (25, 8) for food
+User input received: Go RIGHT
+Snake @ (12, 8)(9, 8)(9, 9) going RIGHT
+Food  @ (25, 8)
 Score @ 8
-
-now painting @(8, 5) for snake and (12, 2) for food
-Snake @ (8, 4) going UP
-Food  @ (12, 2)
+now painting @(12, 8)(9, 8)(9, 9) for snake and (25, 8) for food
+User input received: Go RIGHT
+Snake @ (13, 8)(9, 8) going RIGHT
+Food  @ (25, 8)
 Score @ 8
-
-now painting @(8, 4) for snake and (12, 2) for food
-Snake @ (8, 3) going UP
-Food  @ (12, 2)
+now painting @(13, 8)(9, 8) for snake and (25, 8) for food
+User input received: Go RIGHT
+Snake @ (14, 8)(10, 8) going RIGHT
+Food  @ (25, 8)
 Score @ 8
-
-now painting @(8, 3) for snake and (12, 2) for food
-Snake @ (8, 2) going UP
-Food  @ (12, 2)
+now painting @(14, 8)(10, 8) for snake and (25, 8) for food
+User input received: Go RIGHT
+Snake @ (15, 8)(11, 8) going RIGHT
+Food  @ (25, 8)
 Score @ 8
-
-now painting @(8, 2) for snake and (12, 2) for food
-Snake @ (9, 2) going RIGHT
-Food  @ (12, 2)
+now painting @(15, 8)(11, 8) for snake and (25, 8) for food
+User input received: Go RIGHT
+Snake @ (16, 8)(12, 8) going RIGHT
+Food  @ (25, 8)
 Score @ 8
-
-now painting @(9, 2) for snake and (12, 2) for food
-Snake @ (10, 2) going RIGHT
-Food  @ (12, 2)
+now painting @(16, 8)(12, 8) for snake and (25, 8) for food
+User input received: Go RIGHT
+Snake @ (17, 8)(13, 8) going RIGHT
+Food  @ (25, 8)
 Score @ 8
-
-now painting @(10, 2) for snake and (12, 2) for food
-Snake @ (11, 2) going RIGHT
-Food  @ (12, 2)
+now painting @(17, 8)(13, 8) for snake and (25, 8) for food
+User input received: Go RIGHT
+Snake @ (18, 8)(14, 8) going RIGHT
+Food  @ (25, 8)
 Score @ 8
-
-now painting @(11, 2) for snake and (12, 2) for food
-Snake @ (12, 2) going RIGHT
-Food  @ (29, 3)
+now painting @(18, 8)(14, 8) for snake and (25, 8) for food
+User input received: Go RIGHT
+Snake @ (19, 8)(15, 8) going RIGHT
+Food  @ (25, 8)
+Score @ 8
+now painting @(19, 8)(15, 8) for snake and (25, 8) for food
+User input received: Go RIGHT
+Snake @ (20, 8)(16, 8) going RIGHT
+Food  @ (25, 8)
+Score @ 8
+now painting @(20, 8)(16, 8) for snake and (25, 8) for food
+User input received: Go RIGHT
+Snake @ (21, 8)(17, 8) going RIGHT
+Food  @ (25, 8)
+Score @ 8
+now painting @(21, 8)(17, 8) for snake and (25, 8) for food
+User input received: Go RIGHT
+Snake @ (22, 8)(18, 8) going RIGHT
+Food  @ (25, 8)
+Score @ 8
+now painting @(22, 8)(18, 8) for snake and (25, 8) for food
+User input received: Go RIGHT
+Snake @ (23, 8)(19, 8) going RIGHT
+Food  @ (25, 8)
+Score @ 8
+now painting @(23, 8)(19, 8) for snake and (25, 8) for food
+User input received: Go RIGHT
+Snake @ (24, 8)(20, 8) going RIGHT
+Food  @ (25, 8)
+Score @ 8
+now painting @(24, 8)(20, 8) for snake and (25, 8) for food
+User input received: Go RIGHT
+Snake @ (25, 8)(20, 8) going RIGHT
+Food  @ (28, 3)
 Score @ 9
-
-now painting @(12, 2) for snake and (29, 3) for food
-Snake @ (13, 2) going RIGHT
-Food  @ (29, 3)
+now painting @(25, 8)(20, 8) for snake and (28, 3) for food
+User input received: Go RIGHT
+Snake @ (26, 8)(21, 8) going RIGHT
+Food  @ (28, 3)
 Score @ 9
-
-now painting @(13, 2) for snake and (29, 3) for food
-Snake @ (14, 2) going RIGHT
-Food  @ (29, 3)
+now painting @(26, 8)(21, 8) for snake and (28, 3) for food
+User input received: Go UP
+Snake @ (26, 7)(26, 8)(22, 8) going UP
+Food  @ (28, 3)
 Score @ 9
-
-now painting @(14, 2) for snake and (29, 3) for food
-Snake @ (15, 2) going RIGHT
-Food  @ (29, 3)
+now painting @(26, 7)(26, 8)(22, 8) for snake and (28, 3) for food
+User input received: Go UP
+Snake @ (26, 6)(26, 8)(23, 8) going UP
+Food  @ (28, 3)
 Score @ 9
-
-now painting @(15, 2) for snake and (29, 3) for food
-Snake @ (16, 2) going RIGHT
-Food  @ (29, 3)
+now painting @(26, 6)(26, 8)(23, 8) for snake and (28, 3) for food
+User input received: Go UP
+Snake @ (26, 5)(26, 8)(24, 8) going UP
+Food  @ (28, 3)
 Score @ 9
-
-now painting @(16, 2) for snake and (29, 3) for food
-Snake @ (17, 2) going RIGHT
-Food  @ (29, 3)
+now painting @(26, 5)(26, 8)(24, 8) for snake and (28, 3) for food
+User input received: Go UP
+Snake @ (26, 4)(26, 8)(25, 8) going UP
+Food  @ (28, 3)
 Score @ 9
-
-now painting @(17, 2) for snake and (29, 3) for food
-Snake @ (18, 2) going RIGHT
-Food  @ (29, 3)
+now painting @(26, 4)(26, 8)(25, 8) for snake and (28, 3) for food
+User input received: Go UP
+Snake @ (26, 3)(26, 8) going UP
+Food  @ (28, 3)
 Score @ 9
-
-now painting @(18, 2) for snake and (29, 3) for food
-Snake @ (19, 2) going RIGHT
-Food  @ (29, 3)
+now painting @(26, 3)(26, 8) for snake and (28, 3) for food
+User input received: Go RIGHT
+Snake @ (27, 3)(26, 3)(26, 7) going RIGHT
+Food  @ (28, 3)
 Score @ 9
-
-now painting @(19, 2) for snake and (29, 3) for food
-Snake @ (20, 2) going RIGHT
-Food  @ (29, 3)
-Score @ 9
-
-now painting @(20, 2) for snake and (29, 3) for food
-Snake @ (21, 2) going RIGHT
-Food  @ (29, 3)
-Score @ 9
-
-now painting @(21, 2) for snake and (29, 3) for food
-Snake @ (22, 2) going RIGHT
-Food  @ (29, 3)
-Score @ 9
-
-now painting @(22, 2) for snake and (29, 3) for food
-Snake @ (23, 2) going RIGHT
-Food  @ (29, 3)
-Score @ 9
-
-now painting @(23, 2) for snake and (29, 3) for food
-Snake @ (24, 2) going RIGHT
-Food  @ (29, 3)
-Score @ 9
-
-now painting @(24, 2) for snake and (29, 3) for food
-Snake @ (25, 2) going RIGHT
-Food  @ (29, 3)
-Score @ 9
-
-now painting @(25, 2) for snake and (29, 3) for food
-Snake @ (26, 2) going RIGHT
-Food  @ (29, 3)
-Score @ 9
-
-now painting @(26, 2) for snake and (29, 3) for food
-Snake @ (27, 2) going RIGHT
-Food  @ (29, 3)
-Score @ 9
-
-now painting @(27, 2) for snake and (29, 3) for food
-Snake @ (28, 2) going RIGHT
-Food  @ (29, 3)
-Score @ 9
-
-now painting @(28, 2) for snake and (29, 3) for food
-Snake @ (29, 2) going RIGHT
-Food  @ (29, 3)
-Score @ 9
-
-now painting @(29, 2) for snake and (29, 3) for food
-Snake @ (29, 3) going DOWN
-Food  @ (46, 12)
+now painting @(27, 3)(26, 3)(26, 7) for snake and (28, 3) for food
+User input received: Go RIGHT
+Snake @ (28, 3)(26, 3)(26, 7) going RIGHT
+Food  @ (14, 5)
 Score @ 10
-
-now painting @(29, 3) for snake and (46, 12) for food
-Snake @ (29, 4) going DOWN
-Food  @ (46, 12)
+now painting @(28, 3)(26, 3)(26, 7) for snake and (14, 5) for food
+User input received: Go RIGHT
+Snake @ (29, 3)(26, 3)(26, 6) going RIGHT
+Food  @ (14, 5)
 Score @ 10
-
-now painting @(29, 4) for snake and (46, 12) for food
-Snake @ (29, 5) going DOWN
-Food  @ (46, 12)
+now painting @(29, 3)(26, 3)(26, 6) for snake and (14, 5) for food
+User input received: Go RIGHT
+Snake @ (30, 3)(26, 3)(26, 5) going RIGHT
+Food  @ (14, 5)
 Score @ 10
-
-now painting @(29, 5) for snake and (46, 12) for food
-Snake @ (29, 6) going DOWN
-Food  @ (46, 12)
+now painting @(30, 3)(26, 3)(26, 5) for snake and (14, 5) for food
+User input received: Go RIGHT
+Snake @ (31, 3)(26, 3)(26, 4) going RIGHT
+Food  @ (14, 5)
 Score @ 10
-
-now painting @(29, 6) for snake and (46, 12) for food
-Snake @ (29, 7) going DOWN
-Food  @ (46, 12)
+now painting @(31, 3)(26, 3)(26, 4) for snake and (14, 5) for food
+User input received: Go DOWN
+Snake @ (31, 4)(31, 3)(26, 3) going DOWN
+Food  @ (14, 5)
 Score @ 10
-
-now painting @(29, 7) for snake and (46, 12) for food
-Snake @ (29, 8) going DOWN
-Food  @ (46, 12)
+now painting @(31, 4)(31, 3)(26, 3) for snake and (14, 5) for food
+User input received: Go DOWN
+Snake @ (31, 5)(31, 3)(27, 3) going DOWN
+Food  @ (14, 5)
 Score @ 10
-
-now painting @(29, 8) for snake and (46, 12) for food
-Snake @ (29, 9) going DOWN
-Food  @ (46, 12)
+now painting @(31, 5)(31, 3)(27, 3) for snake and (14, 5) for food
+User input received: Go LEFT
+Snake @ (30, 5)(31, 5)(31, 3)(28, 3) going LEFT
+Food  @ (14, 5)
 Score @ 10
-
-now painting @(29, 9) for snake and (46, 12) for food
-Snake @ (29, 10) going DOWN
-Food  @ (46, 12)
+now painting @(30, 5)(31, 5)(31, 3)(28, 3) for snake and (14, 5) for food
+User input received: Go LEFT
+Snake @ (29, 5)(31, 5)(31, 3)(29, 3) going LEFT
+Food  @ (14, 5)
 Score @ 10
-
-now painting @(29, 10) for snake and (46, 12) for food
-Snake @ (29, 11) going DOWN
-Food  @ (46, 12)
+now painting @(29, 5)(31, 5)(31, 3)(29, 3) for snake and (14, 5) for food
+User input received: Go LEFT
+Snake @ (28, 5)(31, 5)(31, 3)(30, 3) going LEFT
+Food  @ (14, 5)
 Score @ 10
-
-now painting @(29, 11) for snake and (46, 12) for food
-Snake @ (29, 12) going DOWN
-Food  @ (46, 12)
+now painting @(28, 5)(31, 5)(31, 3)(30, 3) for snake and (14, 5) for food
+User input received: Go LEFT
+Snake @ (27, 5)(31, 5)(31, 3) going LEFT
+Food  @ (14, 5)
 Score @ 10
-
-now painting @(29, 12) for snake and (46, 12) for food
-Snake @ (29, 13) going DOWN
-Food  @ (46, 12)
+now painting @(27, 5)(31, 5)(31, 3) for snake and (14, 5) for food
+User input received: Go LEFT
+Snake @ (26, 5)(31, 5)(31, 4) going LEFT
+Food  @ (14, 5)
 Score @ 10
-
-now painting @(29, 13) for snake and (46, 12) for food
-Snake @ (29, 12) going UP
-Food  @ (46, 12)
+now painting @(26, 5)(31, 5)(31, 4) for snake and (14, 5) for food
+User input received: Go LEFT
+Snake @ (25, 5)(31, 5) going LEFT
+Food  @ (14, 5)
 Score @ 10
-
-now painting @(29, 12) for snake and (46, 12) for food
-Snake @ (30, 12) going RIGHT
-Food  @ (46, 12)
+now painting @(25, 5)(31, 5) for snake and (14, 5) for food
+User input received: Go LEFT
+Snake @ (24, 5)(30, 5) going LEFT
+Food  @ (14, 5)
 Score @ 10
-
-now painting @(30, 12) for snake and (46, 12) for food
-Snake @ (31, 12) going RIGHT
-Food  @ (46, 12)
+now painting @(24, 5)(30, 5) for snake and (14, 5) for food
+User input received: Go LEFT
+Snake @ (23, 5)(29, 5) going LEFT
+Food  @ (14, 5)
 Score @ 10
-
-now painting @(31, 12) for snake and (46, 12) for food
-Snake @ (32, 12) going RIGHT
-Food  @ (46, 12)
+now painting @(23, 5)(29, 5) for snake and (14, 5) for food
+User input received: Go LEFT
+Snake @ (22, 5)(28, 5) going LEFT
+Food  @ (14, 5)
 Score @ 10
-
-now painting @(32, 12) for snake and (46, 12) for food
-Snake @ (33, 12) going RIGHT
-Food  @ (46, 12)
+now painting @(22, 5)(28, 5) for snake and (14, 5) for food
+User input received: Go LEFT
+Snake @ (21, 5)(27, 5) going LEFT
+Food  @ (14, 5)
 Score @ 10
-
-now painting @(33, 12) for snake and (46, 12) for food
-Snake @ (34, 12) going RIGHT
-Food  @ (46, 12)
+now painting @(21, 5)(27, 5) for snake and (14, 5) for food
+User input received: Go LEFT
+Snake @ (20, 5)(26, 5) going LEFT
+Food  @ (14, 5)
 Score @ 10
-
-now painting @(34, 12) for snake and (46, 12) for food
-Snake @ (35, 12) going RIGHT
-Food  @ (46, 12)
+now painting @(20, 5)(26, 5) for snake and (14, 5) for food
+User input received: Go LEFT
+Snake @ (19, 5)(25, 5) going LEFT
+Food  @ (14, 5)
 Score @ 10
-
-now painting @(35, 12) for snake and (46, 12) for food
-Snake @ (36, 12) going RIGHT
-Food  @ (46, 12)
+now painting @(19, 5)(25, 5) for snake and (14, 5) for food
+User input received: Go LEFT
+Snake @ (18, 5)(24, 5) going LEFT
+Food  @ (14, 5)
 Score @ 10
-
-now painting @(36, 12) for snake and (46, 12) for food
-Snake @ (37, 12) going RIGHT
-Food  @ (46, 12)
+now painting @(18, 5)(24, 5) for snake and (14, 5) for food
+User input received: Go LEFT
+Snake @ (17, 5)(23, 5) going LEFT
+Food  @ (14, 5)
 Score @ 10
-
-now painting @(37, 12) for snake and (46, 12) for food
-Snake @ (38, 12) going RIGHT
-Food  @ (46, 12)
+now painting @(17, 5)(23, 5) for snake and (14, 5) for food
+User input received: Go LEFT
+Snake @ (16, 5)(22, 5) going LEFT
+Food  @ (14, 5)
 Score @ 10
-
-now painting @(38, 12) for snake and (46, 12) for food
-Snake @ (39, 12) going RIGHT
-Food  @ (46, 12)
+now painting @(16, 5)(22, 5) for snake and (14, 5) for food
+User input received: Go LEFT
+Snake @ (15, 5)(21, 5) going LEFT
+Food  @ (14, 5)
 Score @ 10
-
-now painting @(39, 12) for snake and (46, 12) for food
-Snake @ (40, 12) going RIGHT
-Food  @ (46, 12)
-Score @ 10
-
-now painting @(40, 12) for snake and (46, 12) for food
-Snake @ (41, 12) going RIGHT
-Food  @ (46, 12)
-Score @ 10
-
-now painting @(41, 12) for snake and (46, 12) for food
-Snake @ (42, 12) going RIGHT
-Food  @ (46, 12)
-Score @ 10
-
-now painting @(42, 12) for snake and (46, 12) for food
-Snake @ (43, 12) going RIGHT
-Food  @ (46, 12)
-Score @ 10
-
-now painting @(43, 12) for snake and (46, 12) for food
-Snake @ (44, 12) going RIGHT
-Food  @ (46, 12)
-Score @ 10
-
-now painting @(44, 12) for snake and (46, 12) for food
-Snake @ (45, 12) going RIGHT
-Food  @ (46, 12)
-Score @ 10
-
-now painting @(45, 12) for snake and (46, 12) for food
-Snake @ (46, 12) going RIGHT
-Food  @ (58, 5)
+now painting @(15, 5)(21, 5) for snake and (14, 5) for food
+User input received: Go LEFT
+Snake @ (14, 5)(21, 5) going LEFT
+Food  @ (38, 8)
 Score @ 11
-
-now painting @(46, 12) for snake and (58, 5) for food
-Snake @ (47, 12) going RIGHT
-Food  @ (58, 5)
+now painting @(14, 5)(21, 5) for snake and (38, 8) for food
+User input received: Go DOWN
+Snake @ (14, 6)(14, 5)(20, 5) going DOWN
+Food  @ (38, 8)
 Score @ 11
-
-now painting @(47, 12) for snake and (58, 5) for food
-Snake @ (48, 12) going RIGHT
-Food  @ (58, 5)
+now painting @(14, 6)(14, 5)(20, 5) for snake and (38, 8) for food
+User input received: Go DOWN
+Snake @ (14, 7)(14, 5)(19, 5) going DOWN
+Food  @ (38, 8)
 Score @ 11
-
-now painting @(48, 12) for snake and (58, 5) for food
-Snake @ (49, 12) going RIGHT
-Food  @ (58, 5)
+now painting @(14, 7)(14, 5)(19, 5) for snake and (38, 8) for food
+User input received: Go DOWN
+Snake @ (14, 8)(14, 5)(18, 5) going DOWN
+Food  @ (38, 8)
 Score @ 11
-
-now painting @(49, 12) for snake and (58, 5) for food
-Snake @ (50, 12) going RIGHT
-Food  @ (58, 5)
+now painting @(14, 8)(14, 5)(18, 5) for snake and (38, 8) for food
+User input received: Go RIGHT
+Snake @ (15, 8)(14, 8)(14, 5)(17, 5) going RIGHT
+Food  @ (38, 8)
 Score @ 11
-
-now painting @(50, 12) for snake and (58, 5) for food
-Snake @ (51, 12) going RIGHT
-Food  @ (58, 5)
+now painting @(15, 8)(14, 8)(14, 5)(17, 5) for snake and (38, 8) for food
+User input received: Go RIGHT
+Snake @ (16, 8)(14, 8)(14, 5)(16, 5) going RIGHT
+Food  @ (38, 8)
 Score @ 11
-
-now painting @(51, 12) for snake and (58, 5) for food
-Snake @ (52, 12) going RIGHT
-Food  @ (58, 5)
+now painting @(16, 8)(14, 8)(14, 5)(16, 5) for snake and (38, 8) for food
+User input received: Go RIGHT
+Snake @ (17, 8)(14, 8)(14, 5)(15, 5) going RIGHT
+Food  @ (38, 8)
 Score @ 11
-
-now painting @(52, 12) for snake and (58, 5) for food
-Snake @ (53, 12) going RIGHT
-Food  @ (58, 5)
+now painting @(17, 8)(14, 8)(14, 5)(15, 5) for snake and (38, 8) for food
+User input received: Go RIGHT
+Snake @ (18, 8)(14, 8)(14, 5) going RIGHT
+Food  @ (38, 8)
 Score @ 11
-
-now painting @(53, 12) for snake and (58, 5) for food
-Snake @ (54, 12) going RIGHT
-Food  @ (58, 5)
+now painting @(18, 8)(14, 8)(14, 5) for snake and (38, 8) for food
+User input received: Go RIGHT
+Snake @ (19, 8)(14, 8)(14, 6) going RIGHT
+Food  @ (38, 8)
 Score @ 11
-
-now painting @(54, 12) for snake and (58, 5) for food
-Snake @ (55, 12) going RIGHT
-Food  @ (58, 5)
+now painting @(19, 8)(14, 8)(14, 6) for snake and (38, 8) for food
+User input received: Go RIGHT
+Snake @ (20, 8)(14, 8)(14, 7) going RIGHT
+Food  @ (38, 8)
 Score @ 11
-
-now painting @(55, 12) for snake and (58, 5) for food
-Snake @ (56, 12) going RIGHT
-Food  @ (58, 5)
+now painting @(20, 8)(14, 8)(14, 7) for snake and (38, 8) for food
+User input received: Go RIGHT
+Snake @ (21, 8)(14, 8) going RIGHT
+Food  @ (38, 8)
 Score @ 11
-
-now painting @(56, 12) for snake and (58, 5) for food
-Snake @ (56, 11) going UP
-Food  @ (58, 5)
+now painting @(21, 8)(14, 8) for snake and (38, 8) for food
+User input received: Go RIGHT
+Snake @ (22, 8)(15, 8) going RIGHT
+Food  @ (38, 8)
 Score @ 11
-
-now painting @(56, 11) for snake and (58, 5) for food
-Snake @ (56, 10) going UP
-Food  @ (58, 5)
+now painting @(22, 8)(15, 8) for snake and (38, 8) for food
+User input received: Go RIGHT
+Snake @ (23, 8)(16, 8) going RIGHT
+Food  @ (38, 8)
 Score @ 11
-
-now painting @(56, 10) for snake and (58, 5) for food
-Snake @ (56, 9) going UP
-Food  @ (58, 5)
+now painting @(23, 8)(16, 8) for snake and (38, 8) for food
+User input received: Go RIGHT
+Snake @ (24, 8)(17, 8) going RIGHT
+Food  @ (38, 8)
 Score @ 11
-
-now painting @(56, 9) for snake and (58, 5) for food
-Snake @ (56, 8) going UP
-Food  @ (58, 5)
+now painting @(24, 8)(17, 8) for snake and (38, 8) for food
+User input received: Go RIGHT
+Snake @ (25, 8)(18, 8) going RIGHT
+Food  @ (38, 8)
 Score @ 11
-
-now painting @(56, 8) for snake and (58, 5) for food
-Snake @ (56, 7) going UP
-Food  @ (58, 5)
+now painting @(25, 8)(18, 8) for snake and (38, 8) for food
+User input received: Go RIGHT
+Snake @ (26, 8)(19, 8) going RIGHT
+Food  @ (38, 8)
 Score @ 11
-
-now painting @(56, 7) for snake and (58, 5) for food
-Snake @ (56, 6) going UP
-Food  @ (58, 5)
+now painting @(26, 8)(19, 8) for snake and (38, 8) for food
+User input received: Go RIGHT
+Snake @ (27, 8)(20, 8) going RIGHT
+Food  @ (38, 8)
 Score @ 11
-
-now painting @(56, 6) for snake and (58, 5) for food
-Snake @ (56, 5) going UP
-Food  @ (58, 5)
+now painting @(27, 8)(20, 8) for snake and (38, 8) for food
+User input received: Go RIGHT
+Snake @ (28, 8)(21, 8) going RIGHT
+Food  @ (38, 8)
 Score @ 11
-
-now painting @(56, 5) for snake and (58, 5) for food
-Snake @ (57, 5) going RIGHT
-Food  @ (58, 5)
+now painting @(28, 8)(21, 8) for snake and (38, 8) for food
+User input received: Go RIGHT
+Snake @ (29, 8)(22, 8) going RIGHT
+Food  @ (38, 8)
 Score @ 11
-
-now painting @(57, 5) for snake and (58, 5) for food
-Snake @ (58, 5) going RIGHT
-Food  @ (27, 10)
+now painting @(29, 8)(22, 8) for snake and (38, 8) for food
+User input received: Go RIGHT
+Snake @ (30, 8)(23, 8) going RIGHT
+Food  @ (38, 8)
+Score @ 11
+now painting @(30, 8)(23, 8) for snake and (38, 8) for food
+User input received: Go RIGHT
+Snake @ (31, 8)(24, 8) going RIGHT
+Food  @ (38, 8)
+Score @ 11
+now painting @(31, 8)(24, 8) for snake and (38, 8) for food
+User input received: Go RIGHT
+Snake @ (32, 8)(25, 8) going RIGHT
+Food  @ (38, 8)
+Score @ 11
+now painting @(32, 8)(25, 8) for snake and (38, 8) for food
+User input received: Go RIGHT
+Snake @ (33, 8)(26, 8) going RIGHT
+Food  @ (38, 8)
+Score @ 11
+now painting @(33, 8)(26, 8) for snake and (38, 8) for food
+User input received: Go RIGHT
+Snake @ (34, 8)(27, 8) going RIGHT
+Food  @ (38, 8)
+Score @ 11
+now painting @(34, 8)(27, 8) for snake and (38, 8) for food
+User input received: Go RIGHT
+Snake @ (35, 8)(28, 8) going RIGHT
+Food  @ (38, 8)
+Score @ 11
+now painting @(35, 8)(28, 8) for snake and (38, 8) for food
+User input received: Go RIGHT
+Snake @ (36, 8)(29, 8) going RIGHT
+Food  @ (38, 8)
+Score @ 11
+now painting @(36, 8)(29, 8) for snake and (38, 8) for food
+User input received: Go RIGHT
+Snake @ (37, 8)(30, 8) going RIGHT
+Food  @ (38, 8)
+Score @ 11
+now painting @(37, 8)(30, 8) for snake and (38, 8) for food
+User input received: Go RIGHT
+Snake @ (38, 8)(30, 8) going RIGHT
+Food  @ (20, 5)
 Score @ 12
-
-now painting @(58, 5) for snake and (27, 10) for food
-Snake @ (57, 5) going LEFT
-Food  @ (27, 10)
+now painting @(38, 8)(30, 8) for snake and (20, 5) for food
+User input received: Go UP
+Snake @ (38, 7)(38, 8)(31, 8) going UP
+Food  @ (20, 5)
 Score @ 12
-
-now painting @(57, 5) for snake and (27, 10) for food
-Snake @ (56, 5) going LEFT
-Food  @ (27, 10)
+now painting @(38, 7)(38, 8)(31, 8) for snake and (20, 5) for food
+User input received: Go UP
+Snake @ (38, 6)(38, 8)(32, 8) going UP
+Food  @ (20, 5)
 Score @ 12
-
-now painting @(56, 5) for snake and (27, 10) for food
-Snake @ (55, 5) going LEFT
-Food  @ (27, 10)
+now painting @(38, 6)(38, 8)(32, 8) for snake and (20, 5) for food
+User input received: Go UP
+Snake @ (38, 5)(38, 8)(33, 8) going UP
+Food  @ (20, 5)
 Score @ 12
-
-now painting @(55, 5) for snake and (27, 10) for food
-Snake @ (54, 5) going LEFT
-Food  @ (27, 10)
+now painting @(38, 5)(38, 8)(33, 8) for snake and (20, 5) for food
+User input received: Go LEFT
+Snake @ (37, 5)(38, 5)(38, 8)(34, 8) going LEFT
+Food  @ (20, 5)
 Score @ 12
-
-now painting @(54, 5) for snake and (27, 10) for food
-Snake @ (53, 5) going LEFT
-Food  @ (27, 10)
+now painting @(37, 5)(38, 5)(38, 8)(34, 8) for snake and (20, 5) for food
+User input received: Go LEFT
+Snake @ (36, 5)(38, 5)(38, 8)(35, 8) going LEFT
+Food  @ (20, 5)
 Score @ 12
-
-now painting @(53, 5) for snake and (27, 10) for food
-Snake @ (52, 5) going LEFT
-Food  @ (27, 10)
+now painting @(36, 5)(38, 5)(38, 8)(35, 8) for snake and (20, 5) for food
+User input received: Go LEFT
+Snake @ (35, 5)(38, 5)(38, 8)(36, 8) going LEFT
+Food  @ (20, 5)
 Score @ 12
-
-now painting @(52, 5) for snake and (27, 10) for food
-Snake @ (51, 5) going LEFT
-Food  @ (27, 10)
+now painting @(35, 5)(38, 5)(38, 8)(36, 8) for snake and (20, 5) for food
+User input received: Go LEFT
+Snake @ (34, 5)(38, 5)(38, 8)(37, 8) going LEFT
+Food  @ (20, 5)
 Score @ 12
-
-now painting @(51, 5) for snake and (27, 10) for food
-Snake @ (50, 5) going LEFT
-Food  @ (27, 10)
+now painting @(34, 5)(38, 5)(38, 8)(37, 8) for snake and (20, 5) for food
+User input received: Go LEFT
+Snake @ (33, 5)(38, 5)(38, 8) going LEFT
+Food  @ (20, 5)
 Score @ 12
-
-now painting @(50, 5) for snake and (27, 10) for food
-Snake @ (49, 5) going LEFT
-Food  @ (27, 10)
+now painting @(33, 5)(38, 5)(38, 8) for snake and (20, 5) for food
+User input received: Go LEFT
+Snake @ (32, 5)(38, 5)(38, 7) going LEFT
+Food  @ (20, 5)
 Score @ 12
-
-now painting @(49, 5) for snake and (27, 10) for food
-Snake @ (48, 5) going LEFT
-Food  @ (27, 10)
+now painting @(32, 5)(38, 5)(38, 7) for snake and (20, 5) for food
+User input received: Go LEFT
+Snake @ (31, 5)(38, 5)(38, 6) going LEFT
+Food  @ (20, 5)
 Score @ 12
-
-now painting @(48, 5) for snake and (27, 10) for food
-Snake @ (47, 5) going LEFT
-Food  @ (27, 10)
+now painting @(31, 5)(38, 5)(38, 6) for snake and (20, 5) for food
+User input received: Go LEFT
+Snake @ (30, 5)(38, 5) going LEFT
+Food  @ (20, 5)
 Score @ 12
-
-now painting @(47, 5) for snake and (27, 10) for food
-Snake @ (46, 5) going LEFT
-Food  @ (27, 10)
+now painting @(30, 5)(38, 5) for snake and (20, 5) for food
+User input received: Go LEFT
+Snake @ (29, 5)(37, 5) going LEFT
+Food  @ (20, 5)
 Score @ 12
-
-now painting @(46, 5) for snake and (27, 10) for food
-Snake @ (45, 5) going LEFT
-Food  @ (27, 10)
+now painting @(29, 5)(37, 5) for snake and (20, 5) for food
+User input received: Go LEFT
+Snake @ (28, 5)(36, 5) going LEFT
+Food  @ (20, 5)
 Score @ 12
-
-now painting @(45, 5) for snake and (27, 10) for food
-Snake @ (44, 5) going LEFT
-Food  @ (27, 10)
+now painting @(28, 5)(36, 5) for snake and (20, 5) for food
+User input received: Go LEFT
+Snake @ (27, 5)(35, 5) going LEFT
+Food  @ (20, 5)
 Score @ 12
-
-now painting @(44, 5) for snake and (27, 10) for food
-Snake @ (43, 5) going LEFT
-Food  @ (27, 10)
+now painting @(27, 5)(35, 5) for snake and (20, 5) for food
+User input received: Go LEFT
+Snake @ (26, 5)(34, 5) going LEFT
+Food  @ (20, 5)
 Score @ 12
-
-now painting @(43, 5) for snake and (27, 10) for food
-Snake @ (42, 5) going LEFT
-Food  @ (27, 10)
+now painting @(26, 5)(34, 5) for snake and (20, 5) for food
+User input received: Go LEFT
+Snake @ (25, 5)(33, 5) going LEFT
+Food  @ (20, 5)
 Score @ 12
-
-now painting @(42, 5) for snake and (27, 10) for food
-Snake @ (41, 5) going LEFT
-Food  @ (27, 10)
+now painting @(25, 5)(33, 5) for snake and (20, 5) for food
+User input received: Go LEFT
+Snake @ (24, 5)(32, 5) going LEFT
+Food  @ (20, 5)
 Score @ 12
-
-now painting @(41, 5) for snake and (27, 10) for food
-Snake @ (40, 5) going LEFT
-Food  @ (27, 10)
+now painting @(24, 5)(32, 5) for snake and (20, 5) for food
+User input received: Go LEFT
+Snake @ (23, 5)(31, 5) going LEFT
+Food  @ (20, 5)
 Score @ 12
-
-now painting @(40, 5) for snake and (27, 10) for food
-Snake @ (39, 5) going LEFT
-Food  @ (27, 10)
+now painting @(23, 5)(31, 5) for snake and (20, 5) for food
+User input received: Go LEFT
+Snake @ (22, 5)(30, 5) going LEFT
+Food  @ (20, 5)
 Score @ 12
-
-now painting @(39, 5) for snake and (27, 10) for food
-Snake @ (38, 5) going LEFT
-Food  @ (27, 10)
+now painting @(22, 5)(30, 5) for snake and (20, 5) for food
+User input received: Go LEFT
+Snake @ (21, 5)(29, 5) going LEFT
+Food  @ (20, 5)
 Score @ 12
-
-now painting @(38, 5) for snake and (27, 10) for food
-Snake @ (37, 5) going LEFT
-Food  @ (27, 10)
-Score @ 12
-
-now painting @(37, 5) for snake and (27, 10) for food
-Snake @ (36, 5) going LEFT
-Food  @ (27, 10)
-Score @ 12
-
-now painting @(36, 5) for snake and (27, 10) for food
-Snake @ (35, 5) going LEFT
-Food  @ (27, 10)
-Score @ 12
-
-now painting @(35, 5) for snake and (27, 10) for food
-Snake @ (34, 5) going LEFT
-Food  @ (27, 10)
-Score @ 12
-
-now painting @(34, 5) for snake and (27, 10) for food
-Snake @ (33, 5) going LEFT
-Food  @ (27, 10)
-Score @ 12
-
-now painting @(33, 5) for snake and (27, 10) for food
-Snake @ (32, 5) going LEFT
-Food  @ (27, 10)
-Score @ 12
-
-now painting @(32, 5) for snake and (27, 10) for food
-Snake @ (31, 5) going LEFT
-Food  @ (27, 10)
-Score @ 12
-
-now painting @(31, 5) for snake and (27, 10) for food
-Snake @ (30, 5) going LEFT
-Food  @ (27, 10)
-Score @ 12
-
-now painting @(30, 5) for snake and (27, 10) for food
-Snake @ (29, 5) going LEFT
-Food  @ (27, 10)
-Score @ 12
-
-now painting @(29, 5) for snake and (27, 10) for food
-Snake @ (28, 5) going LEFT
-Food  @ (27, 10)
-Score @ 12
-
-now painting @(28, 5) for snake and (27, 10) for food
-Snake @ (27, 5) going LEFT
-Food  @ (27, 10)
-Score @ 12
-
-now painting @(27, 5) for snake and (27, 10) for food
-Snake @ (27, 6) going DOWN
-Food  @ (27, 10)
-Score @ 12
-
-now painting @(27, 6) for snake and (27, 10) for food
-Snake @ (27, 7) going DOWN
-Food  @ (27, 10)
-Score @ 12
-
-now painting @(27, 7) for snake and (27, 10) for food
-Snake @ (27, 8) going DOWN
-Food  @ (27, 10)
-Score @ 12
-
-now painting @(27, 8) for snake and (27, 10) for food
-Snake @ (27, 9) going DOWN
-Food  @ (27, 10)
-Score @ 12
-
-now painting @(27, 9) for snake and (27, 10) for food
-Snake @ (27, 10) going DOWN
-Food  @ (10, 17)
+now painting @(21, 5)(29, 5) for snake and (20, 5) for food
+User input received: Go LEFT
+Snake @ (20, 5)(29, 5) going LEFT
+Food  @ (26, 0)
 Score @ 13
-
-now painting @(27, 10) for snake and (10, 17) for food
-Snake @ (27, 11) going DOWN
-Food  @ (10, 17)
+now painting @(20, 5)(29, 5) for snake and (26, 0) for food
+User input received: Go UP
+Snake @ (20, 4)(20, 5)(28, 5) going UP
+Food  @ (26, 0)
 Score @ 13
-
-now painting @(27, 11) for snake and (10, 17) for food
-Snake @ (27, 12) going DOWN
-Food  @ (10, 17)
+now painting @(20, 4)(20, 5)(28, 5) for snake and (26, 0) for food
+User input received: Go UP
+Snake @ (20, 3)(20, 5)(27, 5) going UP
+Food  @ (26, 0)
 Score @ 13
-
-now painting @(27, 12) for snake and (10, 17) for food
-Snake @ (27, 13) going DOWN
-Food  @ (10, 17)
+now painting @(20, 3)(20, 5)(27, 5) for snake and (26, 0) for food
+User input received: Go UP
+Snake @ (20, 2)(20, 5)(26, 5) going UP
+Food  @ (26, 0)
 Score @ 13
-
-now painting @(27, 13) for snake and (10, 17) for food
-Snake @ (27, 14) going DOWN
-Food  @ (10, 17)
+now painting @(20, 2)(20, 5)(26, 5) for snake and (26, 0) for food
+User input received: Go UP
+Snake @ (20, 1)(20, 5)(25, 5) going UP
+Food  @ (26, 0)
 Score @ 13
-
-now painting @(27, 14) for snake and (10, 17) for food
-Snake @ (27, 15) going DOWN
-Food  @ (10, 17)
+now painting @(20, 1)(20, 5)(25, 5) for snake and (26, 0) for food
+User input received: Go UP
+Snake @ (20, 0)(20, 5)(24, 5) going UP
+Food  @ (26, 0)
 Score @ 13
-
-now painting @(27, 15) for snake and (10, 17) for food
-Snake @ (27, 16) going DOWN
-Food  @ (10, 17)
+now painting @(20, 0)(20, 5)(24, 5) for snake and (26, 0) for food
+User input received: Go RIGHT
+Snake @ (21, 0)(20, 0)(20, 5)(23, 5) going RIGHT
+Food  @ (26, 0)
 Score @ 13
-
-now painting @(27, 16) for snake and (10, 17) for food
-Snake @ (26, 16) going LEFT
-Food  @ (10, 17)
+now painting @(21, 0)(20, 0)(20, 5)(23, 5) for snake and (26, 0) for food
+User input received: Go RIGHT
+Snake @ (22, 0)(20, 0)(20, 5)(22, 5) going RIGHT
+Food  @ (26, 0)
 Score @ 13
-
-now painting @(26, 16) for snake and (10, 17) for food
-Snake @ (25, 16) going LEFT
-Food  @ (10, 17)
+now painting @(22, 0)(20, 0)(20, 5)(22, 5) for snake and (26, 0) for food
+User input received: Go RIGHT
+Snake @ (23, 0)(20, 0)(20, 5)(21, 5) going RIGHT
+Food  @ (26, 0)
 Score @ 13
-
-now painting @(25, 16) for snake and (10, 17) for food
-Snake @ (24, 16) going LEFT
-Food  @ (10, 17)
+now painting @(23, 0)(20, 0)(20, 5)(21, 5) for snake and (26, 0) for food
+User input received: Go RIGHT
+Snake @ (24, 0)(20, 0)(20, 5) going RIGHT
+Food  @ (26, 0)
 Score @ 13
-
-now painting @(24, 16) for snake and (10, 17) for food
-Snake @ (23, 16) going LEFT
-Food  @ (10, 17)
+now painting @(24, 0)(20, 0)(20, 5) for snake and (26, 0) for food
+User input received: Go RIGHT
+Snake @ (25, 0)(20, 0)(20, 4) going RIGHT
+Food  @ (26, 0)
 Score @ 13
-
-now painting @(23, 16) for snake and (10, 17) for food
-Snake @ (22, 16) going LEFT
-Food  @ (10, 17)
-Score @ 13
-
-now painting @(22, 16) for snake and (10, 17) for food
-Snake @ (21, 16) going LEFT
-Food  @ (10, 17)
-Score @ 13
-
-now painting @(21, 16) for snake and (10, 17) for food
-Snake @ (20, 16) going LEFT
-Food  @ (10, 17)
-Score @ 13
-
-now painting @(20, 16) for snake and (10, 17) for food
-Snake @ (19, 16) going LEFT
-Food  @ (10, 17)
-Score @ 13
-
-now painting @(19, 16) for snake and (10, 17) for food
-Snake @ (18, 16) going LEFT
-Food  @ (10, 17)
-Score @ 13
-
-now painting @(18, 16) for snake and (10, 17) for food
-Snake @ (17, 16) going LEFT
-Food  @ (10, 17)
-Score @ 13
-
-now painting @(17, 16) for snake and (10, 17) for food
-Snake @ (16, 16) going LEFT
-Food  @ (10, 17)
-Score @ 13
-
-now painting @(16, 16) for snake and (10, 17) for food
-Snake @ (15, 16) going LEFT
-Food  @ (10, 17)
-Score @ 13
-
-now painting @(15, 16) for snake and (10, 17) for food
-Snake @ (14, 16) going LEFT
-Food  @ (10, 17)
-Score @ 13
-
-now painting @(14, 16) for snake and (10, 17) for food
-Snake @ (13, 16) going LEFT
-Food  @ (10, 17)
-Score @ 13
-
-now painting @(13, 16) for snake and (10, 17) for food
-Snake @ (13, 17) going DOWN
-Food  @ (10, 17)
-Score @ 13
-
-now painting @(13, 17) for snake and (10, 17) for food
-Snake @ (12, 17) going LEFT
-Food  @ (10, 17)
-Score @ 13
-
-now painting @(12, 17) for snake and (10, 17) for food
-Snake @ (11, 17) going LEFT
-Food  @ (10, 17)
-Score @ 13
-
-now painting @(11, 17) for snake and (10, 17) for food
-Snake @ (10, 17) going LEFT
-Food  @ (36, 11)
+now painting @(25, 0)(20, 0)(20, 4) for snake and (26, 0) for food
+User input received: Go RIGHT
+Snake @ (26, 0)(20, 0)(20, 4) going RIGHT
+Food  @ (36, 4)
 Score @ 14
-
-now painting @(10, 17) for snake and (36, 11) for food
-Snake @ (9, 17) going LEFT
-Food  @ (36, 11)
+now painting @(26, 0)(20, 0)(20, 4) for snake and (36, 4) for food
+User input received: Go RIGHT
+Snake @ (27, 0)(20, 0)(20, 3) going RIGHT
+Food  @ (36, 4)
 Score @ 14
-
-now painting @(9, 17) for snake and (36, 11) for food
-Snake @ (8, 17) going LEFT
-Food  @ (36, 11)
+now painting @(27, 0)(20, 0)(20, 3) for snake and (36, 4) for food
+User input received: Go RIGHT
+Snake @ (28, 0)(20, 0)(20, 2) going RIGHT
+Food  @ (36, 4)
 Score @ 14
-
-now painting @(8, 17) for snake and (36, 11) for food
-Snake @ (9, 17) going RIGHT
-Food  @ (36, 11)
+now painting @(28, 0)(20, 0)(20, 2) for snake and (36, 4) for food
+User input received: Go RIGHT
+Snake @ (29, 0)(20, 0)(20, 1) going RIGHT
+Food  @ (36, 4)
 Score @ 14
-
-now painting @(9, 17) for snake and (36, 11) for food
-Snake @ (10, 17) going RIGHT
-Food  @ (36, 11)
+now painting @(29, 0)(20, 0)(20, 1) for snake and (36, 4) for food
+User input received: Go RIGHT
+Snake @ (30, 0)(20, 0) going RIGHT
+Food  @ (36, 4)
 Score @ 14
-
-now painting @(10, 17) for snake and (36, 11) for food
-Snake @ (11, 17) going RIGHT
-Food  @ (36, 11)
+now painting @(30, 0)(20, 0) for snake and (36, 4) for food
+User input received: Go RIGHT
+Snake @ (31, 0)(21, 0) going RIGHT
+Food  @ (36, 4)
 Score @ 14
-
-now painting @(11, 17) for snake and (36, 11) for food
-Snake @ (12, 17) going RIGHT
-Food  @ (36, 11)
+now painting @(31, 0)(21, 0) for snake and (36, 4) for food
+User input received: Go RIGHT
+Snake @ (32, 0)(22, 0) going RIGHT
+Food  @ (36, 4)
 Score @ 14
-
-now painting @(12, 17) for snake and (36, 11) for food
-Snake @ (13, 17) going RIGHT
-Food  @ (36, 11)
+now painting @(32, 0)(22, 0) for snake and (36, 4) for food
+User input received: Go RIGHT
+Snake @ (33, 0)(23, 0) going RIGHT
+Food  @ (36, 4)
 Score @ 14
-
-now painting @(13, 17) for snake and (36, 11) for food
-Snake @ (14, 17) going RIGHT
-Food  @ (36, 11)
+now painting @(33, 0)(23, 0) for snake and (36, 4) for food
+User input received: Go RIGHT
+Snake @ (34, 0)(24, 0) going RIGHT
+Food  @ (36, 4)
 Score @ 14
-
-now painting @(14, 17) for snake and (36, 11) for food
-Snake @ (15, 17) going RIGHT
-Food  @ (36, 11)
+now painting @(34, 0)(24, 0) for snake and (36, 4) for food
+User input received: Go RIGHT
+Snake @ (35, 0)(25, 0) going RIGHT
+Food  @ (36, 4)
 Score @ 14
-
-now painting @(15, 17) for snake and (36, 11) for food
-Snake @ (16, 17) going RIGHT
-Food  @ (36, 11)
+now painting @(35, 0)(25, 0) for snake and (36, 4) for food
+User input received: Go RIGHT
+Snake @ (36, 0)(26, 0) going RIGHT
+Food  @ (36, 4)
 Score @ 14
-
-now painting @(16, 17) for snake and (36, 11) for food
-Snake @ (17, 17) going RIGHT
-Food  @ (36, 11)
+now painting @(36, 0)(26, 0) for snake and (36, 4) for food
+User input received: Go DOWN
+Snake @ (36, 1)(36, 0)(27, 0) going DOWN
+Food  @ (36, 4)
 Score @ 14
-
-now painting @(17, 17) for snake and (36, 11) for food
-Snake @ (18, 17) going RIGHT
-Food  @ (36, 11)
+now painting @(36, 1)(36, 0)(27, 0) for snake and (36, 4) for food
+User input received: Go DOWN
+Snake @ (36, 2)(36, 0)(28, 0) going DOWN
+Food  @ (36, 4)
 Score @ 14
-
-now painting @(18, 17) for snake and (36, 11) for food
-Snake @ (19, 17) going RIGHT
-Food  @ (36, 11)
+now painting @(36, 2)(36, 0)(28, 0) for snake and (36, 4) for food
+User input received: Go DOWN
+Snake @ (36, 3)(36, 0)(29, 0) going DOWN
+Food  @ (36, 4)
 Score @ 14
-
-now painting @(19, 17) for snake and (36, 11) for food
-Snake @ (20, 17) going RIGHT
-Food  @ (36, 11)
-Score @ 14
-
-now painting @(20, 17) for snake and (36, 11) for food
-Snake @ (21, 17) going RIGHT
-Food  @ (36, 11)
-Score @ 14
-
-now painting @(21, 17) for snake and (36, 11) for food
-Snake @ (22, 17) going RIGHT
-Food  @ (36, 11)
-Score @ 14
-
-now painting @(22, 17) for snake and (36, 11) for food
-Snake @ (23, 17) going RIGHT
-Food  @ (36, 11)
-Score @ 14
-
-now painting @(23, 17) for snake and (36, 11) for food
-Snake @ (24, 17) going RIGHT
-Food  @ (36, 11)
-Score @ 14
-
-now painting @(24, 17) for snake and (36, 11) for food
-Snake @ (25, 17) going RIGHT
-Food  @ (36, 11)
-Score @ 14
-
-now painting @(25, 17) for snake and (36, 11) for food
-Snake @ (26, 17) going RIGHT
-Food  @ (36, 11)
-Score @ 14
-
-now painting @(26, 17) for snake and (36, 11) for food
-Snake @ (27, 17) going RIGHT
-Food  @ (36, 11)
-Score @ 14
-
-now painting @(27, 17) for snake and (36, 11) for food
-Snake @ (28, 17) going RIGHT
-Food  @ (36, 11)
-Score @ 14
-
-now painting @(28, 17) for snake and (36, 11) for food
-Snake @ (29, 17) going RIGHT
-Food  @ (36, 11)
-Score @ 14
-
-now painting @(29, 17) for snake and (36, 11) for food
-Snake @ (30, 17) going RIGHT
-Food  @ (36, 11)
-Score @ 14
-
-now painting @(30, 17) for snake and (36, 11) for food
-Snake @ (31, 17) going RIGHT
-Food  @ (36, 11)
-Score @ 14
-
-now painting @(31, 17) for snake and (36, 11) for food
-Snake @ (32, 17) going RIGHT
-Food  @ (36, 11)
-Score @ 14
-
-now painting @(32, 17) for snake and (36, 11) for food
-Snake @ (33, 17) going RIGHT
-Food  @ (36, 11)
-Score @ 14
-
-now painting @(33, 17) for snake and (36, 11) for food
-Snake @ (34, 17) going RIGHT
-Food  @ (36, 11)
-Score @ 14
-
-now painting @(34, 17) for snake and (36, 11) for food
-Snake @ (35, 17) going RIGHT
-Food  @ (36, 11)
-Score @ 14
-
-now painting @(35, 17) for snake and (36, 11) for food
-Snake @ (35, 16) going UP
-Food  @ (36, 11)
-Score @ 14
-
-now painting @(35, 16) for snake and (36, 11) for food
-Snake @ (35, 15) going UP
-Food  @ (36, 11)
-Score @ 14
-
-now painting @(35, 15) for snake and (36, 11) for food
-Snake @ (35, 14) going UP
-Food  @ (36, 11)
-Score @ 14
-
-now painting @(35, 14) for snake and (36, 11) for food
-Snake @ (35, 13) going UP
-Food  @ (36, 11)
-Score @ 14
-
-now painting @(35, 13) for snake and (36, 11) for food
-Snake @ (35, 12) going UP
-Food  @ (36, 11)
-Score @ 14
-
-now painting @(35, 12) for snake and (36, 11) for food
-Snake @ (35, 11) going UP
-Food  @ (36, 11)
-Score @ 14
-
-now painting @(35, 11) for snake and (36, 11) for food
-Snake @ (36, 11) going RIGHT
-Food  @ (24, 1)
+now painting @(36, 3)(36, 0)(29, 0) for snake and (36, 4) for food
+User input received: Go DOWN
+Snake @ (36, 4)(36, 0)(29, 0) going DOWN
+Food  @ (6, 0)
 Score @ 15
-
-now painting @(36, 11) for snake and (24, 1) for food
-Snake @ (36, 10) going UP
-Food  @ (24, 1)
+now painting @(36, 4)(36, 0)(29, 0) for snake and (6, 0) for food
+User input received: Go DOWN
+Snake @ (36, 5)(36, 0)(30, 0) going DOWN
+Food  @ (6, 0)
 Score @ 15
-
-now painting @(36, 10) for snake and (24, 1) for food
-Snake @ (36, 9) going UP
-Food  @ (24, 1)
+now painting @(36, 5)(36, 0)(30, 0) for snake and (6, 0) for food
+User input received: Go DOWN
+Snake @ (36, 6)(36, 0)(31, 0) going DOWN
+Food  @ (6, 0)
 Score @ 15
-
-now painting @(36, 9) for snake and (24, 1) for food
-Snake @ (36, 8) going UP
-Food  @ (24, 1)
+now painting @(36, 6)(36, 0)(31, 0) for snake and (6, 0) for food
+User input received: Go LEFT
+Snake @ (35, 6)(36, 6)(36, 0)(32, 0) going LEFT
+Food  @ (6, 0)
 Score @ 15
-
-now painting @(36, 8) for snake and (24, 1) for food
-Snake @ (36, 7) going UP
-Food  @ (24, 1)
+now painting @(35, 6)(36, 6)(36, 0)(32, 0) for snake and (6, 0) for food
+User input received: Go LEFT
+Snake @ (34, 6)(36, 6)(36, 0)(33, 0) going LEFT
+Food  @ (6, 0)
 Score @ 15
-
-now painting @(36, 7) for snake and (24, 1) for food
-Snake @ (36, 6) going UP
-Food  @ (24, 1)
+now painting @(34, 6)(36, 6)(36, 0)(33, 0) for snake and (6, 0) for food
+User input received: Go LEFT
+Snake @ (33, 6)(36, 6)(36, 0)(34, 0) going LEFT
+Food  @ (6, 0)
 Score @ 15
-
-now painting @(36, 6) for snake and (24, 1) for food
-Snake @ (36, 5) going UP
-Food  @ (24, 1)
+now painting @(33, 6)(36, 6)(36, 0)(34, 0) for snake and (6, 0) for food
+User input received: Go LEFT
+Snake @ (32, 6)(36, 6)(36, 0)(35, 0) going LEFT
+Food  @ (6, 0)
 Score @ 15
-
-now painting @(36, 5) for snake and (24, 1) for food
-Snake @ (36, 4) going UP
-Food  @ (24, 1)
+now painting @(32, 6)(36, 6)(36, 0)(35, 0) for snake and (6, 0) for food
+User input received: Go LEFT
+Snake @ (31, 6)(36, 6)(36, 0) going LEFT
+Food  @ (6, 0)
 Score @ 15
-
-now painting @(36, 4) for snake and (24, 1) for food
-Snake @ (36, 3) going UP
-Food  @ (24, 1)
+now painting @(31, 6)(36, 6)(36, 0) for snake and (6, 0) for food
+User input received: Go LEFT
+Snake @ (30, 6)(36, 6)(36, 1) going LEFT
+Food  @ (6, 0)
 Score @ 15
-
-now painting @(36, 3) for snake and (24, 1) for food
-Snake @ (36, 2) going UP
-Food  @ (24, 1)
+now painting @(30, 6)(36, 6)(36, 1) for snake and (6, 0) for food
+User input received: Go LEFT
+Snake @ (29, 6)(36, 6)(36, 2) going LEFT
+Food  @ (6, 0)
 Score @ 15
-
-now painting @(36, 2) for snake and (24, 1) for food
-Snake @ (36, 1) going UP
-Food  @ (24, 1)
+now painting @(29, 6)(36, 6)(36, 2) for snake and (6, 0) for food
+User input received: Go LEFT
+Snake @ (28, 6)(36, 6)(36, 3) going LEFT
+Food  @ (6, 0)
 Score @ 15
-
-now painting @(36, 1) for snake and (24, 1) for food
-Snake @ (35, 1) going LEFT
-Food  @ (24, 1)
+now painting @(28, 6)(36, 6)(36, 3) for snake and (6, 0) for food
+User input received: Go LEFT
+Snake @ (27, 6)(36, 6)(36, 4) going LEFT
+Food  @ (6, 0)
 Score @ 15
-
-now painting @(35, 1) for snake and (24, 1) for food
-Snake @ (34, 1) going LEFT
-Food  @ (24, 1)
+now painting @(27, 6)(36, 6)(36, 4) for snake and (6, 0) for food
+User input received: Go LEFT
+Snake @ (26, 6)(36, 6)(36, 5) going LEFT
+Food  @ (6, 0)
 Score @ 15
-
-now painting @(34, 1) for snake and (24, 1) for food
-Snake @ (33, 1) going LEFT
-Food  @ (24, 1)
+now painting @(26, 6)(36, 6)(36, 5) for snake and (6, 0) for food
+User input received: Go LEFT
+Snake @ (25, 6)(36, 6) going LEFT
+Food  @ (6, 0)
 Score @ 15
-
-now painting @(33, 1) for snake and (24, 1) for food
-Snake @ (32, 1) going LEFT
-Food  @ (24, 1)
+now painting @(25, 6)(36, 6) for snake and (6, 0) for food
+User input received: Go LEFT
+Snake @ (24, 6)(35, 6) going LEFT
+Food  @ (6, 0)
 Score @ 15
-
-now painting @(32, 1) for snake and (24, 1) for food
-Snake @ (31, 1) going LEFT
-Food  @ (24, 1)
+now painting @(24, 6)(35, 6) for snake and (6, 0) for food
+User input received: Go LEFT
+Snake @ (23, 6)(34, 6) going LEFT
+Food  @ (6, 0)
 Score @ 15
-
-now painting @(31, 1) for snake and (24, 1) for food
-Snake @ (30, 1) going LEFT
-Food  @ (24, 1)
+now painting @(23, 6)(34, 6) for snake and (6, 0) for food
+User input received: Go LEFT
+Snake @ (22, 6)(33, 6) going LEFT
+Food  @ (6, 0)
 Score @ 15
-
-now painting @(30, 1) for snake and (24, 1) for food
-Snake @ (29, 1) going LEFT
-Food  @ (24, 1)
+now painting @(22, 6)(33, 6) for snake and (6, 0) for food
+User input received: Go LEFT
+Snake @ (21, 6)(32, 6) going LEFT
+Food  @ (6, 0)
 Score @ 15
-
-now painting @(29, 1) for snake and (24, 1) for food
-Snake @ (28, 1) going LEFT
-Food  @ (24, 1)
+now painting @(21, 6)(32, 6) for snake and (6, 0) for food
+User input received: Go LEFT
+Snake @ (20, 6)(31, 6) going LEFT
+Food  @ (6, 0)
 Score @ 15
-
-now painting @(28, 1) for snake and (24, 1) for food
-Snake @ (27, 1) going LEFT
-Food  @ (24, 1)
+now painting @(20, 6)(31, 6) for snake and (6, 0) for food
+User input received: Go LEFT
+Snake @ (19, 6)(30, 6) going LEFT
+Food  @ (6, 0)
 Score @ 15
-
-now painting @(27, 1) for snake and (24, 1) for food
-Snake @ (26, 1) going LEFT
-Food  @ (24, 1)
+now painting @(19, 6)(30, 6) for snake and (6, 0) for food
+User input received: Go LEFT
+Snake @ (18, 6)(29, 6) going LEFT
+Food  @ (6, 0)
 Score @ 15
-
-now painting @(26, 1) for snake and (24, 1) for food
-Snake @ (25, 1) going LEFT
-Food  @ (24, 1)
+now painting @(18, 6)(29, 6) for snake and (6, 0) for food
+User input received: Go LEFT
+Snake @ (17, 6)(28, 6) going LEFT
+Food  @ (6, 0)
 Score @ 15
-
-now painting @(25, 1) for snake and (24, 1) for food
-Snake @ (24, 1) going LEFT
-Food  @ (77, 16)
+now painting @(17, 6)(28, 6) for snake and (6, 0) for food
+User input received: Go LEFT
+Snake @ (16, 6)(27, 6) going LEFT
+Food  @ (6, 0)
+Score @ 15
+now painting @(16, 6)(27, 6) for snake and (6, 0) for food
+User input received: Go LEFT
+Snake @ (15, 6)(26, 6) going LEFT
+Food  @ (6, 0)
+Score @ 15
+now painting @(15, 6)(26, 6) for snake and (6, 0) for food
+User input received: Go LEFT
+Snake @ (14, 6)(25, 6) going LEFT
+Food  @ (6, 0)
+Score @ 15
+now painting @(14, 6)(25, 6) for snake and (6, 0) for food
+User input received: Go LEFT
+Snake @ (13, 6)(24, 6) going LEFT
+Food  @ (6, 0)
+Score @ 15
+now painting @(13, 6)(24, 6) for snake and (6, 0) for food
+User input received: Go LEFT
+Snake @ (12, 6)(23, 6) going LEFT
+Food  @ (6, 0)
+Score @ 15
+now painting @(12, 6)(23, 6) for snake and (6, 0) for food
+User input received: Go LEFT
+Snake @ (11, 6)(22, 6) going LEFT
+Food  @ (6, 0)
+Score @ 15
+now painting @(11, 6)(22, 6) for snake and (6, 0) for food
+User input received: Go LEFT
+Snake @ (10, 6)(21, 6) going LEFT
+Food  @ (6, 0)
+Score @ 15
+now painting @(10, 6)(21, 6) for snake and (6, 0) for food
+User input received: Go LEFT
+Snake @ (9, 6)(20, 6) going LEFT
+Food  @ (6, 0)
+Score @ 15
+now painting @(9, 6)(20, 6) for snake and (6, 0) for food
+User input received: Go LEFT
+Snake @ (8, 6)(19, 6) going LEFT
+Food  @ (6, 0)
+Score @ 15
+now painting @(8, 6)(19, 6) for snake and (6, 0) for food
+User input received: Go LEFT
+Snake @ (7, 6)(18, 6) going LEFT
+Food  @ (6, 0)
+Score @ 15
+now painting @(7, 6)(18, 6) for snake and (6, 0) for food
+User input received: Go LEFT
+Snake @ (6, 6)(17, 6) going LEFT
+Food  @ (6, 0)
+Score @ 15
+now painting @(6, 6)(17, 6) for snake and (6, 0) for food
+User input received: Go UP
+Snake @ (6, 5)(6, 6)(16, 6) going UP
+Food  @ (6, 0)
+Score @ 15
+now painting @(6, 5)(6, 6)(16, 6) for snake and (6, 0) for food
+User input received: Go UP
+Snake @ (6, 4)(6, 6)(15, 6) going UP
+Food  @ (6, 0)
+Score @ 15
+now painting @(6, 4)(6, 6)(15, 6) for snake and (6, 0) for food
+User input received: Go UP
+Snake @ (6, 3)(6, 6)(14, 6) going UP
+Food  @ (6, 0)
+Score @ 15
+now painting @(6, 3)(6, 6)(14, 6) for snake and (6, 0) for food
+User input received: Go UP
+Snake @ (6, 2)(6, 6)(13, 6) going UP
+Food  @ (6, 0)
+Score @ 15
+now painting @(6, 2)(6, 6)(13, 6) for snake and (6, 0) for food
+User input received: Go UP
+Snake @ (6, 1)(6, 6)(12, 6) going UP
+Food  @ (6, 0)
+Score @ 15
+now painting @(6, 1)(6, 6)(12, 6) for snake and (6, 0) for food
+User input received: Go UP
+Snake @ (6, 0)(6, 6)(12, 6) going UP
+Food  @ (7, 9)
 Score @ 16
-
-now painting @(24, 1) for snake and (77, 16) for food
-Snake @ (23, 1) going LEFT
-Food  @ (77, 16)
+now painting @(6, 0)(6, 6)(12, 6) for snake and (7, 9) for food
+User input received: Go RIGHT
+Snake @ (7, 0)(6, 0)(6, 6)(11, 6) going RIGHT
+Food  @ (7, 9)
 Score @ 16
-
-now painting @(23, 1) for snake and (77, 16) for food
-Snake @ (22, 1) going LEFT
-Food  @ (77, 16)
+now painting @(7, 0)(6, 0)(6, 6)(11, 6) for snake and (7, 9) for food
+User input received: Go RIGHT
+Snake @ (8, 0)(6, 0)(6, 6)(10, 6) going RIGHT
+Food  @ (7, 9)
 Score @ 16
-
-now painting @(22, 1) for snake and (77, 16) for food
-Snake @ (21, 1) going LEFT
-Food  @ (77, 16)
+now painting @(8, 0)(6, 0)(6, 6)(10, 6) for snake and (7, 9) for food
+User input received: Go RIGHT
+Snake @ (9, 0)(6, 0)(6, 6)(9, 6) going RIGHT
+Food  @ (7, 9)
 Score @ 16
-
-now painting @(21, 1) for snake and (77, 16) for food
-Snake @ (20, 1) going LEFT
-Food  @ (77, 16)
+now painting @(9, 0)(6, 0)(6, 6)(9, 6) for snake and (7, 9) for food
+User input received: Go RIGHT
+Snake @ (10, 0)(6, 0)(6, 6)(8, 6) going RIGHT
+Food  @ (7, 9)
 Score @ 16
-
-now painting @(20, 1) for snake and (77, 16) for food
+now painting @(10, 0)(6, 0)(6, 6)(8, 6) for snake and (7, 9) for food
+User input received: Go RIGHT
+Snake @ (11, 0)(6, 0)(6, 6)(7, 6) going RIGHT
+Food  @ (7, 9)
+Score @ 16
+now painting @(11, 0)(6, 0)(6, 6)(7, 6) for snake and (7, 9) for food
+User input received: Go RIGHT
+Snake @ (12, 0)(6, 0)(6, 6) going RIGHT
+Food  @ (7, 9)
+Score @ 16
+now painting @(12, 0)(6, 0)(6, 6) for snake and (7, 9) for food
+User input received: Go RIGHT
+Snake @ (13, 0)(6, 0)(6, 5) going RIGHT
+Food  @ (7, 9)
+Score @ 16
+now painting @(13, 0)(6, 0)(6, 5) for snake and (7, 9) for food
+User input received: Go DOWN
+Snake @ (13, 1)(13, 0)(6, 0)(6, 4) going DOWN
+Food  @ (7, 9)
+Score @ 16
+now painting @(13, 1)(13, 0)(6, 0)(6, 4) for snake and (7, 9) for food
+User input received: Go DOWN
+Snake @ (13, 2)(13, 0)(6, 0)(6, 3) going DOWN
+Food  @ (7, 9)
+Score @ 16
+now painting @(13, 2)(13, 0)(6, 0)(6, 3) for snake and (7, 9) for food
+User input received: Go DOWN
+Snake @ (13, 3)(13, 0)(6, 0)(6, 2) going DOWN
+Food  @ (7, 9)
+Score @ 16
+now painting @(13, 3)(13, 0)(6, 0)(6, 2) for snake and (7, 9) for food
+User input received: Go DOWN
+Snake @ (13, 4)(13, 0)(6, 0)(6, 1) going DOWN
+Food  @ (7, 9)
+Score @ 16
+now painting @(13, 4)(13, 0)(6, 0)(6, 1) for snake and (7, 9) for food
+User input received: Go DOWN
+Snake @ (13, 5)(13, 0)(6, 0) going DOWN
+Food  @ (7, 9)
+Score @ 16
+now painting @(13, 5)(13, 0)(6, 0) for snake and (7, 9) for food
+User input received: Go DOWN
+Snake @ (13, 6)(13, 0)(7, 0) going DOWN
+Food  @ (7, 9)
+Score @ 16
+now painting @(13, 6)(13, 0)(7, 0) for snake and (7, 9) for food
+User input received: Go DOWN
+Snake @ (13, 7)(13, 0)(8, 0) going DOWN
+Food  @ (7, 9)
+Score @ 16
+now painting @(13, 7)(13, 0)(8, 0) for snake and (7, 9) for food
+User input received: Go DOWN
+Snake @ (13, 8)(13, 0)(9, 0) going DOWN
+Food  @ (7, 9)
+Score @ 16
+now painting @(13, 8)(13, 0)(9, 0) for snake and (7, 9) for food
+User input received: Go DOWN
+Snake @ (13, 9)(13, 0)(10, 0) going DOWN
+Food  @ (7, 9)
+Score @ 16
+now painting @(13, 9)(13, 0)(10, 0) for snake and (7, 9) for food
+User input received: Go LEFT
+Snake @ (12, 9)(13, 9)(13, 0)(11, 0) going LEFT
+Food  @ (7, 9)
+Score @ 16
+now painting @(12, 9)(13, 9)(13, 0)(11, 0) for snake and (7, 9) for food
+User input received: Go LEFT
+Snake @ (11, 9)(13, 9)(13, 0)(12, 0) going LEFT
+Food  @ (7, 9)
+Score @ 16
+now painting @(11, 9)(13, 9)(13, 0)(12, 0) for snake and (7, 9) for food
+User input received: Go LEFT
+Snake @ (10, 9)(13, 9)(13, 0) going LEFT
+Food  @ (7, 9)
+Score @ 16
+now painting @(10, 9)(13, 9)(13, 0) for snake and (7, 9) for food
+User input received: Go LEFT
+Snake @ (9, 9)(13, 9)(13, 1) going LEFT
+Food  @ (7, 9)
+Score @ 16
+now painting @(9, 9)(13, 9)(13, 1) for snake and (7, 9) for food
+User input received: Go LEFT
+Snake @ (8, 9)(13, 9)(13, 2) going LEFT
+Food  @ (7, 9)
+Score @ 16
+now painting @(8, 9)(13, 9)(13, 2) for snake and (7, 9) for food
+User input received: Go LEFT
+Snake @ (7, 9)(13, 9)(13, 2) going LEFT
+Food  @ (14, 11)
+Score @ 17
+now painting @(7, 9)(13, 9)(13, 2) for snake and (14, 11) for food
+User input received: Go DOWN
+Snake @ (7, 10)(7, 9)(13, 9)(13, 3) going DOWN
+Food  @ (14, 11)
+Score @ 17
+now painting @(7, 10)(7, 9)(13, 9)(13, 3) for snake and (14, 11) for food
+User input received: Go DOWN
+Snake @ (7, 11)(7, 9)(13, 9)(13, 4) going DOWN
+Food  @ (14, 11)
+Score @ 17
+now painting @(7, 11)(7, 9)(13, 9)(13, 4) for snake and (14, 11) for food
+User input received: Go RIGHT
+Snake @ (8, 11)(7, 11)(7, 9)(13, 9)(13, 5) going RIGHT
+Food  @ (14, 11)
+Score @ 17
+now painting @(8, 11)(7, 11)(7, 9)(13, 9)(13, 5) for snake and (14, 11) for food
+User input received: Go RIGHT
+Snake @ (9, 11)(7, 11)(7, 9)(13, 9)(13, 6) going RIGHT
+Food  @ (14, 11)
+Score @ 17
+now painting @(9, 11)(7, 11)(7, 9)(13, 9)(13, 6) for snake and (14, 11) for food
+User input received: Go RIGHT
+Snake @ (10, 11)(7, 11)(7, 9)(13, 9)(13, 7) going RIGHT
+Food  @ (14, 11)
+Score @ 17
+now painting @(10, 11)(7, 11)(7, 9)(13, 9)(13, 7) for snake and (14, 11) for food
+User input received: Go RIGHT
+Snake @ (11, 11)(7, 11)(7, 9)(13, 9)(13, 8) going RIGHT
+Food  @ (14, 11)
+Score @ 17
+now painting @(11, 11)(7, 11)(7, 9)(13, 9)(13, 8) for snake and (14, 11) for food
+User input received: Go RIGHT
+Snake @ (12, 11)(7, 11)(7, 9)(13, 9) going RIGHT
+Food  @ (14, 11)
+Score @ 17
+now painting @(12, 11)(7, 11)(7, 9)(13, 9) for snake and (14, 11) for food
+User input received: Go RIGHT
+Snake @ (13, 11)(7, 11)(7, 9)(12, 9) going RIGHT
+Food  @ (14, 11)
+Score @ 17
+now painting @(13, 11)(7, 11)(7, 9)(12, 9) for snake and (14, 11) for food
+User input received: Go RIGHT
+Snake @ (14, 11)(7, 11)(7, 9)(12, 9) going RIGHT
+Food  @ (32, 5)
+Score @ 18
+now painting @(14, 11)(7, 11)(7, 9)(12, 9) for snake and (32, 5) for food
+User input received: Go RIGHT
+Snake @ (15, 11)(7, 11)(7, 9)(11, 9) going RIGHT
+Food  @ (32, 5)
+Score @ 18
+now painting @(15, 11)(7, 11)(7, 9)(11, 9) for snake and (32, 5) for food
+User input received: Go RIGHT
+Snake @ (16, 11)(7, 11)(7, 9)(10, 9) going RIGHT
+Food  @ (32, 5)
+Score @ 18
+now painting @(16, 11)(7, 11)(7, 9)(10, 9) for snake and (32, 5) for food
+User input received: Go RIGHT
+Snake @ (17, 11)(7, 11)(7, 9)(9, 9) going RIGHT
+Food  @ (32, 5)
+Score @ 18
+now painting @(17, 11)(7, 11)(7, 9)(9, 9) for snake and (32, 5) for food
+User input received: Go RIGHT
+Snake @ (18, 11)(7, 11)(7, 9)(8, 9) going RIGHT
+Food  @ (32, 5)
+Score @ 18
+now painting @(18, 11)(7, 11)(7, 9)(8, 9) for snake and (32, 5) for food
+User input received: Go RIGHT
+Snake @ (19, 11)(7, 11)(7, 9) going RIGHT
+Food  @ (32, 5)
+Score @ 18
+now painting @(19, 11)(7, 11)(7, 9) for snake and (32, 5) for food
+User input received: Go RIGHT
+Snake @ (20, 11)(7, 11)(7, 10) going RIGHT
+Food  @ (32, 5)
+Score @ 18
+now painting @(20, 11)(7, 11)(7, 10) for snake and (32, 5) for food
+User input received: Go RIGHT
+Snake @ (21, 11)(7, 11) going RIGHT
+Food  @ (32, 5)
+Score @ 18
+now painting @(21, 11)(7, 11) for snake and (32, 5) for food
+User input received: Go RIGHT
+Snake @ (22, 11)(8, 11) going RIGHT
+Food  @ (32, 5)
+Score @ 18
+now painting @(22, 11)(8, 11) for snake and (32, 5) for food
+User input received: Go RIGHT
+Snake @ (23, 11)(9, 11) going RIGHT
+Food  @ (32, 5)
+Score @ 18
+now painting @(23, 11)(9, 11) for snake and (32, 5) for food
+User input received: Go RIGHT
+Snake @ (24, 11)(10, 11) going RIGHT
+Food  @ (32, 5)
+Score @ 18
+now painting @(24, 11)(10, 11) for snake and (32, 5) for food
+User input received: Go RIGHT
+Snake @ (25, 11)(11, 11) going RIGHT
+Food  @ (32, 5)
+Score @ 18
+now painting @(25, 11)(11, 11) for snake and (32, 5) for food
+User input received: Go RIGHT
+Snake @ (26, 11)(12, 11) going RIGHT
+Food  @ (32, 5)
+Score @ 18
+now painting @(26, 11)(12, 11) for snake and (32, 5) for food
+User input received: Go RIGHT
+Snake @ (27, 11)(13, 11) going RIGHT
+Food  @ (32, 5)
+Score @ 18
+now painting @(27, 11)(13, 11) for snake and (32, 5) for food
+User input received: Go RIGHT
+Snake @ (28, 11)(14, 11) going RIGHT
+Food  @ (32, 5)
+Score @ 18
+now painting @(28, 11)(14, 11) for snake and (32, 5) for food
+User input received: Go RIGHT
+Snake @ (29, 11)(15, 11) going RIGHT
+Food  @ (32, 5)
+Score @ 18
+now painting @(29, 11)(15, 11) for snake and (32, 5) for food
+User input received: Go UP
+Snake @ (29, 10)(29, 11)(16, 11) going UP
+Food  @ (32, 5)
+Score @ 18
+now painting @(29, 10)(29, 11)(16, 11) for snake and (32, 5) for food
+User input received: Go UP
+Snake @ (29, 9)(29, 11)(17, 11) going UP
+Food  @ (32, 5)
+Score @ 18
+now painting @(29, 9)(29, 11)(17, 11) for snake and (32, 5) for food
+User input received: Go UP
+Snake @ (29, 8)(29, 11)(18, 11) going UP
+Food  @ (32, 5)
+Score @ 18
+now painting @(29, 8)(29, 11)(18, 11) for snake and (32, 5) for food
+User input received: Go UP
+Snake @ (29, 7)(29, 11)(19, 11) going UP
+Food  @ (32, 5)
+Score @ 18
+now painting @(29, 7)(29, 11)(19, 11) for snake and (32, 5) for food
+User input received: Go UP
+Snake @ (29, 6)(29, 11)(20, 11) going UP
+Food  @ (32, 5)
+Score @ 18
+now painting @(29, 6)(29, 11)(20, 11) for snake and (32, 5) for food
+User input received: Go UP
+Snake @ (29, 5)(29, 11)(21, 11) going UP
+Food  @ (32, 5)
+Score @ 18
+now painting @(29, 5)(29, 11)(21, 11) for snake and (32, 5) for food
+User input received: Go RIGHT
+Snake @ (30, 5)(29, 5)(29, 11)(22, 11) going RIGHT
+Food  @ (32, 5)
+Score @ 18
+now painting @(30, 5)(29, 5)(29, 11)(22, 11) for snake and (32, 5) for food
+User input received: Go RIGHT
+Snake @ (31, 5)(29, 5)(29, 11)(23, 11) going RIGHT
+Food  @ (32, 5)
+Score @ 18
+now painting @(31, 5)(29, 5)(29, 11)(23, 11) for snake and (32, 5) for food
+User input received: Go RIGHT
+Snake @ (32, 5)(29, 5)(29, 11)(23, 11) going RIGHT
+Food  @ (10, 10)
+Score @ 19
+now painting @(32, 5)(29, 5)(29, 11)(23, 11) for snake and (10, 10) for food
+User input received: Go RIGHT
+Snake @ (33, 5)(29, 5)(29, 11)(24, 11) going RIGHT
+Food  @ (10, 10)
+Score @ 19
+now painting @(33, 5)(29, 5)(29, 11)(24, 11) for snake and (10, 10) for food
+User input received: Go RIGHT
+Snake @ (34, 5)(29, 5)(29, 11)(25, 11) going RIGHT
+Food  @ (10, 10)
+Score @ 19
+now painting @(34, 5)(29, 5)(29, 11)(25, 11) for snake and (10, 10) for food
+User input received: Go RIGHT
+Snake @ (35, 5)(29, 5)(29, 11)(26, 11) going RIGHT
+Food  @ (10, 10)
+Score @ 19
+now painting @(35, 5)(29, 5)(29, 11)(26, 11) for snake and (10, 10) for food
+User input received: Go RIGHT
+Snake @ (36, 5)(29, 5)(29, 11)(27, 11) going RIGHT
+Food  @ (10, 10)
+Score @ 19
+now painting @(36, 5)(29, 5)(29, 11)(27, 11) for snake and (10, 10) for food
+User input received: Go RIGHT
+Snake @ (37, 5)(29, 5)(29, 11)(28, 11) going RIGHT
+Food  @ (10, 10)
+Score @ 19
+now painting @(37, 5)(29, 5)(29, 11)(28, 11) for snake and (10, 10) for food
+User input received: Go RIGHT
+Snake @ (38, 5)(29, 5)(29, 11) going RIGHT
+Food  @ (10, 10)
+Score @ 19
+now painting @(38, 5)(29, 5)(29, 11) for snake and (10, 10) for food
+User input received: Go RIGHT
+Snake @ (39, 5)(29, 5)(29, 10) going RIGHT
+Food  @ (10, 10)
+Score @ 19
+now painting @(39, 5)(29, 5)(29, 10) for snake and (10, 10) for food
+User input received: Go RIGHT
+Snake @ (40, 5)(29, 5)(29, 9) going RIGHT
+Food  @ (10, 10)
+Score @ 19
+now painting @(40, 5)(29, 5)(29, 9) for snake and (10, 10) for food
+User input received: Go RIGHT
+Snake @ (41, 5)(29, 5)(29, 8) going RIGHT
+Food  @ (10, 10)
+Score @ 19
+now painting @(41, 5)(29, 5)(29, 8) for snake and (10, 10) for food
+User input received: Go RIGHT
+Snake @ (42, 5)(29, 5)(29, 7) going RIGHT
+Food  @ (10, 10)
+Score @ 19
+now painting @(42, 5)(29, 5)(29, 7) for snake and (10, 10) for food
+User input received: Go DOWN
+Snake @ (42, 6)(42, 5)(29, 5)(29, 6) going DOWN
+Food  @ (10, 10)
+Score @ 19
+now painting @(42, 6)(42, 5)(29, 5)(29, 6) for snake and (10, 10) for food
+User input received: Go DOWN
+Snake @ (42, 7)(42, 5)(29, 5) going DOWN
+Food  @ (10, 10)
+Score @ 19
+now painting @(42, 7)(42, 5)(29, 5) for snake and (10, 10) for food
+User input received: Go DOWN
+Snake @ (42, 8)(42, 5)(30, 5) going DOWN
+Food  @ (10, 10)
+Score @ 19
+now painting @(42, 8)(42, 5)(30, 5) for snake and (10, 10) for food
+User input received: Go DOWN
+Snake @ (42, 9)(42, 5)(31, 5) going DOWN
+Food  @ (10, 10)
+Score @ 19
+now painting @(42, 9)(42, 5)(31, 5) for snake and (10, 10) for food
+User input received: Go DOWN
+Snake @ (42, 10)(42, 5)(32, 5) going DOWN
+Food  @ (10, 10)
+Score @ 19
+now painting @(42, 10)(42, 5)(32, 5) for snake and (10, 10) for food
+User input received: Go DOWN
+Snake @ (42, 11)(42, 5)(33, 5) going DOWN
+Food  @ (10, 10)
+Score @ 19
+now painting @(42, 11)(42, 5)(33, 5) for snake and (10, 10) for food
+User input received: Go LEFT
+Snake @ (41, 11)(42, 11)(42, 5)(34, 5) going LEFT
+Food  @ (10, 10)
+Score @ 19
+now painting @(41, 11)(42, 11)(42, 5)(34, 5) for snake and (10, 10) for food
+User input received: Go LEFT
+Snake @ (40, 11)(42, 11)(42, 5)(35, 5) going LEFT
+Food  @ (10, 10)
+Score @ 19
+now painting @(40, 11)(42, 11)(42, 5)(35, 5) for snake and (10, 10) for food
+User input received: Go LEFT
+Snake @ (39, 11)(42, 11)(42, 5)(36, 5) going LEFT
+Food  @ (10, 10)
+Score @ 19
+now painting @(39, 11)(42, 11)(42, 5)(36, 5) for snake and (10, 10) for food
+User input received: Go LEFT
+Snake @ (38, 11)(42, 11)(42, 5)(37, 5) going LEFT
+Food  @ (10, 10)
+Score @ 19
+now painting @(38, 11)(42, 11)(42, 5)(37, 5) for snake and (10, 10) for food
+User input received: Go LEFT
+Snake @ (37, 11)(42, 11)(42, 5)(38, 5) going LEFT
+Food  @ (10, 10)
+Score @ 19
+now painting @(37, 11)(42, 11)(42, 5)(38, 5) for snake and (10, 10) for food
+User input received: Go LEFT
+Snake @ (36, 11)(42, 11)(42, 5)(39, 5) going LEFT
+Food  @ (10, 10)
+Score @ 19
+now painting @(36, 11)(42, 11)(42, 5)(39, 5) for snake and (10, 10) for food
+User input received: Go LEFT
+Snake @ (35, 11)(42, 11)(42, 5)(40, 5) going LEFT
+Food  @ (10, 10)
+Score @ 19
+now painting @(35, 11)(42, 11)(42, 5)(40, 5) for snake and (10, 10) for food
+User input received: Go LEFT
+Snake @ (34, 11)(42, 11)(42, 5)(41, 5) going LEFT
+Food  @ (10, 10)
+Score @ 19
+now painting @(34, 11)(42, 11)(42, 5)(41, 5) for snake and (10, 10) for food
+User input received: Go LEFT
+Snake @ (33, 11)(42, 11)(42, 5) going LEFT
+Food  @ (10, 10)
+Score @ 19
+now painting @(33, 11)(42, 11)(42, 5) for snake and (10, 10) for food
+User input received: Go LEFT
+Snake @ (32, 11)(42, 11)(42, 6) going LEFT
+Food  @ (10, 10)
+Score @ 19
+now painting @(32, 11)(42, 11)(42, 6) for snake and (10, 10) for food
+User input received: Go LEFT
+Snake @ (31, 11)(42, 11)(42, 7) going LEFT
+Food  @ (10, 10)
+Score @ 19
+now painting @(31, 11)(42, 11)(42, 7) for snake and (10, 10) for food
+User input received: Go LEFT
+Snake @ (30, 11)(42, 11)(42, 8) going LEFT
+Food  @ (10, 10)
+Score @ 19
+now painting @(30, 11)(42, 11)(42, 8) for snake and (10, 10) for food
+User input received: Go LEFT
+Snake @ (29, 11)(42, 11)(42, 9) going LEFT
+Food  @ (10, 10)
+Score @ 19
+now painting @(29, 11)(42, 11)(42, 9) for snake and (10, 10) for food
+User input received: Go UP
+Snake @ (29, 10)(29, 11)(42, 11)(42, 10) going UP
+Food  @ (10, 10)
+Score @ 19
+now painting @(29, 10)(29, 11)(42, 11)(42, 10) for snake and (10, 10) for food
+User input received: Go LEFT
+Snake @ (28, 10)(29, 10)(29, 11)(42, 11) going LEFT
+Food  @ (10, 10)
+Score @ 19
+now painting @(28, 10)(29, 10)(29, 11)(42, 11) for snake and (10, 10) for food
+User input received: Go LEFT
+Snake @ (27, 10)(29, 10)(29, 11)(41, 11) going LEFT
+Food  @ (10, 10)
+Score @ 19
+now painting @(27, 10)(29, 10)(29, 11)(41, 11) for snake and (10, 10) for food
+User input received: Go LEFT
+Snake @ (26, 10)(29, 10)(29, 11)(40, 11) going LEFT
+Food  @ (10, 10)
+Score @ 19
+now painting @(26, 10)(29, 10)(29, 11)(40, 11) for snake and (10, 10) for food
+User input received: Go LEFT
+Snake @ (25, 10)(29, 10)(29, 11)(39, 11) going LEFT
+Food  @ (10, 10)
+Score @ 19
+now painting @(25, 10)(29, 10)(29, 11)(39, 11) for snake and (10, 10) for food
+User input received: Go LEFT
+Snake @ (24, 10)(29, 10)(29, 11)(38, 11) going LEFT
+Food  @ (10, 10)
+Score @ 19
+now painting @(24, 10)(29, 10)(29, 11)(38, 11) for snake and (10, 10) for food
+User input received: Go LEFT
+Snake @ (23, 10)(29, 10)(29, 11)(37, 11) going LEFT
+Food  @ (10, 10)
+Score @ 19
+now painting @(23, 10)(29, 10)(29, 11)(37, 11) for snake and (10, 10) for food
+User input received: Go LEFT
+Snake @ (22, 10)(29, 10)(29, 11)(36, 11) going LEFT
+Food  @ (10, 10)
+Score @ 19
+now painting @(22, 10)(29, 10)(29, 11)(36, 11) for snake and (10, 10) for food
+User input received: Go LEFT
+Snake @ (21, 10)(29, 10)(29, 11)(35, 11) going LEFT
+Food  @ (10, 10)
+Score @ 19
+now painting @(21, 10)(29, 10)(29, 11)(35, 11) for snake and (10, 10) for food
+User input received: Go LEFT
+Snake @ (20, 10)(29, 10)(29, 11)(34, 11) going LEFT
+Food  @ (10, 10)
+Score @ 19
+now painting @(20, 10)(29, 10)(29, 11)(34, 11) for snake and (10, 10) for food
+User input received: Go LEFT
+Snake @ (19, 10)(29, 10)(29, 11)(33, 11) going LEFT
+Food  @ (10, 10)
+Score @ 19
+now painting @(19, 10)(29, 10)(29, 11)(33, 11) for snake and (10, 10) for food
+User input received: Go LEFT
+Snake @ (18, 10)(29, 10)(29, 11)(32, 11) going LEFT
+Food  @ (10, 10)
+Score @ 19
+now painting @(18, 10)(29, 10)(29, 11)(32, 11) for snake and (10, 10) for food
+User input received: Go LEFT
+Snake @ (17, 10)(29, 10)(29, 11)(31, 11) going LEFT
+Food  @ (10, 10)
+Score @ 19
+now painting @(17, 10)(29, 10)(29, 11)(31, 11) for snake and (10, 10) for food
+User input received: Go LEFT
+Snake @ (16, 10)(29, 10)(29, 11)(30, 11) going LEFT
+Food  @ (10, 10)
+Score @ 19
+now painting @(16, 10)(29, 10)(29, 11)(30, 11) for snake and (10, 10) for food
+User input received: Go LEFT
+Snake @ (15, 10)(29, 10)(29, 11) going LEFT
+Food  @ (10, 10)
+Score @ 19
+now painting @(15, 10)(29, 10)(29, 11) for snake and (10, 10) for food
+User input received: Go LEFT
+Snake @ (14, 10)(29, 10) going LEFT
+Food  @ (10, 10)
+Score @ 19
+now painting @(14, 10)(29, 10) for snake and (10, 10) for food
+User input received: Go LEFT
+Snake @ (13, 10)(28, 10) going LEFT
+Food  @ (10, 10)
+Score @ 19
+now painting @(13, 10)(28, 10) for snake and (10, 10) for food
+User input received: Go LEFT
+Snake @ (12, 10)(27, 10) going LEFT
+Food  @ (10, 10)
+Score @ 19
+now painting @(12, 10)(27, 10) for snake and (10, 10) for food
+User input received: Go LEFT
+Snake @ (11, 10)(26, 10) going LEFT
+Food  @ (10, 10)
+Score @ 19
+now painting @(11, 10)(26, 10) for snake and (10, 10) for food
+User input received: no input received
+Snake @ (10, 10)(26, 10) going LEFT
+Food  @ (30, 3)
+Score @ 20
+now painting @(10, 10)(26, 10) for snake and (30, 3) for food
+User input received: Go UP
+Snake @ (10, 9)(10, 10)(25, 10) going UP
+Food  @ (30, 3)
+Score @ 20
+now painting @(10, 9)(10, 10)(25, 10) for snake and (30, 3) for food
+User input received: Go UP
+Snake @ (10, 8)(10, 10)(24, 10) going UP
+Food  @ (30, 3)
+Score @ 20
+now painting @(10, 8)(10, 10)(24, 10) for snake and (30, 3) for food
+User input received: Go UP
+Snake @ (10, 7)(10, 10)(23, 10) going UP
+Food  @ (30, 3)
+Score @ 20
+now painting @(10, 7)(10, 10)(23, 10) for snake and (30, 3) for food
+User input received: Go UP
+Snake @ (10, 6)(10, 10)(22, 10) going UP
+Food  @ (30, 3)
+Score @ 20
+now painting @(10, 6)(10, 10)(22, 10) for snake and (30, 3) for food
+User input received: Go UP
+Snake @ (10, 5)(10, 10)(21, 10) going UP
+Food  @ (30, 3)
+Score @ 20
+now painting @(10, 5)(10, 10)(21, 10) for snake and (30, 3) for food
+User input received: Go UP
+Snake @ (10, 4)(10, 10)(20, 10) going UP
+Food  @ (30, 3)
+Score @ 20
+now painting @(10, 4)(10, 10)(20, 10) for snake and (30, 3) for food
+User input received: Go UP
+Snake @ (10, 3)(10, 10)(19, 10) going UP
+Food  @ (30, 3)
+Score @ 20
+now painting @(10, 3)(10, 10)(19, 10) for snake and (30, 3) for food
+User input received: Go RIGHT
+Snake @ (11, 3)(10, 3)(10, 10)(18, 10) going RIGHT
+Food  @ (30, 3)
+Score @ 20
+now painting @(11, 3)(10, 3)(10, 10)(18, 10) for snake and (30, 3) for food
+User input received: Go RIGHT
+Snake @ (12, 3)(10, 3)(10, 10)(17, 10) going RIGHT
+Food  @ (30, 3)
+Score @ 20
+now painting @(12, 3)(10, 3)(10, 10)(17, 10) for snake and (30, 3) for food
+User input received: Go RIGHT
+Snake @ (13, 3)(10, 3)(10, 10)(16, 10) going RIGHT
+Food  @ (30, 3)
+Score @ 20
+now painting @(13, 3)(10, 3)(10, 10)(16, 10) for snake and (30, 3) for food
+User input received: Go RIGHT
+Snake @ (14, 3)(10, 3)(10, 10)(15, 10) going RIGHT
+Food  @ (30, 3)
+Score @ 20
+now painting @(14, 3)(10, 3)(10, 10)(15, 10) for snake and (30, 3) for food
+User input received: Go RIGHT
+Snake @ (15, 3)(10, 3)(10, 10)(14, 10) going RIGHT
+Food  @ (30, 3)
+Score @ 20
+now painting @(15, 3)(10, 3)(10, 10)(14, 10) for snake and (30, 3) for food
+User input received: Go RIGHT
+Snake @ (16, 3)(10, 3)(10, 10)(13, 10) going RIGHT
+Food  @ (30, 3)
+Score @ 20
+now painting @(16, 3)(10, 3)(10, 10)(13, 10) for snake and (30, 3) for food
+User input received: Go RIGHT
+Snake @ (17, 3)(10, 3)(10, 10)(12, 10) going RIGHT
+Food  @ (30, 3)
+Score @ 20
+now painting @(17, 3)(10, 3)(10, 10)(12, 10) for snake and (30, 3) for food
+User input received: Go RIGHT
+Snake @ (18, 3)(10, 3)(10, 10)(11, 10) going RIGHT
+Food  @ (30, 3)
+Score @ 20
+now painting @(18, 3)(10, 3)(10, 10)(11, 10) for snake and (30, 3) for food
+User input received: Go RIGHT
+Snake @ (19, 3)(10, 3)(10, 10) going RIGHT
+Food  @ (30, 3)
+Score @ 20
+now painting @(19, 3)(10, 3)(10, 10) for snake and (30, 3) for food
+User input received: Go RIGHT
+Snake @ (20, 3)(10, 3)(10, 9) going RIGHT
+Food  @ (30, 3)
+Score @ 20
+now painting @(20, 3)(10, 3)(10, 9) for snake and (30, 3) for food
+User input received: Go RIGHT
+Snake @ (21, 3)(10, 3)(10, 8) going RIGHT
+Food  @ (30, 3)
+Score @ 20
+now painting @(21, 3)(10, 3)(10, 8) for snake and (30, 3) for food
+User input received: Go RIGHT
+Snake @ (22, 3)(10, 3)(10, 7) going RIGHT
+Food  @ (30, 3)
+Score @ 20
+now painting @(22, 3)(10, 3)(10, 7) for snake and (30, 3) for food
+User input received: Go RIGHT
+Snake @ (23, 3)(10, 3)(10, 6) going RIGHT
+Food  @ (30, 3)
+Score @ 20
+now painting @(23, 3)(10, 3)(10, 6) for snake and (30, 3) for food
+User input received: Go RIGHT
+Snake @ (24, 3)(10, 3)(10, 5) going RIGHT
+Food  @ (30, 3)
+Score @ 20
+now painting @(24, 3)(10, 3)(10, 5) for snake and (30, 3) for food
+User input received: Go RIGHT
+Snake @ (25, 3)(10, 3)(10, 4) going RIGHT
+Food  @ (30, 3)
+Score @ 20
+now painting @(25, 3)(10, 3)(10, 4) for snake and (30, 3) for food
+User input received: Go RIGHT
+Snake @ (26, 3)(10, 3) going RIGHT
+Food  @ (30, 3)
+Score @ 20
+now painting @(26, 3)(10, 3) for snake and (30, 3) for food
+User input received: Go RIGHT
+Snake @ (27, 3)(11, 3) going RIGHT
+Food  @ (30, 3)
+Score @ 20
+now painting @(27, 3)(11, 3) for snake and (30, 3) for food
+User input received: Go RIGHT
+Snake @ (28, 3)(12, 3) going RIGHT
+Food  @ (30, 3)
+Score @ 20
+now painting @(28, 3)(12, 3) for snake and (30, 3) for food
+User input received: Go RIGHT
+Snake @ (29, 3)(13, 3) going RIGHT
+Food  @ (30, 3)
+Score @ 20
+now painting @(29, 3)(13, 3) for snake and (30, 3) for food
+User input received: Go RIGHT
+Snake @ (30, 3)(13, 3) going RIGHT
+Food  @ (32, 8)
+Score @ 21
+now painting @(30, 3)(13, 3) for snake and (32, 8) for food
+User input received: Go RIGHT
+Snake @ (31, 3)(14, 3) going RIGHT
+Food  @ (32, 8)
+Score @ 21
+now painting @(31, 3)(14, 3) for snake and (32, 8) for food
+User input received: Go RIGHT
+Snake @ (32, 3)(15, 3) going RIGHT
+Food  @ (32, 8)
+Score @ 21
+now painting @(32, 3)(15, 3) for snake and (32, 8) for food
+User input received: Go RIGHT
+Snake @ (33, 3)(16, 3) going RIGHT
+Food  @ (32, 8)
+Score @ 21
+now painting @(33, 3)(16, 3) for snake and (32, 8) for food
+User input received: Go RIGHT
+Snake @ (34, 3)(17, 3) going RIGHT
+Food  @ (32, 8)
+Score @ 21
+now painting @(34, 3)(17, 3) for snake and (32, 8) for food
+User input received: Go RIGHT
+Snake @ (35, 3)(18, 3) going RIGHT
+Food  @ (32, 8)
+Score @ 21
+now painting @(35, 3)(18, 3) for snake and (32, 8) for food
+User input received: Go RIGHT
+Snake @ (36, 3)(19, 3) going RIGHT
+Food  @ (32, 8)
+Score @ 21
+now painting @(36, 3)(19, 3) for snake and (32, 8) for food
+User input received: Go RIGHT
+Snake @ (37, 3)(20, 3) going RIGHT
+Food  @ (32, 8)
+Score @ 21
+now painting @(37, 3)(20, 3) for snake and (32, 8) for food
+User input received: Go RIGHT
+Snake @ (38, 3)(21, 3) going RIGHT
+Food  @ (32, 8)
+Score @ 21
+now painting @(38, 3)(21, 3) for snake and (32, 8) for food
+User input received: Go DOWN
+Snake @ (38, 4)(38, 3)(22, 3) going DOWN
+Food  @ (32, 8)
+Score @ 21
+now painting @(38, 4)(38, 3)(22, 3) for snake and (32, 8) for food
+User input received: Go DOWN
+Snake @ (38, 5)(38, 3)(23, 3) going DOWN
+Food  @ (32, 8)
+Score @ 21
+now painting @(38, 5)(38, 3)(23, 3) for snake and (32, 8) for food
+User input received: Go DOWN
+Snake @ (38, 6)(38, 3)(24, 3) going DOWN
+Food  @ (32, 8)
+Score @ 21
+now painting @(38, 6)(38, 3)(24, 3) for snake and (32, 8) for food
+User input received: Go DOWN
+Snake @ (38, 7)(38, 3)(25, 3) going DOWN
+Food  @ (32, 8)
+Score @ 21
+now painting @(38, 7)(38, 3)(25, 3) for snake and (32, 8) for food
+User input received: Go DOWN
+Snake @ (38, 8)(38, 3)(26, 3) going DOWN
+Food  @ (32, 8)
+Score @ 21
+now painting @(38, 8)(38, 3)(26, 3) for snake and (32, 8) for food
+User input received: Go LEFT
+Snake @ (37, 8)(38, 8)(38, 3)(27, 3) going LEFT
+Food  @ (32, 8)
+Score @ 21
+now painting @(37, 8)(38, 8)(38, 3)(27, 3) for snake and (32, 8) for food
+User input received: Go LEFT
+Snake @ (36, 8)(38, 8)(38, 3)(28, 3) going LEFT
+Food  @ (32, 8)
+Score @ 21
+now painting @(36, 8)(38, 8)(38, 3)(28, 3) for snake and (32, 8) for food
+User input received: Go LEFT
+Snake @ (35, 8)(38, 8)(38, 3)(29, 3) going LEFT
+Food  @ (32, 8)
+Score @ 21
+now painting @(35, 8)(38, 8)(38, 3)(29, 3) for snake and (32, 8) for food
+User input received: Go LEFT
+Snake @ (34, 8)(38, 8)(38, 3)(30, 3) going LEFT
+Food  @ (32, 8)
+Score @ 21
+now painting @(34, 8)(38, 8)(38, 3)(30, 3) for snake and (32, 8) for food
+User input received: Go LEFT
+Snake @ (33, 8)(38, 8)(38, 3)(31, 3) going LEFT
+Food  @ (32, 8)
+Score @ 21
+now painting @(33, 8)(38, 8)(38, 3)(31, 3) for snake and (32, 8) for food
+User input received: Go LEFT
+Snake @ (32, 8)(38, 8)(38, 3)(31, 3) going LEFT
+Food  @ (10, 6)
+Score @ 22
+now painting @(32, 8)(38, 8)(38, 3)(31, 3) for snake and (10, 6) for food
+User input received: Go LEFT
+Snake @ (31, 8)(38, 8)(38, 3)(32, 3) going LEFT
+Food  @ (10, 6)
+Score @ 22
+now painting @(31, 8)(38, 8)(38, 3)(32, 3) for snake and (10, 6) for food
+User input received: Go LEFT
+Snake @ (30, 8)(38, 8)(38, 3)(33, 3) going LEFT
+Food  @ (10, 6)
+Score @ 22
+now painting @(30, 8)(38, 8)(38, 3)(33, 3) for snake and (10, 6) for food
+User input received: Go LEFT
+Snake @ (29, 8)(38, 8)(38, 3)(34, 3) going LEFT
+Food  @ (10, 6)
+Score @ 22
+now painting @(29, 8)(38, 8)(38, 3)(34, 3) for snake and (10, 6) for food
+User input received: Go LEFT
+Snake @ (28, 8)(38, 8)(38, 3)(35, 3) going LEFT
+Food  @ (10, 6)
+Score @ 22
+now painting @(28, 8)(38, 8)(38, 3)(35, 3) for snake and (10, 6) for food
+User input received: Go LEFT
+Snake @ (27, 8)(38, 8)(38, 3)(36, 3) going LEFT
+Food  @ (10, 6)
+Score @ 22
+now painting @(27, 8)(38, 8)(38, 3)(36, 3) for snake and (10, 6) for food
+User input received: Go LEFT
+Snake @ (26, 8)(38, 8)(38, 3)(37, 3) going LEFT
+Food  @ (10, 6)
+Score @ 22
+now painting @(26, 8)(38, 8)(38, 3)(37, 3) for snake and (10, 6) for food
+User input received: Go LEFT
+Snake @ (25, 8)(38, 8)(38, 3) going LEFT
+Food  @ (10, 6)
+Score @ 22
+now painting @(25, 8)(38, 8)(38, 3) for snake and (10, 6) for food
+User input received: Go LEFT
+Snake @ (24, 8)(38, 8)(38, 4) going LEFT
+Food  @ (10, 6)
+Score @ 22
+now painting @(24, 8)(38, 8)(38, 4) for snake and (10, 6) for food
+User input received: Go LEFT
+Snake @ (23, 8)(38, 8)(38, 5) going LEFT
+Food  @ (10, 6)
+Score @ 22
+now painting @(23, 8)(38, 8)(38, 5) for snake and (10, 6) for food
+User input received: Go LEFT
+Snake @ (22, 8)(38, 8)(38, 6) going LEFT
+Food  @ (10, 6)
+Score @ 22
+now painting @(22, 8)(38, 8)(38, 6) for snake and (10, 6) for food
+User input received: Go LEFT
+Snake @ (21, 8)(38, 8)(38, 7) going LEFT
+Food  @ (10, 6)
+Score @ 22
+now painting @(21, 8)(38, 8)(38, 7) for snake and (10, 6) for food
+User input received: Go LEFT
+Snake @ (20, 8)(38, 8) going LEFT
+Food  @ (10, 6)
+Score @ 22
+now painting @(20, 8)(38, 8) for snake and (10, 6) for food
+User input received: Go LEFT
+Snake @ (19, 8)(37, 8) going LEFT
+Food  @ (10, 6)
+Score @ 22
+now painting @(19, 8)(37, 8) for snake and (10, 6) for food
+User input received: Go LEFT
+Snake @ (18, 8)(36, 8) going LEFT
+Food  @ (10, 6)
+Score @ 22
+now painting @(18, 8)(36, 8) for snake and (10, 6) for food
+User input received: Go LEFT
+Snake @ (17, 8)(35, 8) going LEFT
+Food  @ (10, 6)
+Score @ 22
+now painting @(17, 8)(35, 8) for snake and (10, 6) for food
+User input received: Go LEFT
+Snake @ (16, 8)(34, 8) going LEFT
+Food  @ (10, 6)
+Score @ 22
+now painting @(16, 8)(34, 8) for snake and (10, 6) for food
+User input received: Go LEFT
+Snake @ (15, 8)(33, 8) going LEFT
+Food  @ (10, 6)
+Score @ 22
+now painting @(15, 8)(33, 8) for snake and (10, 6) for food
+User input received: Go LEFT
+Snake @ (14, 8)(32, 8) going LEFT
+Food  @ (10, 6)
+Score @ 22
+now painting @(14, 8)(32, 8) for snake and (10, 6) for food
+User input received: Go LEFT
+Snake @ (13, 8)(31, 8) going LEFT
+Food  @ (10, 6)
+Score @ 22
+now painting @(13, 8)(31, 8) for snake and (10, 6) for food
+User input received: Go LEFT
+Snake @ (12, 8)(30, 8) going LEFT
+Food  @ (10, 6)
+Score @ 22
+now painting @(12, 8)(30, 8) for snake and (10, 6) for food
+User input received: Go LEFT
+Snake @ (11, 8)(29, 8) going LEFT
+Food  @ (10, 6)
+Score @ 22
+now painting @(11, 8)(29, 8) for snake and (10, 6) for food
+User input received: Go LEFT
+Snake @ (10, 8)(28, 8) going LEFT
+Food  @ (10, 6)
+Score @ 22
+now painting @(10, 8)(28, 8) for snake and (10, 6) for food
+User input received: Go LEFT
+Snake @ (9, 8)(27, 8) going LEFT
+Food  @ (10, 6)
+Score @ 22
+now painting @(9, 8)(27, 8) for snake and (10, 6) for food
+User input received: Go LEFT
+Snake @ (8, 8)(26, 8) going LEFT
+Food  @ (10, 6)
+Score @ 22
+now painting @(8, 8)(26, 8) for snake and (10, 6) for food
+User input received: Go LEFT
+Snake @ (7, 8)(25, 8) going LEFT
+Food  @ (10, 6)
+Score @ 22
+now painting @(7, 8)(25, 8) for snake and (10, 6) for food
+User input received: Go LEFT
+Snake @ (6, 8)(24, 8) going LEFT
+Food  @ (10, 6)
+Score @ 22
+now painting @(6, 8)(24, 8) for snake and (10, 6) for food
+User input received: Go LEFT
+Snake @ (5, 8)(23, 8) going LEFT
+Food  @ (10, 6)
+Score @ 22
+now painting @(5, 8)(23, 8) for snake and (10, 6) for food
+User input received: Go LEFT
+Snake @ (4, 8)(22, 8) going LEFT
+Food  @ (10, 6)
+Score @ 22
+now painting @(4, 8)(22, 8) for snake and (10, 6) for food
+User input received: Go LEFT
+Snake @ (3, 8)(21, 8) going LEFT
+Food  @ (10, 6)
+Score @ 22
+now painting @(3, 8)(21, 8) for snake and (10, 6) for food
+User input received: Go UP
+Snake @ (3, 7)(3, 8)(20, 8) going UP
+Food  @ (10, 6)
+Score @ 22
+now painting @(3, 7)(3, 8)(20, 8) for snake and (10, 6) for food
+User input received: Go UP
+Snake @ (3, 6)(3, 8)(19, 8) going UP
+Food  @ (10, 6)
+Score @ 22
+now painting @(3, 6)(3, 8)(19, 8) for snake and (10, 6) for food
+User input received: Go UP
+Snake @ (3, 5)(3, 8)(18, 8) going UP
+Food  @ (10, 6)
+Score @ 22
+now painting @(3, 5)(3, 8)(18, 8) for snake and (10, 6) for food
+User input received: Go RIGHT
+Snake @ (4, 5)(3, 5)(3, 8)(17, 8) going RIGHT
+Food  @ (10, 6)
+Score @ 22
+now painting @(4, 5)(3, 5)(3, 8)(17, 8) for snake and (10, 6) for food
+User input received: Go DOWN
+Snake @ (4, 6)(4, 5)(3, 5)(3, 8)(16, 8) going DOWN
+Food  @ (10, 6)
+Score @ 22
+now painting @(4, 6)(4, 5)(3, 5)(3, 8)(16, 8) for snake and (10, 6) for food
+User input received: Go RIGHT
+Snake @ (5, 6)(4, 6)(4, 5)(3, 5)(3, 8)(15, 8) going RIGHT
+Food  @ (10, 6)
+Score @ 22
+now painting @(5, 6)(4, 6)(4, 5)(3, 5)(3, 8)(15, 8) for snake and (10, 6) for food
+User input received: Go RIGHT
+Snake @ (6, 6)(4, 6)(4, 5)(3, 5)(3, 8)(14, 8) going RIGHT
+Food  @ (10, 6)
+Score @ 22
+now painting @(6, 6)(4, 6)(4, 5)(3, 5)(3, 8)(14, 8) for snake and (10, 6) for food
+User input received: Go RIGHT
+Snake @ (7, 6)(4, 6)(4, 5)(3, 5)(3, 8)(13, 8) going RIGHT
+Food  @ (10, 6)
+Score @ 22
+now painting @(7, 6)(4, 6)(4, 5)(3, 5)(3, 8)(13, 8) for snake and (10, 6) for food
+User input received: no input received
+Snake @ (8, 6)(4, 6)(4, 5)(3, 5)(3, 8)(12, 8) going RIGHT
+Food  @ (10, 6)
+Score @ 22
+now painting @(8, 6)(4, 6)(4, 5)(3, 5)(3, 8)(12, 8) for snake and (10, 6) for food
+User input received: no input received
+Snake @ (9, 6)(4, 6)(4, 5)(3, 5)(3, 8)(11, 8) going RIGHT
+Food  @ (10, 6)
+Score @ 22
+now painting @(9, 6)(4, 6)(4, 5)(3, 5)(3, 8)(11, 8) for snake and (10, 6) for food
+User input received: no input received
+Snake @ (10, 6)(4, 6)(4, 5)(3, 5)(3, 8)(11, 8) going RIGHT
+Food  @ (35, 9)
+Score @ 23
+now painting @(10, 6)(4, 6)(4, 5)(3, 5)(3, 8)(11, 8) for snake and (35, 9) for food
+User input received: no input received
+Snake @ (11, 6)(4, 6)(4, 5)(3, 5)(3, 8)(10, 8) going RIGHT
+Food  @ (35, 9)
+Score @ 23
+now painting @(11, 6)(4, 6)(4, 5)(3, 5)(3, 8)(10, 8) for snake and (35, 9) for food
+User input received: no input received
+Snake @ (12, 6)(4, 6)(4, 5)(3, 5)(3, 8)(9, 8) going RIGHT
+Food  @ (35, 9)
+Score @ 23
+now painting @(12, 6)(4, 6)(4, 5)(3, 5)(3, 8)(9, 8) for snake and (35, 9) for food
+User input received: no input received
+Snake @ (13, 6)(4, 6)(4, 5)(3, 5)(3, 8)(8, 8) going RIGHT
+Food  @ (35, 9)
+Score @ 23
+now painting @(13, 6)(4, 6)(4, 5)(3, 5)(3, 8)(8, 8) for snake and (35, 9) for food
+User input received: no input received
+Snake @ (14, 6)(4, 6)(4, 5)(3, 5)(3, 8)(7, 8) going RIGHT
+Food  @ (35, 9)
+Score @ 23
+now painting @(14, 6)(4, 6)(4, 5)(3, 5)(3, 8)(7, 8) for snake and (35, 9) for food
+User input received: no input received
+Snake @ (15, 6)(4, 6)(4, 5)(3, 5)(3, 8)(6, 8) going RIGHT
+Food  @ (35, 9)
+Score @ 23
+now painting @(15, 6)(4, 6)(4, 5)(3, 5)(3, 8)(6, 8) for snake and (35, 9) for food
+User input received: no input received
+Snake @ (16, 6)(4, 6)(4, 5)(3, 5)(3, 8)(5, 8) going RIGHT
+Food  @ (35, 9)
+Score @ 23
+now painting @(16, 6)(4, 6)(4, 5)(3, 5)(3, 8)(5, 8) for snake and (35, 9) for food
+User input received: no input received
+Snake @ (17, 6)(4, 6)(4, 5)(3, 5)(3, 8)(4, 8) going RIGHT
+Food  @ (35, 9)
+Score @ 23
+now painting @(17, 6)(4, 6)(4, 5)(3, 5)(3, 8)(4, 8) for snake and (35, 9) for food
+User input received: no input received
+Snake @ (18, 6)(4, 6)(4, 5)(3, 5)(3, 8) going RIGHT
+Food  @ (35, 9)
+Score @ 23
+now painting @(18, 6)(4, 6)(4, 5)(3, 5)(3, 8) for snake and (35, 9) for food
+User input received: no input received
+Snake @ (19, 6)(4, 6)(4, 5)(3, 5)(3, 7) going RIGHT
+Food  @ (35, 9)
+Score @ 23
+now painting @(19, 6)(4, 6)(4, 5)(3, 5)(3, 7) for snake and (35, 9) for food
+User input received: no input received
+Snake @ (20, 6)(4, 6)(4, 5)(3, 5)(3, 6) going RIGHT
+Food  @ (35, 9)
+Score @ 23
+now painting @(20, 6)(4, 6)(4, 5)(3, 5)(3, 6) for snake and (35, 9) for food
+User input received: no input received
+Snake @ (21, 6)(4, 6)(4, 5)(3, 5) going RIGHT
+Food  @ (35, 9)
+Score @ 23
+now painting @(21, 6)(4, 6)(4, 5)(3, 5) for snake and (35, 9) for food
+User input received: no input received
+Snake @ (22, 6)(4, 6)(4, 5) going RIGHT
+Food  @ (35, 9)
+Score @ 23
+now painting @(22, 6)(4, 6)(4, 5) for snake and (35, 9) for food
+User input received: no input received
+Snake @ (23, 6)(4, 6) going RIGHT
+Food  @ (35, 9)
+Score @ 23
+now painting @(23, 6)(4, 6) for snake and (35, 9) for food
+User input received: no input received
+Snake @ (24, 6)(5, 6) going RIGHT
+Food  @ (35, 9)
+Score @ 23
+now painting @(24, 6)(5, 6) for snake and (35, 9) for food
+User input received: no input received
+Snake @ (25, 6)(6, 6) going RIGHT
+Food  @ (35, 9)
+Score @ 23
+now painting @(25, 6)(6, 6) for snake and (35, 9) for food
+User input received: no input received
+Snake @ (26, 6)(7, 6) going RIGHT
+Food  @ (35, 9)
+Score @ 23
+now painting @(26, 6)(7, 6) for snake and (35, 9) for food
+User input received: no input received
+Snake @ (27, 6)(8, 6) going RIGHT
+Food  @ (35, 9)
+Score @ 23
+now painting @(27, 6)(8, 6) for snake and (35, 9) for food
+User input received: Go DOWN
+Snake @ (27, 7)(27, 6)(9, 6) going DOWN
+Food  @ (35, 9)
+Score @ 23
+now painting @(27, 7)(27, 6)(9, 6) for snake and (35, 9) for food
+User input received: Go DOWN
+Snake @ (27, 8)(27, 6)(10, 6) going DOWN
+Food  @ (35, 9)
+Score @ 23
+now painting @(27, 8)(27, 6)(10, 6) for snake and (35, 9) for food
+User input received: Go DOWN
+Snake @ (27, 9)(27, 6)(11, 6) going DOWN
+Food  @ (35, 9)
+Score @ 23
+now painting @(27, 9)(27, 6)(11, 6) for snake and (35, 9) for food
+User input received: Go DOWN
+Snake @ (27, 10)(27, 6)(12, 6) going DOWN
+Food  @ (35, 9)
+Score @ 23
+now painting @(27, 10)(27, 6)(12, 6) for snake and (35, 9) for food
+User input received: Go DOWN
+Snake @ (27, 11)(27, 6)(13, 6) going DOWN
+Food  @ (35, 9)
+Score @ 23
+now painting @(27, 11)(27, 6)(13, 6) for snake and (35, 9) for food
+User input received: Go RIGHT
+Snake @ (28, 11)(27, 11)(27, 6)(14, 6) going RIGHT
+Food  @ (35, 9)
+Score @ 23
+now painting @(28, 11)(27, 11)(27, 6)(14, 6) for snake and (35, 9) for food
+User input received: Go RIGHT
+Snake @ (29, 11)(27, 11)(27, 6)(15, 6) going RIGHT
+Food  @ (35, 9)
+Score @ 23
+now painting @(29, 11)(27, 11)(27, 6)(15, 6) for snake and (35, 9) for food
+User input received: Go RIGHT
+Snake @ (30, 11)(27, 11)(27, 6)(16, 6) going RIGHT
+Food  @ (35, 9)
+Score @ 23
+now painting @(30, 11)(27, 11)(27, 6)(16, 6) for snake and (35, 9) for food
+User input received: Go UP
+Snake @ (30, 10)(30, 11)(27, 11)(27, 6)(17, 6) going UP
+Food  @ (35, 9)
+Score @ 23
+now painting @(30, 10)(30, 11)(27, 11)(27, 6)(17, 6) for snake and (35, 9) for food
+User input received: Go UP
+Snake @ (30, 9)(30, 11)(27, 11)(27, 6)(18, 6) going UP
+Food  @ (35, 9)
+Score @ 23
+now painting @(30, 9)(30, 11)(27, 11)(27, 6)(18, 6) for snake and (35, 9) for food
+User input received: Go UP
+Snake @ (30, 8)(30, 11)(27, 11)(27, 6)(19, 6) going UP
+Food  @ (35, 9)
+Score @ 23
+now painting @(30, 8)(30, 11)(27, 11)(27, 6)(19, 6) for snake and (35, 9) for food
+User input received: Go UP
+Snake @ (30, 7)(30, 11)(27, 11)(27, 6)(20, 6) going UP
+Food  @ (35, 9)
+Score @ 23
+now painting @(30, 7)(30, 11)(27, 11)(27, 6)(20, 6) for snake and (35, 9) for food
+User input received: Go UP
+Snake @ (30, 6)(30, 11)(27, 11)(27, 6)(21, 6) going UP
+Food  @ (35, 9)
+Score @ 23
+now painting @(30, 6)(30, 11)(27, 11)(27, 6)(21, 6) for snake and (35, 9) for food
+User input received: Go UP
+Snake @ (30, 5)(30, 11)(27, 11)(27, 6)(22, 6) going UP
+Food  @ (35, 9)
+Score @ 23
+now painting @(30, 5)(30, 11)(27, 11)(27, 6)(22, 6) for snake and (35, 9) for food
+User input received: Go RIGHT
+Snake @ (31, 5)(30, 5)(30, 11)(27, 11)(27, 6)(23, 6) going RIGHT
+Food  @ (35, 9)
+Score @ 23
+now painting @(31, 5)(30, 5)(30, 11)(27, 11)(27, 6)(23, 6) for snake and (35, 9) for food
+User input received: Go RIGHT
+Snake @ (32, 5)(30, 5)(30, 11)(27, 11)(27, 6)(24, 6) going RIGHT
+Food  @ (35, 9)
+Score @ 23
+now painting @(32, 5)(30, 5)(30, 11)(27, 11)(27, 6)(24, 6) for snake and (35, 9) for food
+User input received: Go RIGHT
+Snake @ (33, 5)(30, 5)(30, 11)(27, 11)(27, 6)(25, 6) going RIGHT
+Food  @ (35, 9)
+Score @ 23
+now painting @(33, 5)(30, 5)(30, 11)(27, 11)(27, 6)(25, 6) for snake and (35, 9) for food
+User input received: Go RIGHT
+Snake @ (34, 5)(30, 5)(30, 11)(27, 11)(27, 6)(26, 6) going RIGHT
+Food  @ (35, 9)
+Score @ 23
+now painting @(34, 5)(30, 5)(30, 11)(27, 11)(27, 6)(26, 6) for snake and (35, 9) for food
+User input received: Go RIGHT
+Snake @ (35, 5)(30, 5)(30, 11)(27, 11)(27, 6) going RIGHT
+Food  @ (35, 9)
+Score @ 23
+now painting @(35, 5)(30, 5)(30, 11)(27, 11)(27, 6) for snake and (35, 9) for food
+User input received: Go DOWN
+Snake @ (35, 6)(35, 5)(30, 5)(30, 11)(27, 11)(27, 7) going DOWN
+Food  @ (35, 9)
+Score @ 23
+now painting @(35, 6)(35, 5)(30, 5)(30, 11)(27, 11)(27, 7) for snake and (35, 9) for food
+User input received: Go DOWN
+Snake @ (35, 7)(35, 5)(30, 5)(30, 11)(27, 11)(27, 8) going DOWN
+Food  @ (35, 9)
+Score @ 23
+now painting @(35, 7)(35, 5)(30, 5)(30, 11)(27, 11)(27, 8) for snake and (35, 9) for food
+User input received: Go DOWN
+Snake @ (35, 8)(35, 5)(30, 5)(30, 11)(27, 11)(27, 9) going DOWN
+Food  @ (35, 9)
+Score @ 23
+now painting @(35, 8)(35, 5)(30, 5)(30, 11)(27, 11)(27, 9) for snake and (35, 9) for food
+User input received: Go DOWN
+Snake @ (35, 9)(35, 5)(30, 5)(30, 11)(27, 11)(27, 9) going DOWN
+Food  @ (13, 3)
+Score @ 24
+now painting @(35, 9)(35, 5)(30, 5)(30, 11)(27, 11)(27, 9) for snake and (13, 3) for food
+User input received: Go DOWN
+Snake @ (35, 10)(35, 5)(30, 5)(30, 11)(27, 11)(27, 10) going DOWN
+Food  @ (13, 3)
+Score @ 24
+now painting @(35, 10)(35, 5)(30, 5)(30, 11)(27, 11)(27, 10) for snake and (13, 3) for food
+User input received: Go DOWN
+Snake @ (35, 11)(35, 5)(30, 5)(30, 11)(27, 11) going DOWN
+Food  @ (13, 3)
+Score @ 24
+now painting @(35, 11)(35, 5)(30, 5)(30, 11)(27, 11) for snake and (13, 3) for food
+User input received: Go RIGHT
+Snake @ (36, 11)(35, 11)(35, 5)(30, 5)(30, 11)(28, 11) going RIGHT
+Food  @ (13, 3)
+Score @ 24
+now painting @(36, 11)(35, 11)(35, 5)(30, 5)(30, 11)(28, 11) for snake and (13, 3) for food
+User input received: Go RIGHT
+Snake @ (37, 11)(35, 11)(35, 5)(30, 5)(30, 11)(29, 11) going RIGHT
+Food  @ (13, 3)
+Score @ 24
+now painting @(37, 11)(35, 11)(35, 5)(30, 5)(30, 11)(29, 11) for snake and (13, 3) for food
+User input received: Go RIGHT
+Snake @ (38, 11)(35, 11)(35, 5)(30, 5)(30, 11) going RIGHT
+Food  @ (13, 3)
+Score @ 24
+now painting @(38, 11)(35, 11)(35, 5)(30, 5)(30, 11) for snake and (13, 3) for food
+User input received: Go UP
+Snake @ (38, 10)(38, 11)(35, 11)(35, 5)(30, 5)(30, 10) going UP
+Food  @ (13, 3)
+Score @ 24
+now painting @(38, 10)(38, 11)(35, 11)(35, 5)(30, 5)(30, 10) for snake and (13, 3) for food
+User input received: Go UP
+Snake @ (38, 9)(38, 11)(35, 11)(35, 5)(30, 5)(30, 9) going UP
+Food  @ (13, 3)
+Score @ 24
+now painting @(38, 9)(38, 11)(35, 11)(35, 5)(30, 5)(30, 9) for snake and (13, 3) for food
+User input received: Go UP
+Snake @ (38, 8)(38, 11)(35, 11)(35, 5)(30, 5)(30, 8) going UP
+Food  @ (13, 3)
+Score @ 24
+now painting @(38, 8)(38, 11)(35, 11)(35, 5)(30, 5)(30, 8) for snake and (13, 3) for food
+User input received: Go UP
+Snake @ (38, 7)(38, 11)(35, 11)(35, 5)(30, 5)(30, 7) going UP
+Food  @ (13, 3)
+Score @ 24
+now painting @(38, 7)(38, 11)(35, 11)(35, 5)(30, 5)(30, 7) for snake and (13, 3) for food
+User input received: Go UP
+Snake @ (38, 6)(38, 11)(35, 11)(35, 5)(30, 5)(30, 6) going UP
+Food  @ (13, 3)
+Score @ 24
+now painting @(38, 6)(38, 11)(35, 11)(35, 5)(30, 5)(30, 6) for snake and (13, 3) for food
+User input received: Go RIGHT
+Snake @ (39, 6)(38, 6)(38, 11)(35, 11)(35, 5)(30, 5) going RIGHT
+Food  @ (13, 3)
+Score @ 24
+now painting @(39, 6)(38, 6)(38, 11)(35, 11)(35, 5)(30, 5) for snake and (13, 3) for food
+User input received: Go RIGHT
+Snake @ (40, 6)(38, 6)(38, 11)(35, 11)(35, 5)(31, 5) going RIGHT
+Food  @ (13, 3)
+Score @ 24
+now painting @(40, 6)(38, 6)(38, 11)(35, 11)(35, 5)(31, 5) for snake and (13, 3) for food
+User input received: Go RIGHT
+Snake @ (41, 6)(38, 6)(38, 11)(35, 11)(35, 5)(32, 5) going RIGHT
+Food  @ (13, 3)
+Score @ 24
+now painting @(41, 6)(38, 6)(38, 11)(35, 11)(35, 5)(32, 5) for snake and (13, 3) for food
+User input received: Go DOWN
+Snake @ (41, 7)(41, 6)(38, 6)(38, 11)(35, 11)(35, 5)(33, 5) going DOWN
+Food  @ (13, 3)
+Score @ 24
+now painting @(41, 7)(41, 6)(38, 6)(38, 11)(35, 11)(35, 5)(33, 5) for snake and (13, 3) for food
+User input received: Go DOWN
+Snake @ (41, 8)(41, 6)(38, 6)(38, 11)(35, 11)(35, 5)(34, 5) going DOWN
+Food  @ (13, 3)
+Score @ 24
+now painting @(41, 8)(41, 6)(38, 6)(38, 11)(35, 11)(35, 5)(34, 5) for snake and (13, 3) for food
+User input received: Go DOWN
+Snake @ (41, 9)(41, 6)(38, 6)(38, 11)(35, 11)(35, 5) going DOWN
+Food  @ (13, 3)
+Score @ 24
+now painting @(41, 9)(41, 6)(38, 6)(38, 11)(35, 11)(35, 5) for snake and (13, 3) for food
+User input received: Go RIGHT
+Snake @ (42, 9)(41, 9)(41, 6)(38, 6)(38, 11)(35, 11)(35, 6) going RIGHT
+Food  @ (13, 3)
+Score @ 24
+now painting @(42, 9)(41, 9)(41, 6)(38, 6)(38, 11)(35, 11)(35, 6) for snake and (13, 3) for food
+User input received: Go RIGHT
+Snake @ (43, 9)(41, 9)(41, 6)(38, 6)(38, 11)(35, 11)(35, 7) going RIGHT
+Food  @ (13, 3)
+Score @ 24
+now painting @(43, 9)(41, 9)(41, 6)(38, 6)(38, 11)(35, 11)(35, 7) for snake and (13, 3) for food
+User input received: no input received
+Snake @ (44, 9)(41, 9)(41, 6)(38, 6)(38, 11)(35, 11)(35, 8) going RIGHT
+Food  @ (13, 3)
+Score @ 24
+now painting @(44, 9)(41, 9)(41, 6)(38, 6)(38, 11)(35, 11)(35, 8) for snake and (13, 3) for food
+User input received: Go UP
+Snake @ (44, 8)(44, 9)(41, 9)(41, 6)(38, 6)(38, 11)(35, 11)(35, 9) going UP
+Food  @ (13, 3)
+Score @ 24
+now painting @(44, 8)(44, 9)(41, 9)(41, 6)(38, 6)(38, 11)(35, 11)(35, 9) for snake and (13, 3) for food
+User input received: Go RIGHT
+Snake @ (45, 8)(44, 8)(44, 9)(41, 9)(41, 6)(38, 6)(38, 11)(35, 11)(35, 10) going RIGHT
+Food  @ (13, 3)
+Score @ 24
+now painting @(45, 8)(44, 8)(44, 9)(41, 9)(41, 6)(38, 6)(38, 11)(35, 11)(35, 10) for snake and (13, 3) for food
+User input received: Go DOWN
+Snake @ (45, 9)(45, 8)(44, 8)(44, 9)(41, 9)(41, 6)(38, 6)(38, 11)(35, 11) going DOWN
+Food  @ (13, 3)
+Score @ 24
+now painting @(45, 9)(45, 8)(44, 8)(44, 9)(41, 9)(41, 6)(38, 6)(38, 11)(35, 11) for snake and (13, 3) for food
+User input received: Go RIGHT
+Snake @ (46, 9)(45, 9)(45, 8)(44, 8)(44, 9)(41, 9)(41, 6)(38, 6)(38, 11)(36, 11) going RIGHT
+Food  @ (13, 3)
+Score @ 24
+now painting @(46, 9)(45, 9)(45, 8)(44, 8)(44, 9)(41, 9)(41, 6)(38, 6)(38, 11)(36, 11) for snake and (13, 3) for food
+User input received: Go UP
+Snake @ (46, 8)(46, 9)(45, 9)(45, 8)(44, 8)(44, 9)(41, 9)(41, 6)(38, 6)(38, 11)(37, 11) going UP
+Food  @ (13, 3)
+Score @ 24
+now painting @(46, 8)(46, 9)(45, 9)(45, 8)(44, 8)(44, 9)(41, 9)(41, 6)(38, 6)(38, 11)(37, 11) for snake and (13, 3) for food
+User input received: Go RIGHT
+Snake @ (47, 8)(46, 8)(46, 9)(45, 9)(45, 8)(44, 8)(44, 9)(41, 9)(41, 6)(38, 6)(38, 11) going RIGHT
+Food  @ (13, 3)
+Score @ 24
+now painting @(47, 8)(46, 8)(46, 9)(45, 9)(45, 8)(44, 8)(44, 9)(41, 9)(41, 6)(38, 6)(38, 11) for snake and (13, 3) for food
+User input received: Go RIGHT
+Snake @ (48, 8)(46, 8)(46, 9)(45, 9)(45, 8)(44, 8)(44, 9)(41, 9)(41, 6)(38, 6)(38, 10) going RIGHT
+Food  @ (13, 3)
+Score @ 24
+now painting @(48, 8)(46, 8)(46, 9)(45, 9)(45, 8)(44, 8)(44, 9)(41, 9)(41, 6)(38, 6)(38, 10) for snake and (13, 3) for food
+User input received: Go DOWN
+Snake @ (48, 9)(48, 8)(46, 8)(46, 9)(45, 9)(45, 8)(44, 8)(44, 9)(41, 9)(41, 6)(38, 6)(38, 9) going DOWN
+Food  @ (13, 3)
+Score @ 24
+now painting @(48, 9)(48, 8)(46, 8)(46, 9)(45, 9)(45, 8)(44, 8)(44, 9)(41, 9)(41, 6)(38, 6)(38, 9) for snake and (13, 3) for food
+User input received: Go RIGHT
+Snake @ (49, 9)(48, 9)(48, 8)(46, 8)(46, 9)(45, 9)(45, 8)(44, 8)(44, 9)(41, 9)(41, 6)(38, 6)(38, 8) going RIGHT
+Food  @ (13, 3)
+Score @ 24
+now painting @(49, 9)(48, 9)(48, 8)(46, 8)(46, 9)(45, 9)(45, 8)(44, 8)(44, 9)(41, 9)(41, 6)(38, 6)(38, 8) for snake and (13, 3) for food
+User input received: Go RIGHT
+Snake @ (50, 9)(48, 9)(48, 8)(46, 8)(46, 9)(45, 9)(45, 8)(44, 8)(44, 9)(41, 9)(41, 6)(38, 6)(38, 7) going RIGHT
+Food  @ (13, 3)
+Score @ 24
+now painting @(50, 9)(48, 9)(48, 8)(46, 8)(46, 9)(45, 9)(45, 8)(44, 8)(44, 9)(41, 9)(41, 6)(38, 6)(38, 7) for snake and (13, 3) for food
+User input received: Go UP
+Snake @ (50, 8)(50, 9)(48, 9)(48, 8)(46, 8)(46, 9)(45, 9)(45, 8)(44, 8)(44, 9)(41, 9)(41, 6)(38, 6) going UP
+Food  @ (13, 3)
+Score @ 24
+now painting @(50, 8)(50, 9)(48, 9)(48, 8)(46, 8)(46, 9)(45, 9)(45, 8)(44, 8)(44, 9)(41, 9)(41, 6)(38, 6) for snake and (13, 3) for food
+User input received: Go RIGHT
+Snake @ (51, 8)(50, 8)(50, 9)(48, 9)(48, 8)(46, 8)(46, 9)(45, 9)(45, 8)(44, 8)(44, 9)(41, 9)(41, 6)(39, 6) going RIGHT
+Food  @ (13, 3)
+Score @ 24
+now painting @(51, 8)(50, 8)(50, 9)(48, 9)(48, 8)(46, 8)(46, 9)(45, 9)(45, 8)(44, 8)(44, 9)(41, 9)(41, 6)(39, 6) for snake and (13, 3) for food
+User input received: Go RIGHT
+Snake @ (52, 8)(50, 8)(50, 9)(48, 9)(48, 8)(46, 8)(46, 9)(45, 9)(45, 8)(44, 8)(44, 9)(41, 9)(41, 6)(40, 6) going RIGHT
+Food  @ (13, 3)
+Score @ 24
+now painting @(52, 8)(50, 8)(50, 9)(48, 9)(48, 8)(46, 8)(46, 9)(45, 9)(45, 8)(44, 8)(44, 9)(41, 9)(41, 6)(40, 6) for snake and (13, 3) for food
+User input received: Go DOWN
+Snake @ (52, 9)(52, 8)(50, 8)(50, 9)(48, 9)(48, 8)(46, 8)(46, 9)(45, 9)(45, 8)(44, 8)(44, 9)(41, 9)(41, 6) going DOWN
+Food  @ (13, 3)
+Score @ 24
+now painting @(52, 9)(52, 8)(50, 8)(50, 9)(48, 9)(48, 8)(46, 8)(46, 9)(45, 9)(45, 8)(44, 8)(44, 9)(41, 9)(41, 6) for snake and (13, 3) for food
+User input received: Go RIGHT
+Snake @ (53, 9)(52, 9)(52, 8)(50, 8)(50, 9)(48, 9)(48, 8)(46, 8)(46, 9)(45, 9)(45, 8)(44, 8)(44, 9)(41, 9)(41, 7) going RIGHT
+Food  @ (13, 3)
+Score @ 24
+now painting @(53, 9)(52, 9)(52, 8)(50, 8)(50, 9)(48, 9)(48, 8)(46, 8)(46, 9)(45, 9)(45, 8)(44, 8)(44, 9)(41, 9)(41, 7) for snake and (13, 3) for food
+User input received: Go RIGHT
+Snake @ (54, 9)(52, 9)(52, 8)(50, 8)(50, 9)(48, 9)(48, 8)(46, 8)(46, 9)(45, 9)(45, 8)(44, 8)(44, 9)(41, 9)(41, 8) going RIGHT
+Food  @ (13, 3)
+Score @ 24
+now painting @(54, 9)(52, 9)(52, 8)(50, 8)(50, 9)(48, 9)(48, 8)(46, 8)(46, 9)(45, 9)(45, 8)(44, 8)(44, 9)(41, 9)(41, 8) for snake and (13, 3) for food
+User input received: Go UP
+Snake @ (54, 8)(54, 9)(52, 9)(52, 8)(50, 8)(50, 9)(48, 9)(48, 8)(46, 8)(46, 9)(45, 9)(45, 8)(44, 8)(44, 9)(41, 9) going UP
+Food  @ (13, 3)
+Score @ 24
+now painting @(54, 8)(54, 9)(52, 9)(52, 8)(50, 8)(50, 9)(48, 9)(48, 8)(46, 8)(46, 9)(45, 9)(45, 8)(44, 8)(44, 9)(41, 9) for snake and (13, 3) for food
+User input received: Go RIGHT
+Snake @ (55, 8)(54, 8)(54, 9)(52, 9)(52, 8)(50, 8)(50, 9)(48, 9)(48, 8)(46, 8)(46, 9)(45, 9)(45, 8)(44, 8)(44, 9)(42, 9) going RIGHT
+Food  @ (13, 3)
+Score @ 24
+now painting @(55, 8)(54, 8)(54, 9)(52, 9)(52, 8)(50, 8)(50, 9)(48, 9)(48, 8)(46, 8)(46, 9)(45, 9)(45, 8)(44, 8)(44, 9)(42, 9) for snake and (13, 3) for food
+User input received: Go RIGHT
+Snake @ (56, 8)(54, 8)(54, 9)(52, 9)(52, 8)(50, 8)(50, 9)(48, 9)(48, 8)(46, 8)(46, 9)(45, 9)(45, 8)(44, 8)(44, 9)(43, 9) going RIGHT
+Food  @ (13, 3)
+Score @ 24
+now painting @(56, 8)(54, 8)(54, 9)(52, 9)(52, 8)(50, 8)(50, 9)(48, 9)(48, 8)(46, 8)(46, 9)(45, 9)(45, 8)(44, 8)(44, 9)(43, 9) for snake and (13, 3) for food
+User input received: Go DOWN
+Snake @ (56, 9)(56, 8)(54, 8)(54, 9)(52, 9)(52, 8)(50, 8)(50, 9)(48, 9)(48, 8)(46, 8)(46, 9)(45, 9)(45, 8)(44, 8)(44, 9) going DOWN
+Food  @ (13, 3)
+Score @ 24
+now painting @(56, 9)(56, 8)(54, 8)(54, 9)(52, 9)(52, 8)(50, 8)(50, 9)(48, 9)(48, 8)(46, 8)(46, 9)(45, 9)(45, 8)(44, 8)(44, 9) for snake and (13, 3) for food
+User input received: Go RIGHT
+Snake @ (57, 9)(56, 9)(56, 8)(54, 8)(54, 9)(52, 9)(52, 8)(50, 8)(50, 9)(48, 9)(48, 8)(46, 8)(46, 9)(45, 9)(45, 8)(44, 8) going RIGHT
+Food  @ (13, 3)
+Score @ 24
+now painting @(57, 9)(56, 9)(56, 8)(54, 8)(54, 9)(52, 9)(52, 8)(50, 8)(50, 9)(48, 9)(48, 8)(46, 8)(46, 9)(45, 9)(45, 8)(44, 8) for snake and (13, 3) for food
+User input received: Go RIGHT
+Snake @ (58, 9)(56, 9)(56, 8)(54, 8)(54, 9)(52, 9)(52, 8)(50, 8)(50, 9)(48, 9)(48, 8)(46, 8)(46, 9)(45, 9)(45, 8) going RIGHT
+Food  @ (13, 3)
+Score @ 24
+now painting @(58, 9)(56, 9)(56, 8)(54, 8)(54, 9)(52, 9)(52, 8)(50, 8)(50, 9)(48, 9)(48, 8)(46, 8)(46, 9)(45, 9)(45, 8) for snake and (13, 3) for food
+User input received: Go RIGHT
+Snake @ (59, 9)(56, 9)(56, 8)(54, 8)(54, 9)(52, 9)(52, 8)(50, 8)(50, 9)(48, 9)(48, 8)(46, 8)(46, 9)(45, 9) going RIGHT
+Food  @ (13, 3)
+Score @ 24
+now painting @(59, 9)(56, 9)(56, 8)(54, 8)(54, 9)(52, 9)(52, 8)(50, 8)(50, 9)(48, 9)(48, 8)(46, 8)(46, 9)(45, 9) for snake and (13, 3) for food
+User input received: Go RIGHT
+Snake @ (60, 9)(56, 9)(56, 8)(54, 8)(54, 9)(52, 9)(52, 8)(50, 8)(50, 9)(48, 9)(48, 8)(46, 8)(46, 9) going RIGHT
+Food  @ (13, 3)
+Score @ 24
+now painting @(60, 9)(56, 9)(56, 8)(54, 8)(54, 9)(52, 9)(52, 8)(50, 8)(50, 9)(48, 9)(48, 8)(46, 8)(46, 9) for snake and (13, 3) for food
+User input received: no input received
+Snake @ (61, 9)(56, 9)(56, 8)(54, 8)(54, 9)(52, 9)(52, 8)(50, 8)(50, 9)(48, 9)(48, 8)(46, 8) going RIGHT
+Food  @ (13, 3)
+Score @ 24
+now painting @(61, 9)(56, 9)(56, 8)(54, 8)(54, 9)(52, 9)(52, 8)(50, 8)(50, 9)(48, 9)(48, 8)(46, 8) for snake and (13, 3) for food
+User input received: no input received
+Snake @ (62, 9)(56, 9)(56, 8)(54, 8)(54, 9)(52, 9)(52, 8)(50, 8)(50, 9)(48, 9)(48, 8)(47, 8) going RIGHT
+Food  @ (13, 3)
+Score @ 24
+now painting @(62, 9)(56, 9)(56, 8)(54, 8)(54, 9)(52, 9)(52, 8)(50, 8)(50, 9)(48, 9)(48, 8)(47, 8) for snake and (13, 3) for food
+User input received: no input received
+Snake @ (63, 9)(56, 9)(56, 8)(54, 8)(54, 9)(52, 9)(52, 8)(50, 8)(50, 9)(48, 9)(48, 8) going RIGHT
+Food  @ (13, 3)
+Score @ 24
+now painting @(63, 9)(56, 9)(56, 8)(54, 8)(54, 9)(52, 9)(52, 8)(50, 8)(50, 9)(48, 9)(48, 8) for snake and (13, 3) for food
+User input received: no input received
+Snake @ (64, 9)(56, 9)(56, 8)(54, 8)(54, 9)(52, 9)(52, 8)(50, 8)(50, 9)(48, 9) going RIGHT
+Food  @ (13, 3)
+Score @ 24
+now painting @(64, 9)(56, 9)(56, 8)(54, 8)(54, 9)(52, 9)(52, 8)(50, 8)(50, 9)(48, 9) for snake and (13, 3) for food
+User input received: no input received
+Snake @ (65, 9)(56, 9)(56, 8)(54, 8)(54, 9)(52, 9)(52, 8)(50, 8)(50, 9)(49, 9) going RIGHT
+Food  @ (13, 3)
+Score @ 24
+now painting @(65, 9)(56, 9)(56, 8)(54, 8)(54, 9)(52, 9)(52, 8)(50, 8)(50, 9)(49, 9) for snake and (13, 3) for food
+User input received: no input received
+Snake @ (66, 9)(56, 9)(56, 8)(54, 8)(54, 9)(52, 9)(52, 8)(50, 8)(50, 9) going RIGHT
+Food  @ (13, 3)
+Score @ 24
+now painting @(66, 9)(56, 9)(56, 8)(54, 8)(54, 9)(52, 9)(52, 8)(50, 8)(50, 9) for snake and (13, 3) for food
+User input received: no input received
+Snake @ (67, 9)(56, 9)(56, 8)(54, 8)(54, 9)(52, 9)(52, 8)(50, 8) going RIGHT
+Food  @ (13, 3)
+Score @ 24
+now painting @(67, 9)(56, 9)(56, 8)(54, 8)(54, 9)(52, 9)(52, 8)(50, 8) for snake and (13, 3) for food
+User input received: no input received
+Snake @ (68, 9)(56, 9)(56, 8)(54, 8)(54, 9)(52, 9)(52, 8)(51, 8) going RIGHT
+Food  @ (13, 3)
+Score @ 24
+now painting @(68, 9)(56, 9)(56, 8)(54, 8)(54, 9)(52, 9)(52, 8)(51, 8) for snake and (13, 3) for food
+User input received: no input received
+Snake @ (69, 9)(56, 9)(56, 8)(54, 8)(54, 9)(52, 9)(52, 8) going RIGHT
+Food  @ (13, 3)
+Score @ 24
+now painting @(69, 9)(56, 9)(56, 8)(54, 8)(54, 9)(52, 9)(52, 8) for snake and (13, 3) for food
+User input received: no input received
+Snake @ (70, 9)(56, 9)(56, 8)(54, 8)(54, 9)(52, 9) going RIGHT
+Food  @ (13, 3)
+Score @ 24
+now painting @(70, 9)(56, 9)(56, 8)(54, 8)(54, 9)(52, 9) for snake and (13, 3) for food
+User input received: no input received
+Snake @ (71, 9)(56, 9)(56, 8)(54, 8)(54, 9)(53, 9) going RIGHT
+Food  @ (13, 3)
+Score @ 24
+now painting @(71, 9)(56, 9)(56, 8)(54, 8)(54, 9)(53, 9) for snake and (13, 3) for food
+User input received: Go UP
+Snake @ (71, 8)(71, 9)(56, 9)(56, 8)(54, 8)(54, 9) going UP
+Food  @ (13, 3)
+Score @ 24
+now painting @(71, 8)(71, 9)(56, 9)(56, 8)(54, 8)(54, 9) for snake and (13, 3) for food
+User input received: Go UP
+Snake @ (71, 7)(71, 9)(56, 9)(56, 8)(54, 8) going UP
+Food  @ (13, 3)
+Score @ 24
+now painting @(71, 7)(71, 9)(56, 9)(56, 8)(54, 8) for snake and (13, 3) for food
+User input received: Go UP
+Snake @ (71, 6)(71, 9)(56, 9)(56, 8)(55, 8) going UP
+Food  @ (13, 3)
+Score @ 24
+now painting @(71, 6)(71, 9)(56, 9)(56, 8)(55, 8) for snake and (13, 3) for food
+User input received: Go UP
+Snake @ (71, 5)(71, 9)(56, 9)(56, 8) going UP
+Food  @ (13, 3)
+Score @ 24
+now painting @(71, 5)(71, 9)(56, 9)(56, 8) for snake and (13, 3) for food
+User input received: Go LEFT
+Snake @ (70, 5)(71, 5)(71, 9)(56, 9) going LEFT
+Food  @ (13, 3)
+Score @ 24
+now painting @(70, 5)(71, 5)(71, 9)(56, 9) for snake and (13, 3) for food
+User input received: Go LEFT
+Snake @ (69, 5)(71, 5)(71, 9)(57, 9) going LEFT
+Food  @ (13, 3)
+Score @ 24
+now painting @(69, 5)(71, 5)(71, 9)(57, 9) for snake and (13, 3) for food
+User input received: Go LEFT
+Snake @ (68, 5)(71, 5)(71, 9)(58, 9) going LEFT
+Food  @ (13, 3)
+Score @ 24
+now painting @(68, 5)(71, 5)(71, 9)(58, 9) for snake and (13, 3) for food
+User input received: no input received
+Snake @ (67, 5)(71, 5)(71, 9)(59, 9) going LEFT
+Food  @ (13, 3)
+Score @ 24
+now painting @(67, 5)(71, 5)(71, 9)(59, 9) for snake and (13, 3) for food
+User input received: no input received
+Snake @ (66, 5)(71, 5)(71, 9)(60, 9) going LEFT
+Food  @ (13, 3)
+Score @ 24
+now painting @(66, 5)(71, 5)(71, 9)(60, 9) for snake and (13, 3) for food
+User input received: no input received
+Snake @ (65, 5)(71, 5)(71, 9)(61, 9) going LEFT
+Food  @ (13, 3)
+Score @ 24
+now painting @(65, 5)(71, 5)(71, 9)(61, 9) for snake and (13, 3) for food
+User input received: no input received
+Snake @ (64, 5)(71, 5)(71, 9)(62, 9) going LEFT
+Food  @ (13, 3)
+Score @ 24
+now painting @(64, 5)(71, 5)(71, 9)(62, 9) for snake and (13, 3) for food
+User input received: no input received
+Snake @ (63, 5)(71, 5)(71, 9)(63, 9) going LEFT
+Food  @ (13, 3)
+Score @ 24
+now painting @(63, 5)(71, 5)(71, 9)(63, 9) for snake and (13, 3) for food
+User input received: no input received
+Snake @ (62, 5)(71, 5)(71, 9)(64, 9) going LEFT
+Food  @ (13, 3)
+Score @ 24
+now painting @(62, 5)(71, 5)(71, 9)(64, 9) for snake and (13, 3) for food
+User input received: no input received
+Snake @ (61, 5)(71, 5)(71, 9)(65, 9) going LEFT
+Food  @ (13, 3)
+Score @ 24
+now painting @(61, 5)(71, 5)(71, 9)(65, 9) for snake and (13, 3) for food
+User input received: no input received
+Snake @ (60, 5)(71, 5)(71, 9)(66, 9) going LEFT
+Food  @ (13, 3)
+Score @ 24
+now painting @(60, 5)(71, 5)(71, 9)(66, 9) for snake and (13, 3) for food
+User input received: no input received
+Snake @ (59, 5)(71, 5)(71, 9)(67, 9) going LEFT
+Food  @ (13, 3)
+Score @ 24
+now painting @(59, 5)(71, 5)(71, 9)(67, 9) for snake and (13, 3) for food
+User input received: no input received
+Snake @ (58, 5)(71, 5)(71, 9)(68, 9) going LEFT
+Food  @ (13, 3)
+Score @ 24
+now painting @(58, 5)(71, 5)(71, 9)(68, 9) for snake and (13, 3) for food
+User input received: no input received
+Snake @ (57, 5)(71, 5)(71, 9)(69, 9) going LEFT
+Food  @ (13, 3)
+Score @ 24
+now painting @(57, 5)(71, 5)(71, 9)(69, 9) for snake and (13, 3) for food
+User input received: no input received
+Snake @ (56, 5)(71, 5)(71, 9)(70, 9) going LEFT
+Food  @ (13, 3)
+Score @ 24
+now painting @(56, 5)(71, 5)(71, 9)(70, 9) for snake and (13, 3) for food
+User input received: no input received
+Snake @ (55, 5)(71, 5)(71, 9) going LEFT
+Food  @ (13, 3)
+Score @ 24
+now painting @(55, 5)(71, 5)(71, 9) for snake and (13, 3) for food
+User input received: no input received
+Snake @ (54, 5)(71, 5)(71, 8) going LEFT
+Food  @ (13, 3)
+Score @ 24
+now painting @(54, 5)(71, 5)(71, 8) for snake and (13, 3) for food
+User input received: no input received
+Snake @ (53, 5)(71, 5)(71, 7) going LEFT
+Food  @ (13, 3)
+Score @ 24
+now painting @(53, 5)(71, 5)(71, 7) for snake and (13, 3) for food
+User input received: no input received
+Snake @ (52, 5)(71, 5)(71, 6) going LEFT
+Food  @ (13, 3)
+Score @ 24
+now painting @(52, 5)(71, 5)(71, 6) for snake and (13, 3) for food
+User input received: quit
+inside destructor of GameEngine!
 ------end------

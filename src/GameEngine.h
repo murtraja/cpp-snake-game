@@ -11,29 +11,29 @@
 #include "Food.h"
 #include "RandomNumberGenerator.h"
 #include "DebugPrinter.h"
+#include "UserInterface.h"
 #include <time.h>
 #include <iostream>
 using namespace std;
 class GameEngine {
-	int xMax = 79;
-	int yMax = 23;
+	Point maxBounds;
+	DebugPrinter dp;
 	Snake snake;
 	Food food;
 	RandomNumberGenerator randomizer;
+	UserInterface ui;
 	int score = 0;
-	DebugPrinter &dp;
 
 public:
-	Point getSnakePosition(){return snake.position;}
+	vector<Point> getSnakePosition(){return snake.turnPoints;}
 	Point getFoodPosition(){return food.position;}
-	int getXMax(){return xMax;}
-	int getYMax(){return yMax;}
 	void initializeGame();
 	void changeSnakeDirection(Direction direction);
-	void update(Direction direction);
-	bool isValid(Point position);
+	void update(Input direction);
 	void printState();
-	GameEngine(DebugPrinter&);
+	GameEngine();
+	Direction getDirectionFromInput(Input);
+	void run();
 	~GameEngine();
 };
 

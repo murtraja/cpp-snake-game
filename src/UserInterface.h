@@ -8,23 +8,25 @@
 #ifndef USERINTERFACE_H_
 #define USERINTERFACE_H_
 #include <ncurses.h>
+#include <vector>
 #include "Direction.h"
 #include "Point.h"
 #include "DebugPrinter.h"
+#include "UserInput.h"
 /*
  * planning to make three windows
  * one for border, one for the game
  * and the other for score and status, etc.
  */
 class UserInterface {
-	int xMax, yMax;
+	Point maxBounds;
 	int symbolSnake = ACS_DIAMOND;
 	int symbolFood = ACS_PLUS;
 	DebugPrinter& dp;
 public:
-	UserInterface(int, int, DebugPrinter&);
-	void paint(Point snakePosition, Point foodPosition);
-	Direction getUserInput();
+	UserInterface(Point, DebugPrinter&);
+	void paint(vector<Point>& snakePosition, Point& foodPosition);
+	Input getUserInput();
 	~UserInterface();
 };
 

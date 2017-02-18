@@ -7,7 +7,7 @@
 
 #include "UserInterface.h"
 
-UserInterface::UserInterface(int xMax, int yMax, DebugPrinter& dPrinter) : xMax(xMax), yMax(yMax), dp(dPrinter) {
+UserInterface::UserInterface(Point maxBounds, DebugPrinter& dPrinter) : maxBounds(maxBounds), dp(dPrinter) {
 	initscr();                      /* Start curses mode            */
 	raw();                          /* Line buffering disabled      */
 	keypad(stdscr, TRUE);           /* We get F1, F2 etc..          */
@@ -22,27 +22,37 @@ UserInterface::~UserInterface() {
 	endwin();
 }
 
-void UserInterface::paint(Point snakePosition, Point foodPosition) {
+void UserInterface::paint(vector<Point>& snakePosition, Point& foodPosition) {
 	clear();
 	dp<<"now painting @"<<snakePosition<<" for snake and "<<foodPosition<<" for food\n";
-	mvaddch(snakePosition.y, snakePosition.x, 's');
+	for(unsigned int i=0; i<snakePosition.size()-1; i++) {
+		Point current = snakePosition[i];
+		Point next = snakePosition[i+1];
+		if(current.x == next.x) {
+			mvvline(min(current.y, next.y), current.x, 's', abs(current-next)+1);
+		}
+		else if(current.y == next.y) {
+			mvhline(current.y, min(current.x, next.x), 's', abs(current-next)+1);
+		}
+	}
+
 	mvaddch(foodPosition.y, foodPosition.x, 'f');
 	refresh();
 }
 
-Direction UserInterface::getUserInput() {
+Input UserInterface::getUserInput() {
 	int ch = getch();
 	switch(ch) {
 	case KEY_LEFT:
-		return Direction::left;
+		return Input::goLeft;
 	case KEY_RIGHT:
-		return Direction::right;
+		return Input::goRight;
 	case KEY_DOWN:
-		return Direction::down;
+		return Input::goDown;
 	case KEY_UP:
-		return Direction::up;
+		return Input::goUp;
 	case 'q':
-		return Direction::quit;
+		return Input::quit;
 	}
-	return Direction::previous;
+	return Input::noInput;
 }

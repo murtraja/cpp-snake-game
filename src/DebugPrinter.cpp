@@ -7,7 +7,7 @@
 
 #include "DebugPrinter.h"
 
-DebugPrinter::DebugPrinter() : ofs(fileName, ofstream::out | ofstream::ate){
+DebugPrinter::DebugPrinter() : ofs(fileName, ofstream::out){
 	ofs<<"-----start-----\n";
 }
 
@@ -21,10 +21,12 @@ void DebugPrinter::print(string message) {
 }
 DebugPrinter& DebugPrinter::operator<<(string str) {
 	ofs<<str;
+	ofs.flush();
 	return *this;
 }
 DebugPrinter& DebugPrinter::operator<<(int num) {
 	ofs<<num;
+	ofs.flush();
 	return *this;
 }
 DebugPrinter& DebugPrinter::operator<<(Direction direction) {
@@ -46,9 +48,48 @@ DebugPrinter& DebugPrinter::operator<<(Direction direction) {
 		str = "UNKNOWN";
 	}
 	ofs<<str;
+	ofs.flush();
+	return *this;
+}
+DebugPrinter& DebugPrinter::operator<<(Input input) {
+	string str;
+	switch(input) {
+	case Input::goUp:
+		str = "Go UP";
+		break;
+	case Input::goDown:
+		str = "Go DOWN";
+		break;
+	case Input::goLeft:
+		str = "Go LEFT";
+		break;
+	case Input::goRight:
+		str = "Go RIGHT";
+		break;
+	case Input::restart:
+		str = "restart";
+		break;
+	case Input::quit:
+		str = "quit";
+		break;
+	case Input::noInput:
+		str = "no input received";
+		break;
+	default:
+		str = "UNKNOWN";
+	}
+	ofs<<str;
+	ofs.flush();
 	return *this;
 }
 DebugPrinter& DebugPrinter::operator<<(Point point) {
 	ofs<<"("<<point.x<<", "<<point.y<<")";
+	ofs.flush();
+	return *this;
+}
+DebugPrinter& DebugPrinter::operator<<(vector<Point> points) {
+	for(Point point: points) {
+		*this<<point;
+	}
 	return *this;
 }
