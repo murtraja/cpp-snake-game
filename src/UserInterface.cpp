@@ -12,7 +12,7 @@ UserInterface::UserInterface(Point maxBounds, DebugPrinter& dPrinter) : maxBound
 	raw();                          /* Line buffering disabled      */
 	keypad(stdscr, TRUE);           /* We get F1, F2 etc..          */
 	noecho();
-	halfdelay(9);
+	halfdelay(3);
 	curs_set(0);
 }
 
